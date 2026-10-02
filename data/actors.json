@@ -1,0 +1,850 @@
+[
+  {
+    "id": "project_amiens_petit_caux",
+    "type": "project",
+    "name": "Ligne THT Amiens – Petit-Caux",
+    "short_name": "Ligne THT Amiens – Petit-Caux",
+    "description": "Projet de nouvelle ligne électrique 400 kV entre Petit-Caux et Amiens, porté par RTE.",
+    "roles": [
+      {
+        "label": "Projet central"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0001",
+    "type": "organization",
+    "name": "Stop THT 76-80",
+    "short_name": "Stop THT 76-80",
+    "description": "Association / collectif citoyen",
+    "roles": [
+      {
+        "label": "Association / collectif citoyen"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0002",
+    "type": "organization",
+    "name": "Associations nationales de défense de l’environnement",
+    "short_name": "Associations nationales de défense de l’environnement",
+    "description": "Réseau associatif",
+    "roles": [
+      {
+        "label": "Réseau associatif"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0003",
+    "type": "person",
+    "name": "Sylvain Finet",
+    "short_name": "Sylvain Finet",
+    "description": "Président de Stop THT 76-80",
+    "roles": [
+      {
+        "label": "Président de Stop THT 76-80"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0004",
+    "type": "person",
+    "name": "Francine Adam",
+    "short_name": "Francine Adam",
+    "description": "Riveraine de Touffreville-sur-Eu",
+    "roles": [
+      {
+        "label": "Riveraine de Touffreville-sur-Eu"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0005",
+    "type": "person",
+    "name": "José Adam",
+    "short_name": "José Adam",
+    "description": "Riverain de Touffreville-sur-Eu",
+    "roles": [
+      {
+        "label": "Riverain de Touffreville-sur-Eu"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0006",
+    "type": "person",
+    "name": "Mathieu Massy",
+    "short_name": "Mathieu Massy",
+    "description": "Agriculteur",
+    "roles": [
+      {
+        "label": "Agriculteur"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0007",
+    "type": "person",
+    "name": "Reynald Massy",
+    "short_name": "Reynald Massy",
+    "description": "Éleveur",
+    "roles": [
+      {
+        "label": "Éleveur"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0008",
+    "type": "person",
+    "name": "Christine Rodier",
+    "short_name": "Christine Rodier",
+    "description": "Maire de Millebosc",
+    "roles": [
+      {
+        "label": "Maire de Millebosc"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0009",
+    "type": "person",
+    "name": "Rollon Mouchel-Blaisot",
+    "short_name": "Rollon Mouchel-Blaisot",
+    "description": "Préfet de la Somme",
+    "roles": [
+      {
+        "label": "Préfet de la Somme"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0010",
+    "type": "person",
+    "name": "Emmanuel Moulard",
+    "short_name": "Emmanuel Moulard",
+    "description": "Secrétaire général de la préfecture de la Somme",
+    "roles": [
+      {
+        "label": "Secrétaire général de la préfecture de la Somme"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0011",
+    "type": "organization",
+    "name": "Maire de Touffreville-sur-Eu",
+    "short_name": "Maire de Touffreville-sur-Eu",
+    "description": "Édile local non nommé",
+    "roles": [
+      {
+        "label": "Édile local non nommé"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0012",
+    "type": "organization",
+    "name": "FDSEA 80",
+    "short_name": "FDSEA 80",
+    "description": "Syndicat agricole de la Somme",
+    "roles": [
+      {
+        "label": "Syndicat agricole de la Somme"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0013",
+    "type": "organization",
+    "name": "FDSEA Seine-Maritime",
+    "short_name": "FDSEA Seine-Maritime",
+    "description": "Syndicat agricole de Seine-Maritime",
+    "roles": [
+      {
+        "label": "Syndicat agricole de Seine-Maritime"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0014",
+    "type": "person",
+    "name": "JA 80",
+    "short_name": "JA 80",
+    "description": "Jeunes Agriculteurs de la Somme",
+    "roles": [
+      {
+        "label": "Jeunes Agriculteurs de la Somme"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0015",
+    "type": "organization",
+    "name": "FNSEA 76",
+    "short_name": "FNSEA 76",
+    "description": "Syndicat agricole",
+    "roles": [
+      {
+        "label": "Syndicat agricole"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0016",
+    "type": "organization",
+    "name": "Chambre d’agriculture de la Somme",
+    "short_name": "Chambre d’agriculture de la Somme",
+    "description": "Institution consulaire",
+    "roles": [
+      {
+        "label": "Institution consulaire"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0017",
+    "type": "organization",
+    "name": "Propriétaires ruraux / PPR",
+    "short_name": "Propriétaires ruraux / PPR",
+    "description": "Organisation foncière",
+    "roles": [
+      {
+        "label": "Organisation foncière"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0018",
+    "type": "organization",
+    "name": "CGB 80",
+    "short_name": "CGB 80",
+    "description": "Syndicat betteravier",
+    "roles": [
+      {
+        "label": "Syndicat betteravier"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0019",
+    "type": "organization",
+    "name": "RTE",
+    "short_name": "RTE",
+    "description": "Gestionnaire du réseau de transport",
+    "roles": [
+      {
+        "label": "Gestionnaire du réseau de transport"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0020",
+    "type": "organization",
+    "name": "Enedis",
+    "short_name": "Enedis",
+    "description": "Gestionnaire du réseau de distribution",
+    "roles": [
+      {
+        "label": "Gestionnaire du réseau de distribution"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0021",
+    "type": "organization",
+    "name": "EDF",
+    "short_name": "EDF",
+    "description": "Groupe énergétique",
+    "roles": [
+      {
+        "label": "Groupe énergétique"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0022",
+    "type": "organization",
+    "name": "Préfecture de la Somme",
+    "short_name": "Préfecture de la Somme",
+    "description": "Représentation de l’État",
+    "roles": [
+      {
+        "label": "Représentation de l’État"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0023",
+    "type": "organization",
+    "name": "Préfecture de Seine-Maritime",
+    "short_name": "Préfecture de Seine-Maritime",
+    "description": "Représentation de l’État",
+    "roles": [
+      {
+        "label": "Représentation de l’État"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0024",
+    "type": "organization",
+    "name": "Autorité environnementale",
+    "short_name": "Autorité environnementale",
+    "description": "Instance de contrôle",
+    "roles": [
+      {
+        "label": "Instance de contrôle"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0025",
+    "type": "organization",
+    "name": "Commission indépendante d’indemnisation",
+    "short_name": "Commission indépendante d’indemnisation",
+    "description": "Instance d’évaluation",
+    "roles": [
+      {
+        "label": "Instance d’évaluation"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0026",
+    "type": "organization",
+    "name": "CNDP",
+    "short_name": "CNDP",
+    "description": "Commission nationale du débat public",
+    "roles": [
+      {
+        "label": "Commission nationale du débat public"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0027",
+    "type": "organization",
+    "name": "Commission d’enquête publique",
+    "short_name": "Commission d’enquête publique",
+    "description": "Instance de consultation",
+    "roles": [
+      {
+        "label": "Instance de consultation"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0028",
+    "type": "person",
+    "name": "Cyril Wagner",
+    "short_name": "Cyril Wagner",
+    "description": "Directeur adjoint ingénierie RTE Hauts-de-France",
+    "roles": [
+      {
+        "label": "Directeur adjoint ingénierie RTE Hauts-de-France"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0029",
+    "type": "organization",
+    "name": "Eiffage",
+    "short_name": "Eiffage",
+    "description": "Groupe de travaux publics",
+    "roles": [
+      {
+        "label": "Groupe de travaux publics"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0031",
+    "type": "place",
+    "name": "Forêt d’Eu",
+    "short_name": "Forêt d’Eu",
+    "description": "Espace forestier traversé par le tracé contesté.",
+    "roles": [
+      {
+        "label": "Espace forestier traversé par le tracé contesté."
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0032",
+    "type": "place",
+    "name": "Petit-Caux",
+    "short_name": "Petit-Caux",
+    "description": "Point d’arrivée du projet côté Seine-Maritime.",
+    "roles": [
+      {
+        "label": "Point d’arrivée du projet côté Seine-Maritime."
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0033",
+    "type": "place",
+    "name": "Amiens",
+    "short_name": "Amiens",
+    "description": "Point de connexion du projet côté Somme.",
+    "roles": [
+      {
+        "label": "Point de connexion du projet côté Somme."
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0034",
+    "type": "infrastructure",
+    "name": "EPR2 de Penly",
+    "short_name": "EPR2 de Penly",
+    "description": "Justification énergétique liée aux futurs besoins de raccordement.",
+    "roles": [
+      {
+        "label": "Justification énergétique liée aux futurs besoins de raccordement."
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0035",
+    "type": "infrastructure",
+    "name": "Parcs éoliens",
+    "short_name": "Parcs éoliens",
+    "description": "Parcs dont le raccordement est associé à la justification du projet.",
+    "roles": [
+      {
+        "label": "Parcs dont le raccordement est associé à la justification du projet."
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0036",
+    "type": "issue",
+    "name": "Déforestation et biodiversité",
+    "short_name": "Déforestation et biodiversité",
+    "description": "Destruction annoncée de plusieurs hectares de forêt et atteinte aux espaces naturels.",
+    "roles": [
+      {
+        "label": "Destruction annoncée de plusieurs hectares de forêt et atteinte aux espaces naturels."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0037",
+    "type": "issue",
+    "name": "Busard cendré",
+    "short_name": "Busard cendré",
+    "description": "Espèce protégée citée dans les inquiétudes environnementales.",
+    "roles": [
+      {
+        "label": "Espèce protégée citée dans les inquiétudes environnementales."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0038",
+    "type": "issue",
+    "name": "Artificialisation et paysage",
+    "short_name": "Artificialisation et paysage",
+    "description": "Implantation de pylônes de grande hauteur dans des secteurs ruraux et forestiers.",
+    "roles": [
+      {
+        "label": "Implantation de pylônes de grande hauteur dans des secteurs ruraux et forestiers."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0039",
+    "type": "issue",
+    "name": "Cadre de vie",
+    "short_name": "Cadre de vie",
+    "description": "Nuisances visuelles et proximité des habitations.",
+    "roles": [
+      {
+        "label": "Nuisances visuelles et proximité des habitations."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0040",
+    "type": "issue",
+    "name": "Dévalorisation immobilière",
+    "short_name": "Dévalorisation immobilière",
+    "description": "Crainte de perte de valeur des maisons riveraines.",
+    "roles": [
+      {
+        "label": "Crainte de perte de valeur des maisons riveraines."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0041",
+    "type": "issue",
+    "name": "Impacts agricoles",
+    "short_name": "Impacts agricoles",
+    "description": "Contraintes de circulation, pertes de productivité et atteintes aux exploitations.",
+    "roles": [
+      {
+        "label": "Contraintes de circulation, pertes de productivité et atteintes aux exploitations."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0042",
+    "type": "issue",
+    "name": "Perte de chance économique",
+    "short_name": "Perte de chance économique",
+    "description": "Projets empêchés ou dégradés par les servitudes.",
+    "roles": [
+      {
+        "label": "Projets empêchés ou dégradés par les servitudes."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0043",
+    "type": "issue",
+    "name": "Insuffisance des indemnisations",
+    "short_name": "Insuffisance des indemnisations",
+    "description": "Contestation des montants proposés.",
+    "roles": [
+      {
+        "label": "Contestation des montants proposés."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0044",
+    "type": "issue",
+    "name": "Justification énergétique contestée",
+    "short_name": "Justification énergétique contestée",
+    "description": "Besoins avancés par RTE contestés par certains opposants.",
+    "roles": [
+      {
+        "label": "Besoins avancés par RTE contestés par certains opposants."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0045",
+    "type": "issue",
+    "name": "Concertation jugée insuffisante",
+    "short_name": "Concertation jugée insuffisante",
+    "description": "Critique des alternatives étudiées et du processus de décision.",
+    "roles": [
+      {
+        "label": "Critique des alternatives étudiées et du processus de décision."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0046",
+    "type": "issue",
+    "name": "Sacrifice territorial",
+    "short_name": "Sacrifice territorial",
+    "description": "Sentiment que les territoires traversés supportent les nuisances sans bénéfices directs.",
+    "roles": [
+      {
+        "label": "Sentiment que les territoires traversés supportent les nuisances sans bénéfices directs."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0047",
+    "type": "media",
+    "name": "ICI Normandie / Radio France",
+    "short_name": "ICI Normandie / Radio France",
+    "description": "Média public régional.",
+    "roles": [
+      {
+        "label": "Média public régional."
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0048",
+    "type": "media",
+    "name": "Le Parisien",
+    "short_name": "Le Parisien",
+    "description": "Quotidien national.",
+    "roles": [
+      {
+        "label": "Quotidien national."
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0049",
+    "type": "media",
+    "name": "Actu.fr",
+    "short_name": "Actu.fr",
+    "description": "Média local.",
+    "roles": [
+      {
+        "label": "Média local."
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0050",
+    "type": "media",
+    "name": "Courrier Picard",
+    "short_name": "Courrier Picard",
+    "description": "Quotidien régional.",
+    "roles": [
+      {
+        "label": "Quotidien régional."
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0051",
+    "type": "media",
+    "name": "Action Agricole Picarde",
+    "short_name": "Action Agricole Picarde",
+    "description": "Presse professionnelle agricole.",
+    "roles": [
+      {
+        "label": "Presse professionnelle agricole."
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0052",
+    "type": "media",
+    "name": "RTE France",
+    "short_name": "RTE France",
+    "description": "Source institutionnelle du projet.",
+    "roles": [
+      {
+        "label": "Source institutionnelle du projet."
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0053",
+    "type": "media",
+    "name": "CNDP source",
+    "short_name": "CNDP source",
+    "description": "Source institutionnelle relative à la concertation.",
+    "roles": [
+      {
+        "label": "Source institutionnelle relative à la concertation."
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  }
+]

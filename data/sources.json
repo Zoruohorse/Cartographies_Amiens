@@ -1,0 +1,58 @@
+[
+  {
+    "id": "source_0001",
+    "title": "ICI Normandie / Radio France",
+    "publisher": "ICI Normandie / Radio France",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0002",
+    "title": "Le Parisien",
+    "publisher": "Le Parisien",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0003",
+    "title": "Actu.fr",
+    "publisher": "Actu.fr",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0004",
+    "title": "Courrier Picard",
+    "publisher": "Courrier Picard",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0005",
+    "title": "Action Agricole Picarde",
+    "publisher": "Action Agricole Picarde",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0006",
+    "title": "RTE France",
+    "publisher": "RTE France",
+    "url": null,
+    "source_type": "institutional",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0007",
+    "title": "CNDP",
+    "publisher": "CNDP",
+    "url": null,
+    "source_type": "institutional",
+    "status": "url_to_add"
+  }
+]

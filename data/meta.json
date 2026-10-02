@@ -1,0 +1,55 @@
+{
+  "id": "project_amiens_petit_caux",
+  "title": "Cartographie interactive — Ligne THT Amiens – Petit-Caux",
+  "subtitle": "Projet de nouvelle ligne électrique 400 kV, opposition locale, monde agricole, RTE et institutions.",
+  "last_updated": "2026-10-02",
+  "data_notice": "Les éléments sont repris des deux fichiers fournis. Les URL et justifications documentaires absentes restent explicitement à qualifier.",
+  "griefs": [
+    {
+      "title": "🌲 Déforestation et biodiversité",
+      "text": "Crainte liée à la destruction de plusieurs hectares de la forêt d’Eu et aux atteintes aux espaces naturels."
+    },
+    {
+      "title": "🦅 Menace sur le Busard cendré",
+      "text": "Espèce protégée régulièrement citée dans les inquiétudes environnementales."
+    },
+    {
+      "title": "🏗️ Artificialisation et paysage",
+      "text": "Rejet de pylônes de grande hauteur transformant des secteurs ruraux et forestiers."
+    },
+    {
+      "title": "🏡 Dégradation du cadre de vie",
+      "text": "Nuisances visuelles, proximité des habitations et effets redoutés."
+    },
+    {
+      "title": "📉 Dévalorisation immobilière",
+      "text": "Crainte d’une diminution de la valeur des biens à proximité du tracé."
+    },
+    {
+      "title": "🚜 Impacts agricoles",
+      "text": "Contraintes de circulation, pertes de productivité et atteintes aux exploitations."
+    },
+    {
+      "title": "💶 Insuffisance des indemnisations",
+      "text": "Contestation des barèmes proposés au regard des préjudices durables."
+    },
+    {
+      "title": "⚡ Justification contestée",
+      "text": "Certains opposants contestent les besoins avancés pour justifier l’infrastructure."
+    },
+    {
+      "title": "🗣️ Déficit de concertation",
+      "text": "Critique d’un processus où les solutions alternatives seraient insuffisamment étudiées."
+    },
+    {
+      "title": "⚖️ Sacrifice territorial",
+      "text": "Les territoires traversés estiment supporter les nuisances d’un projet d’intérêt national."
+    }
+  ],
+  "vigilance": [
+    "Le front agricole conteste surtout les protocoles d’indemnisation, sans opposition systématique au principe de la ligne.",
+    "La traversée de la forêt d’Eu cristallise l’opposition locale et municipale.",
+    "Le rattachement aux besoins de l’EPR2 et des parcs éoliens renforce le sentiment d’urgence imposée.",
+    "La revendication d’enfouissement doit être comparée aux contraintes techniques, environnementales, financières et calendaires."
+  ]
+}
