@@ -1,263 +1,767 @@
 [
   {
     "id": "evidence_0001",
-    "type": "summary",
-    "text": "Centralise la contestation locale contre les impacts environnementaux et paysagers.",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "type": "documented_summary",
+    "text": "Dans sa contribution, STOP THT 76-80 conteste les scénarios 2/2’, 3 et 4, refuse la traversée de la forêt d’Eu et expose les raisons de sa préférence pour le scénario 1.",
+    "source_id": "source_0008",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": null,
+    "source_ids": [
+      "source_0008"
+    ],
+    "location": "Contribution STOP THT, présentation du collectif et scénarios",
+    "verification": "web_indexed",
+    "qualification_strategy": "original_excel"
   },
   {
     "id": "evidence_0002",
-    "type": "summary",
-    "text": "Apportent une légitimité nationale à la lutte locale.",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "type": "documented_summary",
+    "text": "La contribution de STOP THT cite nommément plusieurs soutiens, dont le Groupement national de surveillance des arbres, la Société d'émulation d'Abbeville et Terre Mer Forêt. Cette fiche générique ne désigne pas une organisation juridique unique.",
+    "source_id": "source_0008",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": null,
+    "source_ids": [
+      "source_0008"
+    ],
+    "location": "Contribution STOP THT, section « Le collectif »",
+    "verification": "web_indexed",
+    "qualification_strategy": "original_excel"
   },
   {
     "id": "evidence_0003",
-    "type": "summary",
-    "text": "Figure de proue de l’opposition associative.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "Sylvain Finet, porte-parole de STOP THT 76-80, critique les justifications avancées, dénonce la traversée de la forêt d’Eu et annonce l'examen de recours lors des prochaines procédures environnementales.",
+    "source_id": "source_0009",
+    "source_status": "qualified",
+    "published_at": "2026-06-10",
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0009"
+    ],
+    "location": "Article du 10 juin 2026, entretien avec Sylvain Finet",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
   },
   {
     "id": "evidence_0004",
-    "type": "summary",
-    "text": "Témoignage direct sur la dégradation du cadre de vie.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "Francine Adam et José Adam déclarent refuser la ligne annoncée à environ 70 mètres derrière leur habitation et craindre la perte d'arbres et une baisse de valeur immobilière ; la baisse annoncée est leur estimation, non une expertise.",
+    "source_id": "source_0009",
+    "source_status": "qualified",
+    "published_at": "2026-06-10",
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0009"
+    ],
+    "location": "Article du 10 juin 2026, témoignage de Francine et José Adam",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
   },
   {
     "id": "evidence_0005",
-    "type": "summary",
-    "text": "Témoignage d’opposition locale directe.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "José Adam et Francine Adam contestent le passage annoncé à environ 70 mètres de leur maison et expriment leur inquiétude pour les arbres, l'environnement et le patrimoine immobilier.",
+    "source_id": "source_0009",
+    "source_status": "qualified",
+    "published_at": "2026-06-10",
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0009"
+    ],
+    "location": "Article du 10 juin 2026, témoignage du couple Adam",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
   },
   {
     "id": "evidence_0006",
-    "type": "summary",
-    "text": "Représente la fronde des exploitants directement impactés.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "Mathieu Massy, exploitant du secteur concerné, est présenté parmi les agriculteurs qui refusent l'implantation de pylônes et redoutent les conséquences sur leurs activités et leurs parcelles.",
+    "source_id": "source_0009",
+    "source_status": "qualified",
+    "published_at": "2026-06-10",
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0009"
+    ],
+    "location": "Article du 10 juin 2026, témoignages des exploitants Massy",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
   },
   {
     "id": "evidence_0007",
-    "type": "summary",
-    "text": "Inquiétudes liées au bien-être animal et à l’écosystème local.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "Reynald Massy témoigne des effets anticipés de la ligne sur ses terres et de la suppression possible d'un bosquet servant de protection à son élevage ; il conteste le passage envisagé.",
+    "source_id": "source_0009",
+    "source_status": "qualified",
+    "published_at": "2026-06-10",
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0009"
+    ],
+    "location": "Article du 10 juin 2026, témoignages des exploitants Massy",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
   },
   {
     "id": "evidence_0008",
-    "type": "summary",
-    "text": "Opposition municipale officielle fondée sur la défense du patrimoine naturel.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "Christine Rodier, maire de Millebosc, dénonce la destruction forestière envisagée et s'oppose au passage de la ligne au détriment de la forêt d’Eu.",
+    "source_id": "source_0009",
+    "source_status": "qualified",
+    "published_at": "2026-06-10",
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0009"
+    ],
+    "location": "Article du 10 juin 2026, intervention de la maire",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
   },
   {
     "id": "evidence_0009",
-    "type": "summary",
-    "text": "Porte la position institutionnelle de l’État.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "Le préfet Rollon Mouchel-Blaisot rappelle l'intérêt national du projet lors de la réception des représentants agricoles du 18 février 2026 et prend acte du blocage des discussions indemnitaires.",
+    "source_id": "source_0011",
+    "source_status": "qualified",
+    "published_at": "2026-02-19",
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0011"
+    ],
+    "location": "Article du 19 février 2026, rencontre avec le préfet",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
   },
   {
     "id": "evidence_0010",
-    "type": "summary",
-    "text": "Gère le volet administratif et compensatoire.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "Emmanuel Moulard, secrétaire général de la préfecture de la Somme, intervient sur les mesures d'accompagnement et le plan d'accompagnement du projet face aux revendications agricoles.",
+    "source_id": "source_0011",
+    "source_status": "qualified",
+    "published_at": "2026-02-19",
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0011"
+    ],
+    "location": "Article du 19 février 2026, échanges en préfecture",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
   },
   {
     "id": "evidence_0011",
-    "type": "summary",
-    "text": "Présence institutionnelle sans prise de position explicite.",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "type": "documented_summary",
+    "text": "Le registre national BANATIC identifie Jérôme Massy comme maire de Touffreville-sur-Eu. Cette preuve établit une identité et une fonction, pas une position pour ou contre la ligne.",
+    "source_id": "source_0026",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0026"
+    ],
+    "location": "Fiche BANATIC 76703, rubrique « Maire »",
+    "verification": "web_consulted",
+    "qualification_strategy": "equivalent_primary"
   },
   {
     "id": "evidence_0012",
-    "type": "summary",
-    "text": "Pression syndicale ciblée sur les compensations financières.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "La FDSEA de la Somme, avec les autres représentants agricoles, a suspendu les discussions avec RTE faute d'une indemnisation jugée suffisante des préjudices durables et de la perte de chance.",
+    "source_id": "source_0011",
+    "source_status": "qualified",
+    "published_at": "2026-02-19",
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0011"
+    ],
+    "location": "Article du 19 février 2026, délégation agricole et indemnités",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
   },
   {
     "id": "evidence_0013",
-    "type": "summary",
-    "text": "Défense des intérêts fonciers des exploitants.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "La profession agricole de Seine-Maritime s'organise avec ses homologues de la Somme pour négocier les barèmes, les servitudes et les préjudices d'exploitation associés à la liaison.",
+    "source_id": "source_0012",
+    "source_status": "qualified",
+    "published_at": "2025-06-23",
+    "accessed_at": null,
+    "source_ids": [
+      "source_0012"
+    ],
+    "location": "Article du 23 juin 2025, concertation avec les organisations agricoles",
+    "verification": "web_indexed",
+    "qualification_strategy": "canonical_original_recovered"
   },
   {
     "id": "evidence_0014",
-    "type": "summary",
-    "text": "Alerte sur la pérennité économique des jeunes exploitations.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "Des représentants des Jeunes Agriculteurs de la Somme, dont Quentin Porquier, demandent une indemnisation adaptée des pertes et contraintes, lors de la mobilisation du 18 février 2026.",
+    "source_id": "source_0011",
+    "source_status": "qualified",
+    "published_at": "2026-02-19",
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0011"
+    ],
+    "location": "Article du 19 février 2026, témoignage des JA 80",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
   },
   {
     "id": "evidence_0015",
-    "type": "summary",
-    "text": "Relais institutionnel de la contestation foncière.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "Dans son communiqué du 11 mars 2026, la FNSEA 76 demande expressément que la réalisation de la ligne 400 kV respecte les intérêts et les droits des agriculteurs concernés.",
+    "source_id": "source_0015",
+    "source_status": "qualified",
+    "published_at": "2026-03-11",
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0015"
+    ],
+    "location": "Communiqué FNSEA 76 du 11 mars 2026",
+    "verification": "web_consulted",
+    "qualification_strategy": "equivalent_primary"
   },
   {
     "id": "evidence_0016",
-    "type": "summary",
-    "text": "Cadre de négociation institutionnelle.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "La Chambre d'agriculture de la Somme a adopté une motion demandant une révision approfondie des propositions d'indemnisation des agriculteurs affectés par la future ligne de 400 kV.",
+    "source_id": "source_0016",
+    "source_status": "qualified",
+    "published_at": "2025-11-25",
+    "accessed_at": null,
+    "source_ids": [
+      "source_0016"
+    ],
+    "location": "Article du 25 novembre 2025, motion de la Chambre d'agriculture",
+    "verification": "web_indexed",
+    "qualification_strategy": "equivalent_documented"
   },
   {
     "id": "evidence_0017",
-    "type": "summary",
-    "text": "Défense de la valeur du capital foncier.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "Les représentants des propriétaires privés ruraux participent aux discussions collectives sur les servitudes, pertes de valeur et indemnisations, aux côtés des organisations agricoles de la Somme.",
+    "source_id": "source_0011",
+    "source_status": "qualified",
+    "published_at": "2026-02-19",
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0011"
+    ],
+    "location": "Article du 19 février 2026, participants aux discussions agricoles",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
   },
   {
     "id": "evidence_0018",
-    "type": "summary",
-    "text": "Point de vigilance technique et logistique agricole.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "Le syndicat betteravier CGB 80 figure dans la délégation agricole et expose les préjudices possibles liés aux pylônes, notamment les contraintes logistiques en parcelles et les pertes d'opportunité.",
+    "source_id": "source_0011",
+    "source_status": "qualified",
+    "published_at": "2026-02-19",
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0011"
+    ],
+    "location": "Article du 19 février 2026, contribution des représentants betteraviers",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
   },
   {
     "id": "evidence_0019",
-    "type": "summary",
-    "text": "Maître d’ouvrage défendant l’utilité publique de la ligne.",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "type": "documented_summary",
+    "text": "RTE présente une ligne aérienne d'environ 80 km à deux circuits 400 kV entre Argœuves et Navarre, devant apporter 6 000 MW supplémentaires de capacité de transport pour un investissement global annoncé de 390 M€.",
+    "source_id": "source_0018",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0018"
+    ],
+    "location": "RTE, fiche projet, chiffres clés et objectifs",
+    "verification": "web_consulted",
+    "qualification_strategy": "equivalent_primary"
   },
   {
     "id": "evidence_0020",
-    "type": "summary",
-    "text": "Partenaire technique du réseau.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "La documentation d'enquête distingue le projet de ligne 400 kV porté par RTE et les aménagements connexes du réseau de distribution, notamment le poste de Bresle en lien avec Enedis.",
+    "source_id": "source_0020",
+    "source_status": "qualified",
+    "published_at": "2025-10-30",
+    "accessed_at": null,
+    "source_ids": [
+      "source_0020"
+    ],
+    "location": "Commission d'enquête, présentation des ouvrages et maîtres d'ouvrage",
+    "verification": "web_indexed",
+    "qualification_strategy": "equivalent_primary"
   },
   {
     "id": "evidence_0021",
-    "type": "summary",
-    "text": "Lien structurel avec les besoins de raccordement nucléaire.",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "type": "documented_summary",
+    "text": "EDF documente les procédures relatives aux nouveaux réacteurs EPR2 de Penly. Il s'agit d'un projet lié sur le plan électrique mais distinct de la ligne Amiens–Petit-Caux portée par RTE.",
+    "source_id": "source_0023",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": null,
+    "source_ids": [
+      "source_0023"
+    ],
+    "location": "Communication EDF sur la procédure du projet EPR2 Penly",
+    "verification": "web_indexed",
+    "qualification_strategy": "equivalent_primary"
   },
   {
     "id": "evidence_0022",
-    "type": "summary",
-    "text": "Instance de régulation et de validation administrative.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "L'arrêté ministériel du 8 juin 2026 déclare d'utilité publique la ligne Argœuves–Navarre et mentionne les deux départements traversés. La préfecture de la Somme intervient dans l'instruction et la coordination administrative.",
+    "source_id": "source_0021",
+    "source_status": "qualified",
+    "published_at": "2026-06-11",
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0021"
+    ],
+    "location": "Arrêté ministériel, dispositif et territoires",
+    "verification": "web_consulted",
+    "qualification_strategy": "equivalent_primary"
   },
   {
     "id": "evidence_0023",
-    "type": "summary",
-    "text": "Cadrage légal et administratif.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "Les conclusions de l'enquête publique 2025 identifient les territoires de Seine-Maritime soumis à la procédure, sous le contrôle des autorités administratives compétentes.",
+    "source_id": "source_0020",
+    "source_status": "qualified",
+    "published_at": "2025-10-30",
+    "accessed_at": null,
+    "source_ids": [
+      "source_0020"
+    ],
+    "location": "Rapport de la commission d'enquête du 30 octobre 2025",
+    "verification": "web_indexed",
+    "qualification_strategy": "equivalent_primary"
   },
   {
     "id": "evidence_0024",
-    "type": "summary",
-    "text": "Acteur clé de l’évaluation des impacts sur la forêt d’Eu.",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "type": "documented_summary",
+    "text": "La préfecture de la Somme met à disposition l'avis de l'Autorité environnementale du 10 avril 2025 sur le projet de ligne ; un avis environnemental ne constitue pas une DUP.",
+    "source_id": "source_0022",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": null,
+    "source_ids": [
+      "source_0022"
+    ],
+    "location": "Page préfectorale, dossier et avis environnemental",
+    "verification": "web_indexed",
+    "qualification_strategy": "equivalent_primary"
   },
   {
     "id": "evidence_0025",
-    "type": "summary",
-    "text": "Arbitre des tensions financières entre RTE et les syndicats.",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "type": "documented_summary",
+    "text": "RTE expose les principes d'indemnisation des préjudices visuels et fonciers et la possibilité d'une appréciation indépendante des préjudices. Cette mention ne démontre pas qu'une commission locale fonctionne déjà.",
+    "source_id": "source_0018",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0018"
+    ],
+    "location": "Fiche projet RTE, questions-réponses sur les indemnisations",
+    "verification": "web_consulted",
+    "qualification_strategy": "equivalent_primary"
   },
   {
     "id": "evidence_0026",
-    "type": "summary",
-    "text": "Encadre le recueil des avis citoyens.",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "type": "documented_summary",
+    "text": "La CNDP décrit la concertation préalable du 23 novembre 2022 au 17 février 2023, la mission des garants et la suite donnée au projet jusqu'au bilan de juillet 2025.",
+    "source_id": "source_0019",
+    "source_status": "qualified",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0019"
+    ],
+    "location": "CNDP, fiche projet et documents de concertation",
+    "verification": "web_consulted",
+    "qualification_strategy": "equivalent_primary"
   },
   {
     "id": "evidence_0027",
-    "type": "summary",
-    "text": "Étape juridique et démocratique.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "La commission d'enquête a émis le 30 octobre 2025 un avis favorable sans réserve, avec quatre recommandations, après l'enquête publique sur la liaison aérienne 400 kV.",
+    "source_id": "source_0020",
+    "source_status": "qualified",
+    "published_at": "2025-10-30",
+    "accessed_at": null,
+    "source_ids": [
+      "source_0020"
+    ],
+    "location": "Rapport de conclusions et avis de la commission, 30 octobre 2025",
+    "verification": "web_indexed",
+    "qualification_strategy": "equivalent_primary"
   },
   {
     "id": "evidence_0028",
-    "type": "summary",
-    "text": "Porte-parole technique sur l’utilité du projet.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null
+    "type": "documented_summary",
+    "text": "Cyril Wagner intervient au titre de RTE dans les échanges techniques de concertation sur la ligne 400 kV Amiens–Petit-Caux, notamment lors de la réunion publique de Belloy-sur-Somme.",
+    "source_id": "source_0025",
+    "source_status": "qualified",
+    "published_at": "2024-01-25",
+    "accessed_at": null,
+    "source_ids": [
+      "source_0025"
+    ],
+    "location": "Support de réunion RTE du 25 janvier 2024",
+    "verification": "web_indexed",
+    "qualification_strategy": "equivalent_primary"
   },
   {
     "id": "evidence_0029",
-    "type": "summary",
-    "text": "Cité comme sous-traitant opérationnel.",
-    "source_id": null,
-    "source_status": "to_qualify",
+    "type": "documented_summary",
+    "text": "Un témoignage d'exploitant recueilli par Le Parisien mentionne Eiffage dans le contexte du projet. Cette mention ne permet pas à elle seule de qualifier l'entreprise de titulaire de travaux, ni de lui attribuer une position.",
+    "source_id": "source_0009",
+    "source_status": "qualified",
+    "published_at": "2026-06-10",
+    "accessed_at": "2026-11-03",
+    "source_ids": [
+      "source_0009"
+    ],
+    "location": "Article du 10 juin 2026, témoignage concernant Eiffage",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
+  },
+  {
+    "id": "evidence_0030",
+    "type": "documented_summary",
+    "text": "Le Parisien rapporte que le collectif STOP THT 76-80 se mobilise contre le tracé et prépare l'examen de recours, en particulier sur les conséquences forestières.",
+    "source_id": "source_0009",
+    "source_ids": [
+      "source_0009"
+    ],
+    "source_status": "qualified",
+    "location": "Article, mobilisation du collectif",
+    "published_at": "2026-06-10",
+    "accessed_at": "2026-11-03",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
+  },
+  {
+    "id": "evidence_0031",
+    "type": "documented_summary",
+    "text": "La contribution du collectif désigne Sylvain Finet comme porte-parole et explicite le choix du scénario 1 parmi plusieurs options de passage.",
+    "source_id": "source_0008",
+    "source_ids": [
+      "source_0008"
+    ],
+    "source_status": "qualified",
+    "location": "Contribution, présentation des représentants",
     "published_at": null,
-    "accessed_at": null
+    "accessed_at": null,
+    "verification": "web_indexed",
+    "qualification_strategy": "original_excel"
+  },
+  {
+    "id": "evidence_0032",
+    "type": "documented_summary",
+    "text": "L'article d'Actu.fr reproduit le témoignage de Francine Adam sur les arbres et le cadre de vie, sans que la consultation directe de l'URL ait pu être confirmée.",
+    "source_id": "source_0010",
+    "source_ids": [
+      "source_0010"
+    ],
+    "source_status": "url_to_verify",
+    "location": "Article complet reproduit dans l'Excel, 3 juin 2026",
+    "published_at": "2026-06-03",
+    "accessed_at": null,
+    "verification": "text_in_excel_url_unverified",
+    "qualification_strategy": "original_excel"
+  },
+  {
+    "id": "evidence_0033",
+    "type": "documented_summary",
+    "text": "L'article d'Actu.fr rapporte les inquiétudes du couple Adam et les échanges avec RTE sur le passage de la ligne près de leur maison.",
+    "source_id": "source_0010",
+    "source_ids": [
+      "source_0010"
+    ],
+    "source_status": "url_to_verify",
+    "location": "Article complet reproduit dans l'Excel, 3 juin 2026",
+    "published_at": "2026-06-03",
+    "accessed_at": null,
+    "verification": "text_in_excel_url_unverified",
+    "qualification_strategy": "original_excel"
+  },
+  {
+    "id": "evidence_0034",
+    "type": "documented_summary",
+    "text": "En avril 2026, le préfet reçoit la FDSEA et les Jeunes Agriculteurs sur plusieurs sujets, dont la ligne Amiens–Petit-Caux et les indemnisations.",
+    "source_id": "source_0013",
+    "source_ids": [
+      "source_0013"
+    ],
+    "source_status": "qualified",
+    "location": "Réunion préfectorale, 2026",
+    "published_at": "2026-04-16",
+    "accessed_at": "2026-11-03",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
+  },
+  {
+    "id": "evidence_0035",
+    "type": "documented_summary",
+    "text": "La FDSEA 80 a déposé une contribution écrite à l'enquête publique 2025 relative aux effets sur les exploitations et aux indemnisations.",
+    "source_id": "source_0017",
+    "source_ids": [
+      "source_0017"
+    ],
+    "source_status": "qualified",
+    "location": "Contribution syndicale du 10 septembre 2025",
+    "published_at": "2025-09-10",
+    "accessed_at": null,
+    "verification": "web_indexed",
+    "qualification_strategy": "equivalent_primary"
+  },
+  {
+    "id": "evidence_0036",
+    "type": "documented_summary",
+    "text": "Les syndicats agricoles de la Somme et de Seine-Maritime organisent dès 2025 des échanges collectifs avec RTE sur les conséquences foncières et indemnitaires.",
+    "source_id": "source_0012",
+    "source_ids": [
+      "source_0012"
+    ],
+    "source_status": "qualified",
+    "location": "Article du 23 juin 2025",
+    "published_at": "2025-06-23",
+    "accessed_at": null,
+    "verification": "web_indexed",
+    "qualification_strategy": "canonical_original_recovered"
+  },
+  {
+    "id": "evidence_0037",
+    "type": "documented_summary",
+    "text": "La FNSEA 76 affirme publiquement que les servitudes et préjudices agricoles appellent des indemnisations plus justes.",
+    "source_id": "source_0015",
+    "source_ids": [
+      "source_0015"
+    ],
+    "source_status": "qualified",
+    "location": "Communiqué FNSEA76 11 mars 2026",
+    "published_at": "2026-03-11",
+    "accessed_at": "2026-11-03",
+    "verification": "web_consulted",
+    "qualification_strategy": "equivalent_primary"
+  },
+  {
+    "id": "evidence_0038",
+    "type": "documented_summary",
+    "text": "La FDSEA et les JA 80 ont abordé avec la préfecture les revendications indemnitaires liées à Amiens–Petit-Caux.",
+    "source_id": "source_0013",
+    "source_ids": [
+      "source_0013"
+    ],
+    "source_status": "qualified",
+    "location": "Article du 16 avril 2026",
+    "published_at": "2026-04-16",
+    "accessed_at": "2026-11-03",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
+  },
+  {
+    "id": "evidence_0039",
+    "type": "documented_summary",
+    "text": "La Chambre d'agriculture de la Somme est représentée à la réunion de février 2026 sur les indemnisations agricoles.",
+    "source_id": "source_0011",
+    "source_ids": [
+      "source_0011"
+    ],
+    "source_status": "qualified",
+    "location": "Réunion agricole du 18 février 2026",
+    "published_at": "2026-02-19",
+    "accessed_at": "2026-11-03",
+    "verification": "web_consulted",
+    "qualification_strategy": "original_excel"
+  },
+  {
+    "id": "evidence_0040",
+    "type": "documented_summary",
+    "text": "Le ministre a déclaré d'utilité publique le 8 juin 2026 la ligne à deux circuits 400 kV entre Argœuves et Navarre, au bénéfice de RTE, avec mise en compatibilité de documents d'urbanisme.",
+    "source_id": "source_0021",
+    "source_ids": [
+      "source_0021"
+    ],
+    "source_status": "qualified",
+    "location": "JO 11 juin 2026, articles 1 à 3",
+    "published_at": "2026-06-11",
+    "accessed_at": "2026-11-03",
+    "verification": "web_consulted",
+    "qualification_strategy": "equivalent_primary"
+  },
+  {
+    "id": "evidence_0041",
+    "type": "documented_summary",
+    "text": "L'enquête publique de 2025 a fait l'objet d'un avis favorable de la commission le 30 octobre 2025, préalable à la décision ministérielle de DUP.",
+    "source_id": "source_0020",
+    "source_ids": [
+      "source_0020"
+    ],
+    "source_status": "qualified",
+    "location": "Rapport commission du 30 octobre 2025",
+    "published_at": "2025-10-30",
+    "accessed_at": null,
+    "verification": "web_indexed",
+    "qualification_strategy": "equivalent_primary"
+  },
+  {
+    "id": "evidence_0042",
+    "type": "documented_summary",
+    "text": "La DUP du poste de transformation 90 kV/20 kV de Bresle est une procédure Enedis distincte, publiée en juillet 2026.",
+    "source_id": "source_0024",
+    "source_ids": [
+      "source_0024"
+    ],
+    "source_status": "qualified",
+    "location": "Avis de DUP du poste de Bresle, 1er juillet 2026",
+    "published_at": "2026-07-01",
+    "accessed_at": null,
+    "verification": "web_indexed",
+    "qualification_strategy": "equivalent_official_notice"
+  },
+  {
+    "id": "evidence_0043",
+    "type": "documented_summary",
+    "text": "Le dossier RTE motive la future capacité de transit notamment par les perspectives de production et de consommation, dont les nouveaux réacteurs de Penly ; cela ne démontre pas une prise de position publique propre à EDF sur le tracé.",
+    "source_id": "source_0018",
+    "source_ids": [
+      "source_0018"
+    ],
+    "source_status": "qualified",
+    "location": "RTE, justification du projet et mix électrique",
+    "published_at": null,
+    "accessed_at": "2026-11-03",
+    "verification": "web_consulted",
+    "qualification_strategy": "equivalent_primary"
+  },
+  {
+    "id": "evidence_0044",
+    "type": "documented_summary",
+    "text": "La préfecture de la Somme centralise et publie les pièces administratives, notamment l'avis environnemental et les conclusions de l'enquête publique.",
+    "source_id": "source_0022",
+    "source_ids": [
+      "source_0022"
+    ],
+    "source_status": "qualified",
+    "location": "Page préfectorale consacrée au projet",
+    "published_at": null,
+    "accessed_at": null,
+    "verification": "web_indexed",
+    "qualification_strategy": "equivalent_primary"
+  },
+  {
+    "id": "evidence_0045",
+    "type": "documented_summary",
+    "text": "L'arrêté de DUP du 8 juin 2026 liste nommément les communes de Seine-Maritime concernées par le tracé.",
+    "source_id": "source_0021",
+    "source_ids": [
+      "source_0021"
+    ],
+    "source_status": "qualified",
+    "location": "JO 11 juin 2026, article 1",
+    "published_at": "2026-06-11",
+    "accessed_at": "2026-11-03",
+    "verification": "web_consulted",
+    "qualification_strategy": "equivalent_primary"
+  },
+  {
+    "id": "evidence_0046",
+    "type": "documented_summary",
+    "text": "La commission d'enquête a intégré l'avis de l'Autorité environnementale au dossier examiné dans le cadre de l'enquête de 2025.",
+    "source_id": "source_0020",
+    "source_ids": [
+      "source_0020"
+    ],
+    "source_status": "qualified",
+    "location": "Rapport d'enquête et documents examinés",
+    "published_at": "2025-10-30",
+    "accessed_at": null,
+    "verification": "web_indexed",
+    "qualification_strategy": "equivalent_primary"
+  },
+  {
+    "id": "evidence_0047",
+    "type": "documented_summary",
+    "text": "Les conséquences visuelles, foncières et agricoles ont été abordées au cours de l'enquête, sans attester la constitution effective d'une commission spécifique d'indemnisation.",
+    "source_id": "source_0020",
+    "source_ids": [
+      "source_0020"
+    ],
+    "source_status": "qualified",
+    "location": "Conclusions de la commission d'enquête, volet indemnisation",
+    "published_at": "2025-10-30",
+    "accessed_at": null,
+    "verification": "web_indexed",
+    "qualification_strategy": "equivalent_primary"
+  },
+  {
+    "id": "evidence_0048",
+    "type": "documented_summary",
+    "text": "La contribution écrite de STOP THT déposée dans la concertation organisée sous l'égide de la CNDP illustre la pluralité des scénarios débattus.",
+    "source_id": "source_0008",
+    "source_ids": [
+      "source_0008"
+    ],
+    "source_status": "qualified",
+    "location": "Contribution de concertation versée sur RTE",
+    "published_at": null,
+    "accessed_at": null,
+    "verification": "web_indexed",
+    "qualification_strategy": "original_excel"
+  },
+  {
+    "id": "evidence_0049",
+    "type": "documented_summary",
+    "text": "L'arrêté ministériel du 8 juin 2026 emporte DUP mais conserve la distinction avec l'avis de la commission d'enquête d'octobre 2025.",
+    "source_id": "source_0021",
+    "source_ids": [
+      "source_0021"
+    ],
+    "source_status": "qualified",
+    "location": "JO 11 juin 2026",
+    "published_at": "2026-06-11",
+    "accessed_at": "2026-11-03",
+    "verification": "web_consulted",
+    "qualification_strategy": "equivalent_primary"
+  },
+  {
+    "id": "evidence_0050",
+    "type": "documented_summary",
+    "text": "RTE expose la nécessité d'une ligne aérienne double circuit pour répondre aux besoins de réseau et les difficultés de l'enfouissement à cette tension.",
+    "source_id": "source_0018",
+    "source_ids": [
+      "source_0018"
+    ],
+    "source_status": "qualified",
+    "location": "Fiche RTE, justification et réponses techniques",
+    "published_at": null,
+    "accessed_at": "2026-11-03",
+    "verification": "web_consulted",
+    "qualification_strategy": "equivalent_primary"
+  },
+  {
+    "id": "evidence_0051",
+    "type": "documented_summary",
+    "text": "La CNDP présente le cadre et les dates de la concertation préalable de 2022–2023 ; le collectif STOP THT a déposé une contribution structurée dans ce cadre.",
+    "source_id": "source_0019",
+    "source_ids": [
+      "source_0019"
+    ],
+    "source_status": "qualified",
+    "location": "Page CNDP et contribution du collectif",
+    "published_at": null,
+    "accessed_at": "2026-11-03",
+    "verification": "web_consulted",
+    "qualification_strategy": "equivalent_primary"
   }
 ]

@@ -177,19 +177,19 @@
   },
   {
     "id": "actor_0011",
-    "type": "organization",
-    "name": "Maire de Touffreville-sur-Eu",
-    "short_name": "Maire de Touffreville-sur-Eu",
-    "description": "Édile local non nommé",
+    "type": "person",
+    "name": "Jérôme Massy",
+    "short_name": "Jérôme Massy",
+    "description": "Maire de Touffreville-sur-Eu (fonction vérifiée, position personnelle sur la liaison non documentée).",
     "roles": [
       {
-        "label": "Édile local non nommé"
+        "label": "Maire de Touffreville-sur-Eu"
       }
     ],
     "categories": [
       "elus-fav"
     ],
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "actor_0012",
@@ -225,10 +225,10 @@
   },
   {
     "id": "actor_0014",
-    "type": "person",
+    "type": "organization",
     "name": "JA 80",
     "short_name": "JA 80",
-    "description": "Jeunes Agriculteurs de la Somme",
+    "description": "Organisation des Jeunes Agriculteurs de la Somme",
     "roles": [
       {
         "label": "Jeunes Agriculteurs de la Somme"
@@ -237,7 +237,7 @@
     "categories": [
       "orgs"
     ],
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "actor_0015",

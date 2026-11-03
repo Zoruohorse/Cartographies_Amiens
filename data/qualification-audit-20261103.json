@@ -1,0 +1,653 @@
+{
+  "project": "Amiens–Petit-Caux",
+  "base": "Zoruohorse/Cartographies_Amiens",
+  "updated_at": "2026-11-03",
+  "initial": {
+    "actors_with_claim": 29,
+    "evidence_total": 29,
+    "qualified_actor_proof": 0,
+    "source_notices_without_url": 7,
+    "relations_total": 67,
+    "entities_total": 53
+  },
+  "final": {
+    "actors_with_claim": 29,
+    "qualified_url_actor_proof": 29,
+    "web_or_index_verified_actor_proof": 29,
+    "statements_replaced": 29,
+    "additional_evidence": 22,
+    "qualified_source_urls": 18,
+    "unverified_source_urls": 3,
+    "historical_unsourced_evidence_deleted": 0,
+    "historical_unsourced_evidence_replaced_in_place": 29,
+    "old_source_notices_without_url_removed": 7,
+    "relation_enriched": 38,
+    "other_nodes_with_relation_proof": 16,
+    "nodes_without_relation_or_claim_proof": [
+      {
+        "id": "entity_0046",
+        "name": "Sacrifice territorial"
+      },
+      {
+        "id": "entity_0047",
+        "name": "ICI Normandie / Radio France"
+      },
+      {
+        "id": "entity_0048",
+        "name": "Le Parisien"
+      },
+      {
+        "id": "entity_0049",
+        "name": "Actu.fr"
+      },
+      {
+        "id": "entity_0050",
+        "name": "Courrier Picard"
+      },
+      {
+        "id": "entity_0051",
+        "name": "Action Agricole Picarde"
+      },
+      {
+        "id": "entity_0052",
+        "name": "RTE France"
+      },
+      {
+        "id": "entity_0053",
+        "name": "CNDP source"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "id": "source_0008",
+      "url": "https://assets.rte-france.com/prod/public/concertation-documents/avis_stop_tht_76_80_0_2.pdf",
+      "provenance": "original_excel",
+      "verification": "web_indexed",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0009",
+      "url": "https://www.leparisien.fr/seine-maritime-76/detruire-10-hectares-de-foret-est-une-heresie-la-future-ligne-a-tres-haute-tension-entre-la-normandie-et-amiens-rencontre-de-la-resistance-10-06-2026-H65DWGLB3RHADNB3PCSDI3VKDA.php",
+      "provenance": "original_excel",
+      "verification": "web_consulted",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0010",
+      "url": "https://actu.fr/normandie/touffreville-sur-eu_76703/on-naura-plus-darbres-la-future-ligne-electrique-inquiete-ces-riverains-a-touffreville-sur-eu_64290363.html",
+      "provenance": "original_excel",
+      "verification": "text_in_excel_url_unverified",
+      "status": "url_to_verify"
+    },
+    {
+      "id": "source_0011",
+      "url": "https://www.action-agricole-picarde.com/ligne-amiens-petit-caux-les-agriculteurs-veulent-indemniser-la-perte-de-chance",
+      "provenance": "original_excel",
+      "verification": "web_consulted",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0012",
+      "url": "https://www.action-agricole-picarde.com/ligne-haute-tension-amiens-petit-caux-la-profession-agricole-bat-le-fer-tant-quil-est-chaud",
+      "provenance": "canonical_original_recovered",
+      "verification": "web_indexed",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0013",
+      "url": "https://www.action-agricole-picarde.com/gnr-rte-et-echanges-fdsea-et-ja-chez-le-prefet-de-la-somme",
+      "provenance": "original_excel",
+      "verification": "web_consulted",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0014",
+      "url": "https://www.action-agricole-picarde.com/tcs/sinistres-climatiques-jacheres-amenagement-du-territoire-le-prefet-de-la-somme-reunit-le-monde",
+      "provenance": "canonical_original_recovered",
+      "verification": "web_indexed",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0015",
+      "url": "https://fnsea76.fr/communiques-de-presse/ligne-400-000-volts-lagriculture-doit-etre-respectee/",
+      "provenance": "equivalent_primary",
+      "verification": "web_consulted",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0016",
+      "url": "https://www.action-agricole-picarde.com/tcs/ligne-400-kv-amiens-petit-caux-la-chambre-dagriculture-reclame-une-revision-en-profondeur-des",
+      "provenance": "equivalent_documented",
+      "verification": "web_indexed",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0017",
+      "url": "https://fdsea80.fr/wp-content/uploads/2025/09/contribution-FD-Enquete-publique-RTE.pdf",
+      "provenance": "equivalent_primary",
+      "verification": "web_indexed",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0018",
+      "url": "https://www.rte-france.com/projets/nos-projets/creation-ligne-electrique-amiens-petitcaux",
+      "provenance": "equivalent_primary",
+      "verification": "web_consulted",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0019",
+      "url": "https://www.debatpublic.fr/construction-dune-ligne-tres-haute-tension-entre-amiens-et-petit-caux-penly-3237",
+      "provenance": "equivalent_primary",
+      "verification": "web_consulted",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0020",
+      "url": "https://www.somme.gouv.fr/contenu/telechargement/53930/355321/file/2_E25000049_80%20%20Conclusions%20et%20avis%20CE%20Ligne%20THT%20Argoeuves%20Petit-Caux.pdf",
+      "provenance": "equivalent_primary",
+      "verification": "web_indexed",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0021",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054228910",
+      "provenance": "equivalent_primary",
+      "verification": "web_consulted",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0022",
+      "url": "https://www.somme.gouv.fr/layout/set/print/Actions-de-l-Etat/Amenagement-du-territoire/RTE-Reseau-de-transport-d-electricite-Projet-de-ligne-a-haute-tension-entre-Amiens-80-et-Petit-Caux-76",
+      "provenance": "equivalent_primary",
+      "verification": "web_indexed",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0023",
+      "url": "https://concertation-epr2.edf.fr/blog/publication-de-lavis-denquete-publique-projet-epr2-de-penly",
+      "provenance": "equivalent_primary",
+      "verification": "web_indexed",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0024",
+      "url": "https://www.proxiterritoires.fr/annonces-legales/declaration-dutilite-publique-pour-la-creation-du-poste-de-transformation-electrique-90-000-20-000-volts-de-bresle-a-beauchamps/",
+      "provenance": "equivalent_official_notice",
+      "verification": "web_indexed",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0025",
+      "url": "https://assets.rte-france.com/prod/public/2024-01/2024-01-25-presentation-reunion-belloy-sur-somme.pdf",
+      "provenance": "equivalent_primary",
+      "verification": "web_indexed",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0026",
+      "url": "https://www.banatic.interieur.gouv.fr/commune/76703-Touffreville-sur-Eu",
+      "provenance": "equivalent_primary",
+      "verification": "web_consulted",
+      "status": "qualified"
+    },
+    {
+      "id": "source_0027",
+      "url": "https://www.radiofrance.fr/francebleu/podcasts/l-info-d-ici-ici-normandie-seine-maritime-eure/une-ligne-tres-haute-tension-doit-etre-construite-entre-petit-caux-et-amiens-en-passant-par-la-foret-d-eu-6486895",
+      "provenance": "original_excel",
+      "verification": "text_in_excel_url_unverified",
+      "status": "url_to_verify"
+    },
+    {
+      "id": "source_0028",
+      "url": "https://www.courrier-picard.fr/id700896/article/2026-03-04/lindemnite-au-pylone-de-la-nouvelle-ligne-tres-haute-tension-amiens-petit-caux",
+      "provenance": "original_excel",
+      "verification": "text_in_excel_url_unverified",
+      "status": "url_to_verify"
+    }
+  ],
+  "actors": [
+    {
+      "id": "actor_0001",
+      "actor": "Stop THT 76-80",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Principal mouvement opposé au projet ; organise les mobilisations et envisage des recours juridiques.",
+      "new_summary": "S'oppose aux scénarios 2/2’, 3 et 4 et au passage dans la forêt d’Eu ; défend le scénario 1 pour limiter les impacts.",
+      "old_proof": "Centralise la contestation locale contre les impacts environnementaux et paysagers.",
+      "new_proof": "Dans sa contribution, STOP THT 76-80 conteste les scénarios 2/2’, 3 et 4, refuse la traversée de la forêt d’Eu et expose les raisons de sa préférence pour le scénario 1.",
+      "source_id": "source_0008",
+      "source_url": "https://assets.rte-france.com/prod/public/concertation-documents/avis_stop_tht_76_80_0_2.pdf",
+      "source_strategy": "original_excel",
+      "source_verification": "web_indexed",
+      "original_evidence_replaced": "evidence_0001"
+    },
+    {
+      "id": "actor_0002",
+      "actor": "Associations nationales de défense de l’environnement",
+      "old_position": "opposed",
+      "new_position": "neutral",
+      "old_summary": "Soutien annoncé à Stop THT 76-80, sans organisation nationale nommément identifiée dans le corpus.",
+      "new_summary": "Intitulé historique générique : des organisations nommées soutiennent la mobilisation, mais aucune position collective unique ne peut être attribuée à toutes les associations nationales de défense de l’environnement.",
+      "old_proof": "Apportent une légitimité nationale à la lutte locale.",
+      "new_proof": "La contribution de STOP THT cite nommément plusieurs soutiens, dont le Groupement national de surveillance des arbres, la Société d'émulation d'Abbeville et Terre Mer Forêt. Cette fiche générique ne désigne pas une organisation juridique unique.",
+      "source_id": "source_0008",
+      "source_url": "https://assets.rte-france.com/prod/public/concertation-documents/avis_stop_tht_76_80_0_2.pdf",
+      "source_strategy": "original_excel",
+      "source_verification": "web_indexed",
+      "original_evidence_replaced": "evidence_0002"
+    },
+    {
+      "id": "actor_0003",
+      "actor": "Sylvain Finet",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Conteste la justification énergétique, les impacts environnementaux et annonce des recours juridiques.",
+      "new_summary": "Président et porte-parole de STOP THT 76-80, défend des recours contre le tracé, notamment pour la traversée de la forêt d’Eu et la justification des besoins.",
+      "old_proof": "Figure de proue de l’opposition associative.",
+      "new_proof": "Sylvain Finet, porte-parole de STOP THT 76-80, critique les justifications avancées, dénonce la traversée de la forêt d’Eu et annonce l'examen de recours lors des prochaines procédures environnementales.",
+      "source_id": "source_0009",
+      "source_url": "https://www.leparisien.fr/seine-maritime-76/detruire-10-hectares-de-foret-est-une-heresie-la-future-ligne-a-tres-haute-tension-entre-la-normandie-et-amiens-rencontre-de-la-resistance-10-06-2026-H65DWGLB3RHADNB3PCSDI3VKDA.php",
+      "source_strategy": "original_excel",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0003"
+    },
+    {
+      "id": "actor_0004",
+      "actor": "Francine Adam",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Opposée au passage près de son habitation ; évoque la perte de valeur immobilière et l’abattage d’arbres.",
+      "new_summary": "Refuse avec José Adam le passage à proximité de sa maison à Touffreville-sur-Eu ; craint la perte des arbres protecteurs et une dévalorisation du bien.",
+      "old_proof": "Témoignage direct sur la dégradation du cadre de vie.",
+      "new_proof": "Francine Adam et José Adam déclarent refuser la ligne annoncée à environ 70 mètres derrière leur habitation et craindre la perte d'arbres et une baisse de valeur immobilière ; la baisse annoncée est leur estimation, non une expertise.",
+      "source_id": "source_0009",
+      "source_url": "https://www.leparisien.fr/seine-maritime-76/detruire-10-hectares-de-foret-est-une-heresie-la-future-ligne-a-tres-haute-tension-entre-la-normandie-et-amiens-rencontre-de-la-resistance-10-06-2026-H65DWGLB3RHADNB3PCSDI3VKDA.php",
+      "source_strategy": "original_excel",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0004"
+    },
+    {
+      "id": "actor_0005",
+      "actor": "José Adam",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Opposé au projet et refuse fermement le passage de la ligne.",
+      "new_summary": "Refuse avec Francine Adam le passage de la ligne près de leur maison, en invoquant les arbres, le cadre de vie et la valeur de leur bien.",
+      "old_proof": "Témoignage d’opposition locale directe.",
+      "new_proof": "José Adam et Francine Adam contestent le passage annoncé à environ 70 mètres de leur maison et expriment leur inquiétude pour les arbres, l'environnement et le patrimoine immobilier.",
+      "source_id": "source_0009",
+      "source_url": "https://www.leparisien.fr/seine-maritime-76/detruire-10-hectares-de-foret-est-une-heresie-la-future-ligne-a-tres-haute-tension-entre-la-normandie-et-amiens-rencontre-de-la-resistance-10-06-2026-H65DWGLB3RHADNB3PCSDI3VKDA.php",
+      "source_strategy": "original_excel",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0005"
+    },
+    {
+      "id": "actor_0006",
+      "actor": "Mathieu Massy",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Refuse les implantations de pylônes sur son exploitation.",
+      "new_summary": "Agriculteur concerné par les emplacements envisagés de pylônes, conteste les effets attendus sur l'exploitation et les terres.",
+      "old_proof": "Représente la fronde des exploitants directement impactés.",
+      "new_proof": "Mathieu Massy, exploitant du secteur concerné, est présenté parmi les agriculteurs qui refusent l'implantation de pylônes et redoutent les conséquences sur leurs activités et leurs parcelles.",
+      "source_id": "source_0009",
+      "source_url": "https://www.leparisien.fr/seine-maritime-76/detruire-10-hectares-de-foret-est-une-heresie-la-future-ligne-a-tres-haute-tension-entre-la-normandie-et-amiens-rencontre-de-la-resistance-10-06-2026-H65DWGLB3RHADNB3PCSDI3VKDA.php",
+      "source_strategy": "original_excel",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0006"
+    },
+    {
+      "id": "actor_0007",
+      "actor": "Reynald Massy",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Craint les impacts sur l’élevage et la suppression d’un bosquet protecteur.",
+      "new_summary": "Éleveur inquiet de la destruction d’un bosquet protecteur et des conséquences de la ligne sur l'élevage.",
+      "old_proof": "Inquiétudes liées au bien-être animal et à l’écosystème local.",
+      "new_proof": "Reynald Massy témoigne des effets anticipés de la ligne sur ses terres et de la suppression possible d'un bosquet servant de protection à son élevage ; il conteste le passage envisagé.",
+      "source_id": "source_0009",
+      "source_url": "https://www.leparisien.fr/seine-maritime-76/detruire-10-hectares-de-foret-est-une-heresie-la-future-ligne-a-tres-haute-tension-entre-la-normandie-et-amiens-rencontre-de-la-resistance-10-06-2026-H65DWGLB3RHADNB3PCSDI3VKDA.php",
+      "source_strategy": "original_excel",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0007"
+    },
+    {
+      "id": "actor_0008",
+      "actor": "Christine Rodier",
+      "old_position": "opposed",
+      "new_position": "opposed",
+      "old_summary": "Opposée au tracé traversant la forêt d’Eu et à la destruction forestière induite.",
+      "new_summary": "La maire de Millebosc critique explicitement la destruction forestière et le tracé malgré les retombées économiques potentielles.",
+      "old_proof": "Opposition municipale officielle fondée sur la défense du patrimoine naturel.",
+      "new_proof": "Christine Rodier, maire de Millebosc, dénonce la destruction forestière envisagée et s'oppose au passage de la ligne au détriment de la forêt d’Eu.",
+      "source_id": "source_0009",
+      "source_url": "https://www.leparisien.fr/seine-maritime-76/detruire-10-hectares-de-foret-est-une-heresie-la-future-ligne-a-tres-haute-tension-entre-la-normandie-et-amiens-rencontre-de-la-resistance-10-06-2026-H65DWGLB3RHADNB3PCSDI3VKDA.php",
+      "source_strategy": "original_excel",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0008"
+    },
+    {
+      "id": "actor_0009",
+      "actor": "Rollon Mouchel-Blaisot",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Reconnaît les nuisances mais défend le projet comme une nécessité nationale.",
+      "new_summary": "Reconnaît l'intérêt national de la ligne tout en demandant la prise en compte des préjudices des exploitants.",
+      "old_proof": "Porte la position institutionnelle de l’État.",
+      "new_proof": "Le préfet Rollon Mouchel-Blaisot rappelle l'intérêt national du projet lors de la réception des représentants agricoles du 18 février 2026 et prend acte du blocage des discussions indemnitaires.",
+      "source_id": "source_0011",
+      "source_url": "https://www.action-agricole-picarde.com/ligne-amiens-petit-caux-les-agriculteurs-veulent-indemniser-la-perte-de-chance",
+      "source_strategy": "original_excel",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0009"
+    },
+    {
+      "id": "actor_0010",
+      "actor": "Emmanuel Moulard",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Présente les dispositifs d’accompagnement et d’indemnisation.",
+      "new_summary": "Présente les instruments d'accompagnement territorial et explique les modalités envisagées d'indemnisation ; pas de préférence politique individuelle démontrée.",
+      "old_proof": "Gère le volet administratif et compensatoire.",
+      "new_proof": "Emmanuel Moulard, secrétaire général de la préfecture de la Somme, intervient sur les mesures d'accompagnement et le plan d'accompagnement du projet face aux revendications agricoles.",
+      "source_id": "source_0011",
+      "source_url": "https://www.action-agricole-picarde.com/ligne-amiens-petit-caux-les-agriculteurs-veulent-indemniser-la-perte-de-chance",
+      "source_strategy": "original_excel",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0010"
+    },
+    {
+      "id": "actor_0011",
+      "actor": "Maire de Touffreville-sur-Eu",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Cité lors de visites de RTE, sans position tranchée publiquement exprimée dans le corpus.",
+      "new_summary": "Jérôme Massy est identifié comme maire de Touffreville-sur-Eu en 2026 ; sa position personnelle sur la ligne n'est pas établie.",
+      "old_proof": "Présence institutionnelle sans prise de position explicite.",
+      "new_proof": "Le registre national BANATIC identifie Jérôme Massy comme maire de Touffreville-sur-Eu. Cette preuve établit une identité et une fonction, pas une position pour ou contre la ligne.",
+      "source_id": "source_0026",
+      "source_url": "https://www.banatic.interieur.gouv.fr/commune/76703-Touffreville-sur-Eu",
+      "source_strategy": "equivalent_primary",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0011"
+    },
+    {
+      "id": "actor_0012",
+      "actor": "FDSEA 80",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Défend les agriculteurs et exige une meilleure indemnisation sans opposition frontale au principe de la ligne.",
+      "new_summary": "Demande la renégociation des indemnisations et la reconnaissance de la perte de chance agricole ; aucune opposition de principe à la ligne n'est établie.",
+      "old_proof": "Pression syndicale ciblée sur les compensations financières.",
+      "new_proof": "La FDSEA de la Somme, avec les autres représentants agricoles, a suspendu les discussions avec RTE faute d'une indemnisation jugée suffisante des préjudices durables et de la perte de chance.",
+      "source_id": "source_0011",
+      "source_url": "https://www.action-agricole-picarde.com/ligne-amiens-petit-caux-les-agriculteurs-veulent-indemniser-la-perte-de-chance",
+      "source_strategy": "original_excel",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0012"
+    },
+    {
+      "id": "actor_0013",
+      "actor": "FDSEA Seine-Maritime",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Impliqué dans les négociations avec RTE sur les compensations liées aux servitudes.",
+      "new_summary": "Participe à la coordination syndicale des exploitants concernés et aux revendications d'indemnisation, sans rejet formel de toute liaison électrique.",
+      "old_proof": "Défense des intérêts fonciers des exploitants.",
+      "new_proof": "La profession agricole de Seine-Maritime s'organise avec ses homologues de la Somme pour négocier les barèmes, les servitudes et les préjudices d'exploitation associés à la liaison.",
+      "source_id": "source_0012",
+      "source_url": "https://www.action-agricole-picarde.com/ligne-haute-tension-amiens-petit-caux-la-profession-agricole-bat-le-fer-tant-quil-est-chaud",
+      "source_strategy": "canonical_original_recovered",
+      "source_verification": "web_indexed",
+      "original_evidence_replaced": "evidence_0013"
+    },
+    {
+      "id": "actor_0014",
+      "actor": "JA 80",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Conteste les barèmes de compensation proposés pour la perte de valeur des terres.",
+      "new_summary": "Les Jeunes Agriculteurs de la Somme réclament une prise en compte des pertes agricoles et un meilleur traitement des exploitants impactés.",
+      "old_proof": "Alerte sur la pérennité économique des jeunes exploitations.",
+      "new_proof": "Des représentants des Jeunes Agriculteurs de la Somme, dont Quentin Porquier, demandent une indemnisation adaptée des pertes et contraintes, lors de la mobilisation du 18 février 2026.",
+      "source_id": "source_0011",
+      "source_url": "https://www.action-agricole-picarde.com/ligne-amiens-petit-caux-les-agriculteurs-veulent-indemniser-la-perte-de-chance",
+      "source_strategy": "original_excel",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0014"
+    },
+    {
+      "id": "actor_0015",
+      "actor": "FNSEA 76",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Revendique une meilleure prise en compte des préjudices d’exploitation.",
+      "new_summary": "Défend une juste indemnisation agricole, des servitudes négociées et la reconnaissance des préjudices liés à la ligne ; pas de rejet du principe même du projet.",
+      "old_proof": "Relais institutionnel de la contestation foncière.",
+      "new_proof": "Dans son communiqué du 11 mars 2026, la FNSEA 76 demande expressément que la réalisation de la ligne 400 kV respecte les intérêts et les droits des agriculteurs concernés.",
+      "source_id": "source_0015",
+      "source_url": "https://fnsea76.fr/communiques-de-presse/ligne-400-000-volts-lagriculture-doit-etre-respectee/",
+      "source_strategy": "equivalent_primary",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0015"
+    },
+    {
+      "id": "actor_0016",
+      "actor": "Chambre d’agriculture de la Somme",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Partie prenante des discussions officielles et de la défense des intérêts agricoles.",
+      "new_summary": "Demande une révision approfondie des barèmes d'indemnisation de l'emprise des pylônes et des servitudes agricoles.",
+      "old_proof": "Cadre de négociation institutionnelle.",
+      "new_proof": "La Chambre d'agriculture de la Somme a adopté une motion demandant une révision approfondie des propositions d'indemnisation des agriculteurs affectés par la future ligne de 400 kV.",
+      "source_id": "source_0016",
+      "source_url": "https://www.action-agricole-picarde.com/tcs/ligne-400-kv-amiens-petit-caux-la-chambre-dagriculture-reclame-une-revision-en-profondeur-des",
+      "source_strategy": "equivalent_documented",
+      "source_verification": "web_indexed",
+      "original_evidence_replaced": "evidence_0016"
+    },
+    {
+      "id": "actor_0017",
+      "actor": "Propriétaires ruraux / PPR",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Représente les propriétaires terriens dans les négociations sur les servitudes et la perte de chance économique.",
+      "new_summary": "Représente les intérêts fonciers lors des échanges sur les servitudes et les indemnisations, sans position globale démontrée contre le projet.",
+      "old_proof": "Défense de la valeur du capital foncier.",
+      "new_proof": "Les représentants des propriétaires privés ruraux participent aux discussions collectives sur les servitudes, pertes de valeur et indemnisations, aux côtés des organisations agricoles de la Somme.",
+      "source_id": "source_0011",
+      "source_url": "https://www.action-agricole-picarde.com/ligne-amiens-petit-caux-les-agriculteurs-veulent-indemniser-la-perte-de-chance",
+      "source_strategy": "original_excel",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0017"
+    },
+    {
+      "id": "actor_0018",
+      "actor": "CGB 80",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Intervient sur les impacts logistiques et les contraintes d’exploitation créées par les pylônes.",
+      "new_summary": "Défend les filières betteravières contre les pertes de productivité, de stockage et d'accessibilité causées par les pylônes.",
+      "old_proof": "Point de vigilance technique et logistique agricole.",
+      "new_proof": "Le syndicat betteravier CGB 80 figure dans la délégation agricole et expose les préjudices possibles liés aux pylônes, notamment les contraintes logistiques en parcelles et les pertes d'opportunité.",
+      "source_id": "source_0011",
+      "source_url": "https://www.action-agricole-picarde.com/ligne-amiens-petit-caux-les-agriculteurs-veulent-indemniser-la-perte-de-chance",
+      "source_strategy": "original_excel",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0018"
+    },
+    {
+      "id": "actor_0019",
+      "actor": "RTE",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Porteur principal ; défend le projet comme indispensable à la transition énergétique et aux raccordements futurs.",
+      "new_summary": "Maître d'ouvrage de la ligne 400 kV à deux circuits entre Argœuves et Navarre, défend l'utilité énergétique d'une liaison d'environ 80 km.",
+      "old_proof": "Maître d’ouvrage défendant l’utilité publique de la ligne.",
+      "new_proof": "RTE présente une ligne aérienne d'environ 80 km à deux circuits 400 kV entre Argœuves et Navarre, devant apporter 6 000 MW supplémentaires de capacité de transport pour un investissement global annoncé de 390 M€.",
+      "source_id": "source_0018",
+      "source_url": "https://www.rte-france.com/projets/nos-projets/creation-ligne-electrique-amiens-petitcaux",
+      "source_strategy": "equivalent_primary",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0019"
+    },
+    {
+      "id": "actor_0020",
+      "actor": "Enedis",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Co-porteur technique de certaines infrastructures de distribution associées.",
+      "new_summary": "Responsable d'ouvrages de distribution liés au secteur de Beauchamps, mais non maître d'ouvrage de la ligne principale de transport RTE.",
+      "old_proof": "Partenaire technique du réseau.",
+      "new_proof": "La documentation d'enquête distingue le projet de ligne 400 kV porté par RTE et les aménagements connexes du réseau de distribution, notamment le poste de Bresle en lien avec Enedis.",
+      "source_id": "source_0020",
+      "source_url": "https://www.somme.gouv.fr/contenu/telechargement/53930/355321/file/2_E25000049_80%20%20Conclusions%20et%20avis%20CE%20Ligne%20THT%20Argoeuves%20Petit-Caux.pdf",
+      "source_strategy": "equivalent_primary",
+      "source_verification": "web_indexed",
+      "original_evidence_replaced": "evidence_0020"
+    },
+    {
+      "id": "actor_0021",
+      "actor": "EDF",
+      "old_position": "favorable",
+      "new_position": "neutral",
+      "old_summary": "Opérateur des réacteurs EPR2 de Penly et bénéficiaire indirect de l’infrastructure.",
+      "new_summary": "EDF porte le projet distinct EPR2 de Penly, dont l'insertion dans le système électrique fait partie du contexte ; aucun soutien individuel d'EDF au tracé n'est démontré ici.",
+      "old_proof": "Lien structurel avec les besoins de raccordement nucléaire.",
+      "new_proof": "EDF documente les procédures relatives aux nouveaux réacteurs EPR2 de Penly. Il s'agit d'un projet lié sur le plan électrique mais distinct de la ligne Amiens–Petit-Caux portée par RTE.",
+      "source_id": "source_0023",
+      "source_url": "https://concertation-epr2.edf.fr/blog/publication-de-lavis-denquete-publique-projet-epr2-de-penly",
+      "source_strategy": "equivalent_primary",
+      "source_verification": "web_indexed",
+      "original_evidence_replaced": "evidence_0021"
+    },
+    {
+      "id": "actor_0022",
+      "actor": "Préfecture de la Somme",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Assure le pilotage administratif et encadre le volet indemnitaire.",
+      "new_summary": "Autorité déconcentrée associée au suivi des procédures ; la DUP résulte de l'arrêté ministériel du 8 juin 2026, et non d'un acte préfectoral individuel.",
+      "old_proof": "Instance de régulation et de validation administrative.",
+      "new_proof": "L'arrêté ministériel du 8 juin 2026 déclare d'utilité publique la ligne Argœuves–Navarre et mentionne les deux départements traversés. La préfecture de la Somme intervient dans l'instruction et la coordination administrative.",
+      "source_id": "source_0021",
+      "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054228910",
+      "source_strategy": "equivalent_primary",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0022"
+    },
+    {
+      "id": "actor_0023",
+      "actor": "Préfecture de Seine-Maritime",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Pilote les procédures administratives liées à l’implantation sur son département.",
+      "new_summary": "Préfecture intervenant dans le dossier sur le territoire de Seine-Maritime et la procédure d'enquête ; sans prise de position politique propre.",
+      "old_proof": "Cadrage légal et administratif.",
+      "new_proof": "Les conclusions de l'enquête publique 2025 identifient les territoires de Seine-Maritime soumis à la procédure, sous le contrôle des autorités administratives compétentes.",
+      "source_id": "source_0020",
+      "source_url": "https://www.somme.gouv.fr/contenu/telechargement/53930/355321/file/2_E25000049_80%20%20Conclusions%20et%20avis%20CE%20Ligne%20THT%20Argoeuves%20Petit-Caux.pdf",
+      "source_strategy": "equivalent_primary",
+      "source_verification": "web_indexed",
+      "original_evidence_replaced": "evidence_0023"
+    },
+    {
+      "id": "actor_0024",
+      "actor": "Autorité environnementale",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Chargée d’émettre un avis environnemental indépendant.",
+      "new_summary": "Autorité indépendante d'évaluation environnementale ayant émis un avis sur l'étude d'impact en avril 2025, sans équivalent d'autorisation.",
+      "old_proof": "Acteur clé de l’évaluation des impacts sur la forêt d’Eu.",
+      "new_proof": "La préfecture de la Somme met à disposition l'avis de l'Autorité environnementale du 10 avril 2025 sur le projet de ligne ; un avis environnemental ne constitue pas une DUP.",
+      "source_id": "source_0022",
+      "source_url": "https://www.somme.gouv.fr/layout/set/print/Actions-de-l-Etat/Amenagement-du-territoire/RTE-Reseau-de-transport-d-electricite-Projet-de-ligne-a-haute-tension-entre-Amiens-80-et-Petit-Caux-76",
+      "source_strategy": "equivalent_primary",
+      "source_verification": "web_indexed",
+      "original_evidence_replaced": "evidence_0024"
+    },
+    {
+      "id": "actor_0025",
+      "actor": "Commission indépendante d’indemnisation",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Chargée d’évaluer les préjudices fonciers et agricoles.",
+      "new_summary": "Dispositif d'indemnisation évoqué par RTE pour certains préjudices paysagers ; la constitution effective d'une commission particulière n'est pas confirmée par ce dossier.",
+      "old_proof": "Arbitre des tensions financières entre RTE et les syndicats.",
+      "new_proof": "RTE expose les principes d'indemnisation des préjudices visuels et fonciers et la possibilité d'une appréciation indépendante des préjudices. Cette mention ne démontre pas qu'une commission locale fonctionne déjà.",
+      "source_id": "source_0018",
+      "source_url": "https://www.rte-france.com/projets/nos-projets/creation-ligne-electrique-amiens-petitcaux",
+      "source_strategy": "equivalent_primary",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0025"
+    },
+    {
+      "id": "actor_0026",
+      "actor": "CNDP",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Garante de l’organisation et de la transparence de la concertation publique préalable.",
+      "new_summary": "Autorité indépendante encadrant la participation du public à la concertation de 2022–2023 et son suivi, sans soutien ou opposition de principe.",
+      "old_proof": "Encadre le recueil des avis citoyens.",
+      "new_proof": "La CNDP décrit la concertation préalable du 23 novembre 2022 au 17 février 2023, la mission des garants et la suite donnée au projet jusqu'au bilan de juillet 2025.",
+      "source_id": "source_0019",
+      "source_url": "https://www.debatpublic.fr/construction-dune-ligne-tres-haute-tension-entre-amiens-et-petit-caux-penly-3237",
+      "source_strategy": "equivalent_primary",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0026"
+    },
+    {
+      "id": "actor_0027",
+      "actor": "Commission d’enquête publique",
+      "old_position": "neutral",
+      "new_position": "favorable",
+      "old_summary": "Chargée de recueillir les avis du public et d’émettre un rapport de synthèse.",
+      "new_summary": "A rendu le 30 octobre 2025 un avis favorable au projet de liaison, assorti de quatre recommandations, sans que cet avis constitue lui-même une DUP.",
+      "old_proof": "Étape juridique et démocratique.",
+      "new_proof": "La commission d'enquête a émis le 30 octobre 2025 un avis favorable sans réserve, avec quatre recommandations, après l'enquête publique sur la liaison aérienne 400 kV.",
+      "source_id": "source_0020",
+      "source_url": "https://www.somme.gouv.fr/contenu/telechargement/53930/355321/file/2_E25000049_80%20%20Conclusions%20et%20avis%20CE%20Ligne%20THT%20Argoeuves%20Petit-Caux.pdf",
+      "source_strategy": "equivalent_primary",
+      "source_verification": "web_indexed",
+      "original_evidence_replaced": "evidence_0027"
+    },
+    {
+      "id": "actor_0028",
+      "actor": "Cyril Wagner",
+      "old_position": "favorable",
+      "new_position": "favorable",
+      "old_summary": "Défend le caractère indispensable du projet face à l’obsolescence du réseau et aux nouveaux besoins.",
+      "new_summary": "Représentant de RTE dans la concertation technique, présente les éléments du projet et ses conséquences territoriales ; aucune position personnelle distincte de RTE n'est prouvée.",
+      "old_proof": "Porte-parole technique sur l’utilité du projet.",
+      "new_proof": "Cyril Wagner intervient au titre de RTE dans les échanges techniques de concertation sur la ligne 400 kV Amiens–Petit-Caux, notamment lors de la réunion publique de Belloy-sur-Somme.",
+      "source_id": "source_0025",
+      "source_url": "https://assets.rte-france.com/prod/public/2024-01/2024-01-25-presentation-reunion-belloy-sur-somme.pdf",
+      "source_strategy": "equivalent_primary",
+      "source_verification": "web_indexed",
+      "original_evidence_replaced": "evidence_0028"
+    },
+    {
+      "id": "actor_0029",
+      "actor": "Eiffage",
+      "old_position": "neutral",
+      "new_position": "neutral",
+      "old_summary": "Entreprise mentionnée par des opposants dans le cadre de travaux associés ; rôle précis non documenté.",
+      "new_summary": "Eiffage est cité dans un témoignage local relatif aux échanges avec les entreprises sur le tracé ; contrat et rôle précis non établis par les pièces examinées.",
+      "old_proof": "Cité comme sous-traitant opérationnel.",
+      "new_proof": "Un témoignage d'exploitant recueilli par Le Parisien mentionne Eiffage dans le contexte du projet. Cette mention ne permet pas à elle seule de qualifier l'entreprise de titulaire de travaux, ni de lui attribuer une position.",
+      "source_id": "source_0009",
+      "source_url": "https://www.leparisien.fr/seine-maritime-76/detruire-10-hectares-de-foret-est-une-heresie-la-future-ligne-a-tres-haute-tension-entre-la-normandie-et-amiens-rencontre-de-la-resistance-10-06-2026-H65DWGLB3RHADNB3PCSDI3VKDA.php",
+      "source_strategy": "original_excel",
+      "source_verification": "web_consulted",
+      "original_evidence_replaced": "evidence_0029"
+    }
+  ],
+  "vigilances": [
+    "La source Actu.fr fournit des témoignages détaillés dans l'Excel sans accès direct web vérifié.",
+    "Certaines organisations génériques et l'Eiffage n'ont pas de position autonome prouvée.",
+    "Jérôme Massy : fonction vérifiée par BANATIC mais pas de position personnelle.",
+    "La contribution STOP THT hébergée chez RTE présente une datation interne contradictoire avec sa chronologie de constitution."
+  ]
+}

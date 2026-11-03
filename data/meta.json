@@ -1,55 +1,143 @@
 {
   "id": "project_amiens_petit_caux",
   "title": "Cartographie interactive — Ligne THT Amiens – Petit-Caux",
-  "subtitle": "Projet de nouvelle ligne électrique 400 kV, opposition locale, monde agricole, RTE et institutions.",
-  "last_updated": "2026-10-02",
-  "data_notice": "Les éléments sont repris des deux fichiers fournis. Les URL et justifications documentaires absentes restent explicitement à qualifier.",
+  "subtitle": "Projet de liaison 400 kV entre Argœuves (Amiens) et Navarre (Petit-Caux), déclaré d’utilité publique en juin 2026 ; enjeux d’acceptabilité, agriculture, forêt d’Eu, EPR2 et raccordements.",
+  "last_updated": "2026-11-03",
+  "data_notice": "Qualification documentaire rétrospective du 3 novembre 2026 : 29 fiches avec preuves à URL, dont une identité/fonction sans position personnelle prouvée. Les preuves historiques génériques ont été remplacées par des résumés documentés. Les URLs signalées « Excel seul » ne sont pas présentées comme lues directement. DUP ministérielle du 8 juin 2026 distincte des autres autorisations.",
   "griefs": [
     {
       "title": "🌲 Déforestation et biodiversité",
-      "text": "Crainte liée à la destruction de plusieurs hectares de la forêt d’Eu et aux atteintes aux espaces naturels."
+      "text": "Crainte liée à la destruction de plusieurs hectares de la forêt d’Eu et aux atteintes aux espaces naturels.",
+      "evidence_ids": [
+        "evidence_0001",
+        "evidence_0003",
+        "evidence_0008"
+      ],
+      "source_ids": [
+        "source_0008",
+        "source_0009"
+      ]
     },
     {
       "title": "🦅 Menace sur le Busard cendré",
-      "text": "Espèce protégée régulièrement citée dans les inquiétudes environnementales."
+      "text": "Espèce protégée régulièrement citée dans les inquiétudes environnementales.",
+      "evidence_ids": [
+        "evidence_0001"
+      ],
+      "source_ids": [
+        "source_0008"
+      ]
     },
     {
       "title": "🏗️ Artificialisation et paysage",
-      "text": "Rejet de pylônes de grande hauteur transformant des secteurs ruraux et forestiers."
+      "text": "Rejet de pylônes de grande hauteur transformant des secteurs ruraux et forestiers.",
+      "evidence_ids": [
+        "evidence_0004",
+        "evidence_0008"
+      ],
+      "source_ids": [
+        "source_0009"
+      ]
     },
     {
       "title": "🏡 Dégradation du cadre de vie",
-      "text": "Nuisances visuelles, proximité des habitations et effets redoutés."
+      "text": "Nuisances visuelles, proximité des habitations et effets redoutés.",
+      "evidence_ids": [
+        "evidence_0004",
+        "evidence_0005"
+      ],
+      "source_ids": [
+        "source_0009"
+      ]
     },
     {
       "title": "📉 Dévalorisation immobilière",
-      "text": "Crainte d’une diminution de la valeur des biens à proximité du tracé."
+      "text": "Crainte d’une diminution de la valeur des biens à proximité du tracé.",
+      "evidence_ids": [
+        "evidence_0004",
+        "evidence_0005"
+      ],
+      "source_ids": [
+        "source_0009"
+      ]
     },
     {
       "title": "🚜 Impacts agricoles",
-      "text": "Contraintes de circulation, pertes de productivité et atteintes aux exploitations."
+      "text": "Contraintes de circulation, pertes de productivité et atteintes aux exploitations.",
+      "evidence_ids": [
+        "evidence_0006",
+        "evidence_0007",
+        "evidence_0012"
+      ],
+      "source_ids": [
+        "source_0009",
+        "source_0011"
+      ]
     },
     {
       "title": "💶 Insuffisance des indemnisations",
-      "text": "Contestation des barèmes proposés au regard des préjudices durables."
+      "text": "Contestation des barèmes proposés au regard des préjudices durables.",
+      "evidence_ids": [
+        "evidence_0012",
+        "evidence_0014",
+        "evidence_0015",
+        "evidence_0016"
+      ],
+      "source_ids": [
+        "source_0011",
+        "source_0015",
+        "source_0016"
+      ]
     },
     {
       "title": "⚡ Justification contestée",
-      "text": "Certains opposants contestent les besoins avancés pour justifier l’infrastructure."
+      "text": "Certains opposants contestent les besoins avancés pour justifier l’infrastructure.",
+      "evidence_ids": [
+        "evidence_0001",
+        "evidence_0003",
+        "evidence_0019"
+      ],
+      "source_ids": [
+        "source_0008",
+        "source_0009",
+        "source_0018"
+      ]
     },
     {
       "title": "🗣️ Déficit de concertation",
-      "text": "Critique d’un processus où les solutions alternatives seraient insuffisamment étudiées."
+      "text": "Critique d’un processus où les solutions alternatives seraient insuffisamment étudiées.",
+      "evidence_ids": [
+        "evidence_0001",
+        "evidence_0026"
+      ],
+      "source_ids": [
+        "source_0008",
+        "source_0019"
+      ]
     },
     {
       "title": "⚖️ Sacrifice territorial",
-      "text": "Les territoires traversés estiment supporter les nuisances d’un projet d’intérêt national."
+      "text": "Les territoires traversés estiment supporter les nuisances d’un projet d’intérêt national.",
+      "evidence_ids": [
+        "evidence_0009",
+        "evidence_0017"
+      ],
+      "source_ids": [
+        "source_0011"
+      ]
     }
   ],
   "vigilance": [
     "Le front agricole conteste surtout les protocoles d’indemnisation, sans opposition systématique au principe de la ligne.",
     "La traversée de la forêt d’Eu cristallise l’opposition locale et municipale.",
     "Le rattachement aux besoins de l’EPR2 et des parcs éoliens renforce le sentiment d’urgence imposée.",
-    "La revendication d’enfouissement doit être comparée aux contraintes techniques, environnementales, financières et calendaires."
+    "La revendication d’enfouissement doit être comparée aux contraintes techniques, environnementales, financières et calendaires.",
+    "Statut réglementaire actualisé : avis favorable de la commission d’enquête du 30 octobre 2025, puis DUP de la liaison RTE par arrêté ministériel du 8 juin 2026 (JORF du 11 juin). Les autorisations environnementales distinctes restent à vérifier. Sources : arrêté du 8 juin 2026 et rapport de la commission d’enquête.",
+    "Le collectif STOP THT 76-80 défend historiquement le scénario 1 et s’oppose aux scénarios 2/2’, 3, 4 et à la traversée de la forêt d’Eu. Ne pas assimiler cette position à un refus de principe de toutes les infrastructures électriques. Source : contribution du collectif.",
+    "EDF/EPR2 et Enedis/Bresle sont des projets ou ouvrages distincts de la liaison RTE. Une relation de contexte ou d’interface électrique ne vaut pas maîtrise d’ouvrage commune. Sources : EDF, RTE et avis administratif du poste Bresle.",
+    "Le nombre et le coût des pylônes, la localisation précise des impacts et l'horizon des travaux peuvent évoluer selon les documents : ne pas agréger les chiffres de pièces de périmètres ou de dates différents.",
+    "La fiche de l'ancien « maire de Touffreville-sur-Eu » a été identifiée grâce à BANATIC comme Jérôme Massy (2026). La position de cette personne sur la ligne n'est pas démontrée.",
+    "La mention d'Eiffage dans un témoignage agricole ne démontre ni la nature du marché ni une position de l'entreprise. La fiche est conservée en statut neutre à titre de mention documentée.",
+    "Les sources Actu.fr, ICI et Courrier Picard sont présentes dans le corpus fourni mais leur lecture directe n'a pas pu être confirmée. Ne pas les présenter comme consultées en ligne ; les faits essentiels ont été recoupés avec d'autres références."
   ]
 }

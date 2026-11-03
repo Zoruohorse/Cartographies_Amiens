@@ -6,15 +6,17 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Principal mouvement opposé au projet ; organise les mobilisations et envisage des recours juridiques.",
+    "summary": "S'oppose aux scénarios 2/2’, 3 et 4 et au passage dans la forêt d’Eu ; défend le scénario 1 pour limiter les impacts.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0001"
+      "evidence_0001",
+      "evidence_0030",
+      "evidence_0051"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0002",
@@ -22,16 +24,16 @@
     "project_id": "project_amiens_petit_caux",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Soutien annoncé à Stop THT 76-80, sans organisation nationale nommément identifiée dans le corpus.",
-    "certainty": "medium",
-    "status": "reported",
+    "value": "neutral",
+    "summary": "Intitulé historique générique : des organisations nommées soutiennent la mobilisation, mais aucune position collective unique ne peut être attribuée à toutes les associations nationales de défense de l’environnement.",
+    "certainty": "low",
+    "status": "documented",
     "evidence_ids": [
       "evidence_0002"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0003",
@@ -40,15 +42,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Conteste la justification énergétique, les impacts environnementaux et annonce des recours juridiques.",
+    "summary": "Président et porte-parole de STOP THT 76-80, défend des recours contre le tracé, notamment pour la traversée de la forêt d’Eu et la justification des besoins.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0003"
+      "evidence_0003",
+      "evidence_0031"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0004",
@@ -57,15 +60,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Opposée au passage près de son habitation ; évoque la perte de valeur immobilière et l’abattage d’arbres.",
+    "summary": "Refuse avec José Adam le passage à proximité de sa maison à Touffreville-sur-Eu ; craint la perte des arbres protecteurs et une dévalorisation du bien.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0004"
+      "evidence_0004",
+      "evidence_0032"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0005",
@@ -74,15 +78,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Opposé au projet et refuse fermement le passage de la ligne.",
+    "summary": "Refuse avec Francine Adam le passage de la ligne près de leur maison, en invoquant les arbres, le cadre de vie et la valeur de leur bien.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0005"
+      "evidence_0005",
+      "evidence_0033"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0006",
@@ -91,15 +96,15 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Refuse les implantations de pylônes sur son exploitation.",
+    "summary": "Agriculteur concerné par les emplacements envisagés de pylônes, conteste les effets attendus sur l'exploitation et les terres.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
       "evidence_0006"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0007",
@@ -108,15 +113,15 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Craint les impacts sur l’élevage et la suppression d’un bosquet protecteur.",
+    "summary": "Éleveur inquiet de la destruction d’un bosquet protecteur et des conséquences de la ligne sur l'élevage.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
       "evidence_0007"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0008",
@@ -125,15 +130,15 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Opposée au tracé traversant la forêt d’Eu et à la destruction forestière induite.",
+    "summary": "La maire de Millebosc critique explicitement la destruction forestière et le tracé malgré les retombées économiques potentielles.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
       "evidence_0008"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0009",
@@ -142,15 +147,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Reconnaît les nuisances mais défend le projet comme une nécessité nationale.",
+    "summary": "Reconnaît l'intérêt national de la ligne tout en demandant la prise en compte des préjudices des exploitants.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0009"
+      "evidence_0009",
+      "evidence_0034"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0010",
@@ -159,15 +165,15 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Présente les dispositifs d’accompagnement et d’indemnisation.",
+    "summary": "Présente les instruments d'accompagnement territorial et explique les modalités envisagées d'indemnisation ; pas de préférence politique individuelle démontrée.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
       "evidence_0010"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0011",
@@ -176,15 +182,15 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Cité lors de visites de RTE, sans position tranchée publiquement exprimée dans le corpus.",
-    "certainty": "low",
-    "status": "reported",
+    "summary": "Jérôme Massy est identifié comme maire de Touffreville-sur-Eu en 2026 ; sa position personnelle sur la ligne n'est pas établie.",
+    "certainty": "high",
+    "status": "documented",
     "evidence_ids": [
       "evidence_0011"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0012",
@@ -193,15 +199,17 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Défend les agriculteurs et exige une meilleure indemnisation sans opposition frontale au principe de la ligne.",
+    "summary": "Demande la renégociation des indemnisations et la reconnaissance de la perte de chance agricole ; aucune opposition de principe à la ligne n'est établie.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0012"
+      "evidence_0012",
+      "evidence_0035",
+      "evidence_0036"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0013",
@@ -210,15 +218,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Impliqué dans les négociations avec RTE sur les compensations liées aux servitudes.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Participe à la coordination syndicale des exploitants concernés et aux revendications d'indemnisation, sans rejet formel de toute liaison électrique.",
+    "certainty": "medium",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0013"
+      "evidence_0013",
+      "evidence_0037"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0014",
@@ -227,15 +236,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Conteste les barèmes de compensation proposés pour la perte de valeur des terres.",
+    "summary": "Les Jeunes Agriculteurs de la Somme réclament une prise en compte des pertes agricoles et un meilleur traitement des exploitants impactés.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0014"
+      "evidence_0014",
+      "evidence_0038"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0015",
@@ -244,15 +254,15 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Revendique une meilleure prise en compte des préjudices d’exploitation.",
+    "summary": "Défend une juste indemnisation agricole, des servitudes négociées et la reconnaissance des préjudices liés à la ligne ; pas de rejet du principe même du projet.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
       "evidence_0015"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0016",
@@ -261,15 +271,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Partie prenante des discussions officielles et de la défense des intérêts agricoles.",
+    "summary": "Demande une révision approfondie des barèmes d'indemnisation de l'emprise des pylônes et des servitudes agricoles.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0016"
+      "evidence_0016",
+      "evidence_0039"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0017",
@@ -278,15 +289,15 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Représente les propriétaires terriens dans les négociations sur les servitudes et la perte de chance économique.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Représente les intérêts fonciers lors des échanges sur les servitudes et les indemnisations, sans position globale démontrée contre le projet.",
+    "certainty": "medium",
+    "status": "documented",
     "evidence_ids": [
       "evidence_0017"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0018",
@@ -295,15 +306,15 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Intervient sur les impacts logistiques et les contraintes d’exploitation créées par les pylônes.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Défend les filières betteravières contre les pertes de productivité, de stockage et d'accessibilité causées par les pylônes.",
+    "certainty": "medium",
+    "status": "documented",
     "evidence_ids": [
       "evidence_0018"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0019",
@@ -312,15 +323,17 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Porteur principal ; défend le projet comme indispensable à la transition énergétique et aux raccordements futurs.",
+    "summary": "Maître d'ouvrage de la ligne 400 kV à deux circuits entre Argœuves et Navarre, défend l'utilité énergétique d'une liaison d'environ 80 km.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0019"
+      "evidence_0019",
+      "evidence_0040",
+      "evidence_0041"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0020",
@@ -329,15 +342,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Co-porteur technique de certaines infrastructures de distribution associées.",
+    "summary": "Responsable d'ouvrages de distribution liés au secteur de Beauchamps, mais non maître d'ouvrage de la ligne principale de transport RTE.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0020"
+      "evidence_0020",
+      "evidence_0042"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0021",
@@ -345,16 +359,17 @@
     "project_id": "project_amiens_petit_caux",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "favorable",
-    "summary": "Opérateur des réacteurs EPR2 de Penly et bénéficiaire indirect de l’infrastructure.",
-    "certainty": "high",
-    "status": "reported",
+    "value": "neutral",
+    "summary": "EDF porte le projet distinct EPR2 de Penly, dont l'insertion dans le système électrique fait partie du contexte ; aucun soutien individuel d'EDF au tracé n'est démontré ici.",
+    "certainty": "medium",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0021"
+      "evidence_0021",
+      "evidence_0043"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0022",
@@ -363,15 +378,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Assure le pilotage administratif et encadre le volet indemnitaire.",
+    "summary": "Autorité déconcentrée associée au suivi des procédures ; la DUP résulte de l'arrêté ministériel du 8 juin 2026, et non d'un acte préfectoral individuel.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0022"
+      "evidence_0022",
+      "evidence_0044"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0023",
@@ -380,15 +396,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Pilote les procédures administratives liées à l’implantation sur son département.",
+    "summary": "Préfecture intervenant dans le dossier sur le territoire de Seine-Maritime et la procédure d'enquête ; sans prise de position politique propre.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0023"
+      "evidence_0023",
+      "evidence_0045"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0024",
@@ -397,15 +414,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Chargée d’émettre un avis environnemental indépendant.",
+    "summary": "Autorité indépendante d'évaluation environnementale ayant émis un avis sur l'étude d'impact en avril 2025, sans équivalent d'autorisation.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0024"
+      "evidence_0024",
+      "evidence_0046"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0025",
@@ -414,15 +432,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Chargée d’évaluer les préjudices fonciers et agricoles.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Dispositif d'indemnisation évoqué par RTE pour certains préjudices paysagers ; la constitution effective d'une commission particulière n'est pas confirmée par ce dossier.",
+    "certainty": "medium",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0025"
+      "evidence_0025",
+      "evidence_0047"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0026",
@@ -431,15 +450,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Garante de l’organisation et de la transparence de la concertation publique préalable.",
+    "summary": "Autorité indépendante encadrant la participation du public à la concertation de 2022–2023 et son suivi, sans soutien ou opposition de principe.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0026"
+      "evidence_0026",
+      "evidence_0048"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0027",
@@ -447,16 +467,17 @@
     "project_id": "project_amiens_petit_caux",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Chargée de recueillir les avis du public et d’émettre un rapport de synthèse.",
+    "value": "favorable",
+    "summary": "A rendu le 30 octobre 2025 un avis favorable au projet de liaison, assorti de quatre recommandations, sans que cet avis constitue lui-même une DUP.",
     "certainty": "high",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0027"
+      "evidence_0027",
+      "evidence_0049"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0028",
@@ -465,15 +486,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Défend le caractère indispensable du projet face à l’obsolescence du réseau et aux nouveaux besoins.",
-    "certainty": "high",
-    "status": "reported",
+    "summary": "Représentant de RTE dans la concertation technique, présente les éléments du projet et ses conséquences territoriales ; aucune position personnelle distincte de RTE n'est prouvée.",
+    "certainty": "medium",
+    "status": "documented",
     "evidence_ids": [
-      "evidence_0028"
+      "evidence_0028",
+      "evidence_0050"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "claim_0029",
@@ -482,14 +504,14 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Entreprise mentionnée par des opposants dans le cadre de travaux associés ; rôle précis non documenté.",
+    "summary": "Eiffage est cité dans un témoignage local relatif aux échanges avec les entreprises sur le tracé ; contrat et rôle précis non établis par les pièces examinées.",
     "certainty": "low",
-    "status": "reported",
+    "status": "documented",
     "evidence_ids": [
       "evidence_0029"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-02"
+    "updated_at": "2026-11-03"
   }
 ]
