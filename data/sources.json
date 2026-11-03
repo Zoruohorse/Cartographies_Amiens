@@ -271,5 +271,18 @@
     "verification": "text_in_excel_url_unverified",
     "provenance": "original_excel",
     "corpus": "Amiens.xlsx + qualification documentaire publique"
+  },
+  {
+    "id": "source_0029",
+    "title": "Démarrage de l’enquête publique sur le projet Amiens Petit-Caux le 1er septembre",
+    "publisher": "RTE",
+    "published_at": "2025-08-14",
+    "author": null,
+    "url": "https://www.rte-france.com/actualites/demarrage-enquete-publique-sur-projet-amiens-petit-caux-1er-septembre",
+    "source_type": "institutional",
+    "status": "qualified",
+    "verification": "web_consulted",
+    "provenance": "equivalent_primary",
+    "corpus": "Complément de qualification 2026-11-03"
   }
 ]

@@ -649,5 +649,82 @@
     "Certaines organisations génériques et l'Eiffage n'ont pas de position autonome prouvée.",
     "Jérôme Massy : fonction vérifiée par BANATIC mais pas de position personnelle.",
     "La contribution STOP THT hébergée chez RTE présente une datation interne contradictoire avec sa chronologie de constitution."
-  ]
+  ],
+  "supplemental_review": {
+    "scope": "Vérification complémentaire des fiches et de l'intégralité des nœuds du réseau",
+    "excel_sheet": "✅ Informations qualifiées",
+    "excel_resource_rows": 17,
+    "initial_missing_proof_nodes": [
+      "entity_0046",
+      "entity_0047",
+      "entity_0048",
+      "entity_0049",
+      "entity_0050",
+      "entity_0051",
+      "entity_0052",
+      "entity_0053"
+    ],
+    "added_evidence": 9,
+    "added_relations": 8,
+    "added_sources": 1,
+    "original_sources_recovered_in_this_pass": 0,
+    "equivalent_sources_added_in_this_pass": 1,
+    "replaced_statements_in_this_pass": 1,
+    "removed_unsourced_evidence_in_this_pass": 0,
+    "claim_positions_changed_in_this_pass": 0,
+    "actor_cards_with_qualified_proof": 29,
+    "total_actor_cards": 29,
+    "network_nodes_with_qualified_proof": 50,
+    "total_network_nodes": 53,
+    "network_coverage_percent": 94.34,
+    "nodes_pending_verification": [
+      {
+        "id": "entity_0047",
+        "name": "ICI Normandie / Radio France",
+        "reason": "Seule une source de presse issue de l'Excel est disponible ; consultation directe non confirmée."
+      },
+      {
+        "id": "entity_0049",
+        "name": "Actu.fr",
+        "reason": "Seule une source de presse issue de l'Excel est disponible ; consultation directe non confirmée."
+      },
+      {
+        "id": "entity_0050",
+        "name": "Courrier Picard",
+        "reason": "Seule une source de presse issue de l'Excel est disponible ; consultation directe non confirmée."
+      }
+    ],
+    "notes": [
+      "L'audit initial enregistré sur le dépôt indique 29 preuves historiques remplacées dans une mise à jour antérieure ; elles ne sont pas recomptées comme modifications de ce commit.",
+      "Un lien URL présent dans un Excel n'est pas considéré comme accès vérifié lorsque le contenu en ligne reste inaccessible.",
+      "Les 7 nœuds de médias ne reçoivent aucune position ; seul leur rôle de source est documenté.",
+      "Le thème « sacrifice territorial » est explicitement identifié comme cadrage analytique."
+    ],
+    "added_objects": {
+      "evidence": [
+        "evidence_0052",
+        "evidence_0053",
+        "evidence_0054",
+        "evidence_0055",
+        "evidence_0056",
+        "evidence_0057",
+        "evidence_0058",
+        "evidence_0059",
+        "evidence_0060"
+      ],
+      "relations": [
+        "relation_0068",
+        "relation_0069",
+        "relation_0070",
+        "relation_0071",
+        "relation_0072",
+        "relation_0073",
+        "relation_0074",
+        "relation_0075"
+      ],
+      "sources": [
+        "source_0029"
+      ]
+    }
+  }
 }

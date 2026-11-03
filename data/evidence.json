@@ -763,5 +763,140 @@
     "accessed_at": "2026-11-03",
     "verification": "web_consulted",
     "qualification_strategy": "equivalent_primary"
+  },
+  {
+    "id": "evidence_0052",
+    "type": "documented_summary",
+    "text": "Lors de l’enquête publique du projet Amiens–Petit-Caux, des habitants, exploitants et élus contestent des atteintes locales aux terres agricoles, à la forêt et aux paysages. « Sacrifice territorial » est ici un thème d’analyse des griefs, non une déclaration collective attribuable à toutes les communes.",
+    "source_id": "source_0009",
+    "source_ids": [
+      "source_0009"
+    ],
+    "source_status": "qualified",
+    "published_at": null,
+    "accessed_at": "2026-11-03",
+    "location": "Article du 10 juin 2026, témoignages des riverains, exploitants et maire de Millebosc",
+    "verification": "web_consulted_or_indexed",
+    "qualification_strategy": "equivalent_documented"
+  },
+  {
+    "id": "evidence_0053",
+    "type": "documented_summary",
+    "text": "ICI Normandie / Radio France a diffusé un sujet relatant le projet de liaison de 400 kV entre Petit-Caux et Amiens, les passages envisagés dans la forêt d’Eu et l’opposition de Stop THT 76-80. L’article est reproduit dans l’Excel mais sa consultation directe n’a pas été confirmée.",
+    "source_id": "source_0027",
+    "source_ids": [
+      "source_0027"
+    ],
+    "source_status": "to_verify",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Amiens.xlsx, ligne 3 : titre et texte intégral fournis",
+    "verification": "text_in_excel_url_unverified",
+    "qualification_strategy": "original_excel_pending_url_verification"
+  },
+  {
+    "id": "evidence_0054",
+    "type": "documented_summary",
+    "text": "Le Parisien a publié un reportage sur la contestation de la ligne Amiens–Petit-Caux, avec des témoignages attribués à Sylvain Finet, Francine et José Adam, aux agriculteurs Massy et à Christine Rodier.",
+    "source_id": "source_0009",
+    "source_ids": [
+      "source_0009"
+    ],
+    "source_status": "qualified",
+    "published_at": null,
+    "accessed_at": "2026-11-03",
+    "location": "Article Le Parisien du 10 juin 2026, corps de l'article",
+    "verification": "web_consulted_or_indexed",
+    "qualification_strategy": "equivalent_documented"
+  },
+  {
+    "id": "evidence_0055",
+    "type": "documented_summary",
+    "text": "Actu.fr est présenté dans l’Excel comme éditeur d’un article sur les inquiétudes de riverains de Touffreville-sur-Eu concernant la future ligne. L’URL exacte n’a pas pu être directement vérifiée.",
+    "source_id": "source_0010",
+    "source_ids": [
+      "source_0010"
+    ],
+    "source_status": "to_verify",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Amiens.xlsx, ligne 6 : titre et article reproduits",
+    "verification": "text_in_excel_url_unverified",
+    "qualification_strategy": "original_excel_pending_url_verification"
+  },
+  {
+    "id": "evidence_0056",
+    "type": "documented_summary",
+    "text": "Le Courrier Picard a publié, selon le texte reproduit dans l’Excel, un article du 4 mars 2026 portant sur les indemnisations proposées aux exploitants agricoles pour les pylônes de la ligne. L’accès à l’article n’a pas pu être directement confirmé.",
+    "source_id": "source_0028",
+    "source_ids": [
+      "source_0028"
+    ],
+    "source_status": "to_verify",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Amiens.xlsx, ligne 12 : article avec mention d'accès abonnés",
+    "verification": "text_in_excel_url_unverified",
+    "qualification_strategy": "original_excel_pending_url_verification"
+  },
+  {
+    "id": "evidence_0057",
+    "type": "documented_summary",
+    "text": "Action Agricole Picarde a couvert la rupture des discussions des représentants agricoles avec RTE sur les indemnisations et la notion de perte de chance des exploitants concernés.",
+    "source_id": "source_0011",
+    "source_ids": [
+      "source_0011"
+    ],
+    "source_status": "qualified",
+    "published_at": null,
+    "accessed_at": "2026-11-03",
+    "location": "Article « Ligne Amiens–Petit-Caux : les agriculteurs veulent indemniser la perte de chance »",
+    "verification": "web_consulted_or_indexed",
+    "qualification_strategy": "equivalent_documented"
+  },
+  {
+    "id": "evidence_0058",
+    "type": "documented_summary",
+    "text": "RTE présente officiellement la création d’une ligne aérienne à deux circuits de 400 kV entre Argœuves et Navarre, ses objectifs de renforcement de l’axe Normandie–Hauts-de-France et les choix de tracé.",
+    "source_id": "source_0018",
+    "source_ids": [
+      "source_0018"
+    ],
+    "source_status": "qualified",
+    "published_at": null,
+    "accessed_at": "2026-11-03",
+    "location": "Page officielle RTE du projet, présentation et caractéristiques",
+    "verification": "web_consulted_or_indexed",
+    "qualification_strategy": "equivalent_documented"
+  },
+  {
+    "id": "evidence_0059",
+    "type": "documented_summary",
+    "text": "La Commission nationale du débat public présente le cadre de la concertation préalable Amiens–Petit-Caux et les modalités de participation du public, indépendamment de la position du maître d’ouvrage.",
+    "source_id": "source_0019",
+    "source_ids": [
+      "source_0019"
+    ],
+    "source_status": "qualified",
+    "published_at": null,
+    "accessed_at": "2026-11-03",
+    "location": "Fiche CNDP « Construction d’une ligne très haute tension entre Amiens et Petit-Caux »",
+    "verification": "web_consulted_or_indexed",
+    "qualification_strategy": "equivalent_documented"
+  },
+  {
+    "id": "evidence_0060",
+    "type": "documented_summary",
+    "text": "RTE a officiellement annoncé une enquête publique du 1er septembre au 1er octobre 2025 sur la ligne aérienne à deux circuits 400 kV, distincte de la DUP accordée le 8 juin 2026.",
+    "source_id": "source_0029",
+    "source_ids": [
+      "source_0029"
+    ],
+    "source_status": "qualified",
+    "published_at": null,
+    "accessed_at": "2026-11-03",
+    "location": "Communiqué RTE du 14 août 2025, sections « Sur quoi porte l’enquête publique ? » et « Comment participer ? »",
+    "verification": "web_consulted_or_indexed",
+    "qualification_strategy": "equivalent_documented"
   }
 ]

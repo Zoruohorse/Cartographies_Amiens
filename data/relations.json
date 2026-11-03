@@ -1040,5 +1040,125 @@
     "valid_from": null,
     "valid_to": null,
     "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0068",
+    "source_id": "actor_0001",
+    "target_id": "entity_0046",
+    "type": "raises_issue",
+    "summary": "La mobilisation associative fait état de préjudices territoriaux perçus : terres agricoles, habitats et paysages. Il s’agit d’une catégorisation analytique des griefs, non d’un fait de « sacrifice » démontré.",
+    "certainty": "high",
+    "status": "documented",
+    "evidence_ids": [
+      "evidence_0052"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0069",
+    "source_id": "entity_0047",
+    "target_id": "project_amiens_petit_caux",
+    "type": "mentions",
+    "summary": "ICI Normandie / Radio France couvre le projet et l'opposition dans la forêt d’Eu (URL à vérifier).",
+    "certainty": "low",
+    "status": "to_verify",
+    "evidence_ids": [
+      "evidence_0053"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0070",
+    "source_id": "entity_0048",
+    "target_id": "project_amiens_petit_caux",
+    "type": "mentions",
+    "summary": "Le Parisien publie des témoignages sur l’opposition au projet.",
+    "certainty": "high",
+    "status": "documented",
+    "evidence_ids": [
+      "evidence_0054"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0071",
+    "source_id": "entity_0049",
+    "target_id": "project_amiens_petit_caux",
+    "type": "mentions",
+    "summary": "Actu.fr est indiqué comme source d’un reportage sur les riverains (URL à vérifier).",
+    "certainty": "low",
+    "status": "to_verify",
+    "evidence_ids": [
+      "evidence_0055"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0072",
+    "source_id": "entity_0050",
+    "target_id": "project_amiens_petit_caux",
+    "type": "mentions",
+    "summary": "Le Courrier Picard est indiqué comme source sur les indemnisations agricoles (URL à vérifier).",
+    "certainty": "low",
+    "status": "to_verify",
+    "evidence_ids": [
+      "evidence_0056"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0073",
+    "source_id": "entity_0051",
+    "target_id": "project_amiens_petit_caux",
+    "type": "mentions",
+    "summary": "Action Agricole Picarde publie des informations sur les négociations d'indemnisation entre RTE et les syndicats agricoles.",
+    "certainty": "high",
+    "status": "documented",
+    "evidence_ids": [
+      "evidence_0057"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0074",
+    "source_id": "entity_0052",
+    "target_id": "project_amiens_petit_caux",
+    "type": "mentions",
+    "summary": "RTE France diffuse la documentation officielle sur le projet.",
+    "certainty": "high",
+    "status": "documented",
+    "evidence_ids": [
+      "evidence_0058"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0075",
+    "source_id": "entity_0053",
+    "target_id": "project_amiens_petit_caux",
+    "type": "mentions",
+    "summary": "La CNDP documente la concertation préalable et la participation du public.",
+    "certainty": "high",
+    "status": "documented",
+    "evidence_ids": [
+      "evidence_0059"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
   }
 ]

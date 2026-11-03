@@ -3,7 +3,7 @@
   "title": "Cartographie interactive — Ligne THT Amiens – Petit-Caux",
   "subtitle": "Projet de liaison 400 kV entre Argœuves (Amiens) et Navarre (Petit-Caux), déclaré d’utilité publique en juin 2026 ; enjeux d’acceptabilité, agriculture, forêt d’Eu, EPR2 et raccordements.",
   "last_updated": "2026-11-03",
-  "data_notice": "Qualification documentaire rétrospective du 3 novembre 2026 : 29 fiches avec preuves à URL, dont une identité/fonction sans position personnelle prouvée. Les preuves historiques génériques ont été remplacées par des résumés documentés. Les URLs signalées « Excel seul » ne sont pas présentées comme lues directement. DUP ministérielle du 8 juin 2026 distincte des autres autorisations.",
+  "data_notice": "Qualification rétrospective des 29 fiches acteurs et des nœuds du réseau. Les positions sont distinctes des simples fonctions et des griefs. Les preuves renvoient à des URL documentaires ; les liens de presse non directement consultables sont signalés « à vérifier » et ne comptent pas comme sources pleinement qualifiées.",
   "griefs": [
     {
       "title": "🌲 Déforestation et biodiversité",
@@ -117,13 +117,15 @@
     },
     {
       "title": "⚖️ Sacrifice territorial",
-      "text": "Les territoires traversés estiment supporter les nuisances d’un projet d’intérêt national.",
+      "text": "Certains habitants, exploitants et représentants locaux décrivent une concentration des impacts agricoles et paysagers sur les territoires traversés. « Sacrifice territorial » demeure un cadrage analytique des griefs, non un constat établi pour l’ensemble des communes.",
       "evidence_ids": [
         "evidence_0009",
-        "evidence_0017"
+        "evidence_0017",
+        "evidence_0052"
       ],
       "source_ids": [
-        "source_0011"
+        "source_0011",
+        "source_0009"
       ]
     }
   ],
