@@ -1,0 +1,328 @@
+{
+  "last_updated": "2026-11-10",
+  "project_status": "DUP ministérielle obtenue le 8 juin 2026 pour la ligne aérienne 400 kV Argœuves–Navarre ; construction non achevée et autorisations environnementales distinctes.",
+  "project_summary": "RTE projette une liaison aérienne à deux circuits 400 kV d'environ 80 km, reliant la Normandie et les Hauts-de-France. La controverse se concentre sur la traversée de la forêt d'Eu et sur l'indemnisation agricole ; les organisations concernées ne partagent pas nécessairement le même positionnement.",
+  "milestones": [
+    {
+      "id": "amiens_m_001",
+      "date": "2022-11-23",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Ouverture de la concertation préalable",
+      "details": "Début de la phase de concertation du public sur l’opportunité et les variantes de la ligne. Source rétrospective RTE.",
+      "evidence_ids": [
+        "evidence_amiens1_030"
+      ]
+    },
+    {
+      "id": "amiens_m_002",
+      "date": "2023-02-17",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Clôture de la concertation préalable",
+      "details": "Fin de la période de consultation de 2022–2023 ; les avis des collectifs portent notamment sur les scénarios alternatifs.",
+      "evidence_ids": [
+        "evidence_amiens1_030",
+        "evidence_amiens1_027"
+      ]
+    },
+    {
+      "id": "amiens_m_003",
+      "date": "2023-09-20",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Choix du fuseau de moindre impact",
+      "details": "RTE présente la validation du fuseau sous la présidence de la préfecture ; ce choix n'est pas une autorisation d'exécution.",
+      "evidence_ids": [
+        "evidence_amiens1_030"
+      ]
+    },
+    {
+      "id": "amiens_m_004",
+      "date": "2025-04-10",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Avis de l'Autorité environnementale",
+      "details": "Avis sur l’étude d’impact du projet, distinct des conclusions de l’enquête et de la DUP.",
+      "evidence_ids": [
+        "evidence_amiens1_031"
+      ]
+    },
+    {
+      "id": "amiens_m_005",
+      "date": "2025-06-02",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Réunions sur les impacts et l'environnement",
+      "details": "RTE tient des réunions publiques les 2 et 3 juin pour présenter l'étude d'impact et répondre aux interrogations.",
+      "evidence_ids": [
+        "evidence_amiens1_031"
+      ]
+    },
+    {
+      "id": "amiens_m_006",
+      "date": "2025-06-23",
+      "period_precision": "day",
+      "status": "reported",
+      "title": "Rencontres agricoles sur les indemnisations",
+      "details": "Les FDSEA et partenaires ont programmé des réunions à Frucourt (23 juin) et Monchy-sur-Eu (24 juin) sur les contraintes et indemnités.",
+      "evidence_ids": [
+        "evidence_amiens1_037"
+      ]
+    },
+    {
+      "id": "amiens_m_007",
+      "date": "2025-09-01",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Ouverture de l'enquête publique",
+      "details": "Consultation sur la liaison 400 kV et plusieurs ouvrages connexes et demandes de DUP.",
+      "evidence_ids": [
+        "evidence_amiens1_028",
+        "evidence_amiens1_029"
+      ]
+    },
+    {
+      "id": "amiens_m_008",
+      "date": "2025-10-01",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Clôture annoncée de l'enquête publique",
+      "details": "Fin du registre de consultation ouvert le 1er septembre ; les articles ultérieurs reproduisent parfois la phrase « enquête en cours », devenue obsolète.",
+      "evidence_ids": [
+        "evidence_amiens1_028"
+      ]
+    },
+    {
+      "id": "amiens_m_009",
+      "date": "2025-10-30",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Avis favorable assorti de recommandations",
+      "details": "La commission d'enquête publie un avis favorable à la liaison, avec recommandations. Il ne vaut pas DUP.",
+      "evidence_ids": [
+        "evidence_0029"
+      ]
+    },
+    {
+      "id": "amiens_m_010",
+      "date": "2026-02-18",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Délégation agricole reçue par la préfecture",
+      "details": "Les représentants agricoles dénoncent les propositions de RTE, demandent une indemnisation de la perte de chance et signalent une suspension des négociations.",
+      "evidence_ids": [
+        "evidence_amiens1_017",
+        "evidence_amiens1_038"
+      ]
+    },
+    {
+      "id": "amiens_m_011",
+      "date": "2026-03-04",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Contestation des barèmes au pylône",
+      "details": "Le Courrier Picard relate la contestation du barème annuel et des contraintes agricoles ; il ne s'agit pas d'une opposition unanime à l'utilité de la liaison.",
+      "evidence_ids": [
+        "evidence_amiens1_041"
+      ]
+    },
+    {
+      "id": "amiens_m_012",
+      "date": "2026-04-09",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Réunion entre syndicats et administration",
+      "details": "Les FDSEA et JA échangent avec les services de l'État sur les compensations agricoles et d'autres sujets de crise.",
+      "evidence_ids": [
+        "evidence_amiens1_018",
+        "evidence_amiens1_040"
+      ]
+    },
+    {
+      "id": "amiens_m_013",
+      "date": "2026-06-03",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Témoignages de riverains de Touffreville-sur-Eu",
+      "details": "Actu.fr rapporte le refus de convention de passage de Francine et José Adam et la réponse de RTE sur les indemnités et servitudes.",
+      "evidence_ids": [
+        "evidence_amiens1_021",
+        "evidence_amiens1_022"
+      ]
+    },
+    {
+      "id": "amiens_m_014",
+      "date": "2026-06-08",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "DUP de la liaison aérienne 400 kV",
+      "details": "Arrêté ministériel déclarant d'utilité publique les travaux Argœuves–Navarre, publié le 11 juin. Il ne valide pas à lui seul toutes les autorisations connexes.",
+      "evidence_ids": [
+        "evidence_amiens1_025",
+        "evidence_amiens1_026"
+      ]
+    },
+    {
+      "id": "amiens_m_015",
+      "date": "2026-06-10",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Opposition et recours envisagés",
+      "details": "Le Parisien rapporte la critique du tracé en forêt d'Eu et l'intention du collectif STOP THT d'engager des démarches contentieuses.",
+      "evidence_ids": [
+        "evidence_amiens1_020",
+        "evidence_amiens1_032"
+      ]
+    },
+    {
+      "id": "amiens_m_016",
+      "date": "2026-07-09",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Annonce d'une réunion agricole le 10 juillet",
+      "details": "La préfecture annonce une réunion portant notamment sur la compensation agricole. Aucun résultat de cette rencontre n'est démontré par le corpus.",
+      "evidence_ids": [
+        "evidence_amiens1_019"
+      ]
+    },
+    {
+      "id": "amiens_m_017",
+      "date": "2027",
+      "period_precision": "year",
+      "status": "forecast",
+      "title": "Nouvelle participation environnementale envisagée",
+      "details": "RTE évoque une phase de participation du public en 2027 à l'occasion d'une demande d'autorisation environnementale ; date et issue non acquises.",
+      "evidence_ids": [
+        "evidence_amiens1_022"
+      ]
+    },
+    {
+      "id": "amiens_m_018",
+      "date": "2028",
+      "period_precision": "year",
+      "status": "forecast",
+      "title": "Début éventuel des travaux",
+      "details": "Une source de juin 2026 évoque un lancement envisagé en 2028, avant un calendrier de construction jusqu'en 2034, sous réserve de l'ensemble des autorisations.",
+      "evidence_ids": [
+        "evidence_amiens1_023"
+      ]
+    }
+  ],
+  "fact_sheet": [
+    {
+      "id": "amiens_fact_001",
+      "label": "Liaison",
+      "value": "Double circuit 400 kV aérien",
+      "qualifier": "Ligne RTE Argœuves (Somme) – Navarre (Seine-Maritime), distincte des ouvrages Enedis.",
+      "evidence_ids": [
+        "evidence_amiens1_029"
+      ]
+    },
+    {
+      "id": "amiens_fact_002",
+      "label": "Distance",
+      "value": "Environ 80 km",
+      "qualifier": "Longueur annoncée par RTE, susceptible de préciser l'implantation.",
+      "evidence_ids": [
+        "evidence_amiens1_029"
+      ]
+    },
+    {
+      "id": "amiens_fact_003",
+      "label": "Capacité supplémentaire",
+      "value": "6 000 MW annoncés",
+      "qualifier": "Capacité de transit annoncée, non puissance de production supplémentaire mise en service.",
+      "evidence_ids": [
+        "evidence_amiens1_029"
+      ]
+    },
+    {
+      "id": "amiens_fact_004",
+      "label": "Budget",
+      "value": "390 M€ estimés",
+      "qualifier": "Coût global du projet indiqué par RTE, sans garantie de coût final de réalisation.",
+      "evidence_ids": [
+        "evidence_amiens1_029"
+      ]
+    },
+    {
+      "id": "amiens_fact_005",
+      "label": "Statut réglementaire",
+      "value": "DUP ministérielle du 8 juin 2026",
+      "qualifier": "Publiée le 11 juin 2026 ; autorisation environnementale et travaux à distinguer.",
+      "evidence_ids": [
+        "evidence_amiens1_025"
+      ]
+    },
+    {
+      "id": "amiens_fact_006",
+      "label": "Enquête publique",
+      "value": "1er septembre – 1er octobre 2025",
+      "qualifier": "Phase sur la DUP ; dossier clôturé au 10 novembre 2026.",
+      "evidence_ids": [
+        "evidence_amiens1_028"
+      ]
+    },
+    {
+      "id": "amiens_fact_007",
+      "label": "Forêt d'Eu",
+      "value": "Tracé contesté",
+      "qualifier": "Des riverains estiment des emprises forestières à risque ; aucune surface de défrichement réalisée n'est constatée.",
+      "evidence_ids": [
+        "evidence_amiens1_027",
+        "evidence_amiens1_032"
+      ]
+    },
+    {
+      "id": "amiens_fact_008",
+      "label": "Indemnité agricole discutée",
+      "value": "180 à 225 €/pylône/an",
+      "qualifier": "Revalorisation annoncée dans la presse, contestée ; ne pas confondre avec compensation finale individualisée.",
+      "evidence_ids": [
+        "evidence_amiens1_024"
+      ]
+    },
+    {
+      "id": "amiens_fact_009",
+      "label": "Poste Beauchamps",
+      "value": "Projet Dosset et poste Bresle distincts",
+      "qualifier": "RTE et Enedis interviennent sur des ouvrages juridiquement distincts, dans un cadre d'ensemble.",
+      "evidence_ids": [
+        "evidence_amiens1_026"
+      ]
+    },
+    {
+      "id": "amiens_fact_010",
+      "label": "Ligne 225 kV ancienne",
+      "value": "Suppression annoncée de 55 km",
+      "qualifier": "Présentation de RTE associée aux travaux de renforcement du réseau ; prévision de retrait et non retrait réalisé.",
+      "evidence_ids": [
+        "evidence_amiens1_030"
+      ]
+    }
+  ],
+  "methodology": "Distinguer les événements établis, les intentions de recours, les opinions des acteurs et les échéances prospectives. Les dates de découverte du tableur ne constituent pas les dates de publication.",
+  "red_flags": [
+    {
+      "label": "Autorisation environnementale",
+      "status": "distinct_to_verify",
+      "description": "La DUP ne remplace pas les procédures environnementales ni les conventions individuelles."
+    },
+    {
+      "label": "Réunion du 10 juillet",
+      "status": "outcome_unknown",
+      "description": "Réunion annoncée mais tenue et résultat non démontrés dans le corpus."
+    },
+    {
+      "label": "Recours annoncés",
+      "status": "not_confirmed_filed",
+      "description": "Aucun acte de dépôt de recours par STOP THT 76-80 prouvé dans le lot."
+    },
+    {
+      "label": "Indemnités individuelles",
+      "status": "under_negotiation",
+      "description": "Chiffres discutés par les parties prenantes, pas contrats finalisés."
+    }
+  ]
+}

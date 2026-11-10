@@ -1,0 +1,362 @@
+{
+  "updated_at": "2026-11-10",
+  "intro": "Les critiques documentées portent sur le tracé forestier et ses effets paysagers, les droits des riverains et les compensations agricoles. Le soutien des organisations professionnelles à une juste indemnisation ne vaut pas refus de l'infrastructure. Les positions sont des propos attribués et les impacts ne sont pas présumés réalisés.",
+  "grievances_note": "Les dix thèmes d'origine sont conservés puis complétés par trois fiches précisant les conventions, les indemnisations et le contentieux.",
+  "grievances_count": 13,
+  "grievances_scope": "local opposition, agricultural concern, regulatory procedure",
+  "grievances_source_policy": "Liens directs vers les documents cités ; les critiques historiques et estimations restent attribuées.",
+  "griefs": [
+    {
+      "id": "amiens_grief_001",
+      "title": "🌲 Déforestation et biodiversité",
+      "text": "Crainte liée à la destruction de plusieurs hectares de la forêt d’Eu et aux atteintes aux espaces naturels.",
+      "evidence_ids": [
+        "evidence_0001",
+        "evidence_0003",
+        "evidence_0008"
+      ],
+      "qualification": "Les surfaces de déboisement sont des estimations ou craintes exprimées, et non un décompte post-travaux.",
+      "scope": "local_or_documentary_opposition",
+      "position_not_inferred": true
+    },
+    {
+      "id": "amiens_grief_002",
+      "title": "🦅 Menace sur le Busard cendré",
+      "text": "Espèce protégée régulièrement citée dans les inquiétudes environnementales.",
+      "evidence_ids": [
+        "evidence_0001"
+      ],
+      "qualification": "L'atteinte à l'espèce protégée est un risque discuté ; ne pas conclure automatiquement à une destruction d'habitat ou à l'absence de risque.",
+      "scope": "local_or_documentary_opposition",
+      "position_not_inferred": true
+    },
+    {
+      "id": "amiens_grief_003",
+      "title": "🏗️ Artificialisation et paysage",
+      "text": "Rejet de pylônes de grande hauteur transformant des secteurs ruraux et forestiers.",
+      "evidence_ids": [
+        "evidence_0004",
+        "evidence_0008"
+      ],
+      "qualification": "Les contraintes paysagères citées sont principalement prospectives, selon le fuseau et le tracé définitif.",
+      "scope": "local_or_documentary_opposition",
+      "position_not_inferred": true
+    },
+    {
+      "id": "amiens_grief_004",
+      "title": "🏡 Dégradation du cadre de vie",
+      "text": "Nuisances visuelles, proximité des habitations et effets redoutés.",
+      "evidence_ids": [
+        "evidence_0004",
+        "evidence_0005"
+      ],
+      "qualification": "Les effets ressentis ou anticipés par les riverains sont attribués à leur témoignage.",
+      "scope": "local_or_documentary_opposition",
+      "position_not_inferred": true
+    },
+    {
+      "id": "amiens_grief_005",
+      "title": "📉 Dévalorisation immobilière",
+      "text": "Crainte d’une diminution de la valeur des biens à proximité du tracé.",
+      "evidence_ids": [
+        "evidence_0004",
+        "evidence_0005"
+      ],
+      "qualification": "Les pertes de valeur immobilière citées par des riverains ne constituent pas une expertise financière indépendante.",
+      "scope": "local_or_documentary_opposition",
+      "position_not_inferred": true
+    },
+    {
+      "id": "amiens_grief_006",
+      "title": "🚜 Impacts agricoles",
+      "text": "Contraintes de circulation, pertes de productivité et atteintes aux exploitations.",
+      "evidence_ids": [
+        "evidence_0006",
+        "evidence_0007",
+        "evidence_0012"
+      ],
+      "qualification": "Il faut distinguer les contraintes agricoles anticipées des pertes d'exploitation déjà constatées.",
+      "scope": "local_or_documentary_opposition",
+      "position_not_inferred": true
+    },
+    {
+      "id": "amiens_grief_007",
+      "title": "💶 Insuffisance des indemnisations",
+      "text": "Contestation des barèmes proposés au regard des préjudices durables.",
+      "evidence_ids": [
+        "evidence_0012",
+        "evidence_0014",
+        "evidence_0015",
+        "evidence_0016"
+      ],
+      "qualification": "La « perte de chance » est une revendication de représentants agricoles et non une indemnité actuellement reconnue pour chaque exploitant.",
+      "scope": "agricultural_compensation",
+      "position_not_inferred": true
+    },
+    {
+      "id": "amiens_grief_008",
+      "title": "⚡ Justification contestée",
+      "text": "Certains opposants contestent les besoins avancés pour justifier l’infrastructure.",
+      "evidence_ids": [
+        "evidence_0001",
+        "evidence_0003",
+        "evidence_0019"
+      ],
+      "qualification": "L'insuffisance des barèmes est une appréciation du monde agricole ; le montant et les conditions définitifs restent à confirmer.",
+      "scope": "agricultural_compensation",
+      "position_not_inferred": true
+    },
+    {
+      "id": "amiens_grief_009",
+      "title": "🗣️ Déficit de concertation",
+      "text": "Critique d’un processus où les solutions alternatives seraient insuffisamment étudiées.",
+      "evidence_ids": [
+        "evidence_0001",
+        "evidence_0026"
+      ],
+      "qualification": "La justification énergétique avancée par RTE et sa contestation par STOP THT doivent être attribuées aux auteurs respectifs.",
+      "scope": "local_or_documentary_opposition",
+      "position_not_inferred": true
+    },
+    {
+      "id": "amiens_grief_010",
+      "title": "⚖️ Sacrifice territorial",
+      "text": "Certains habitants, exploitants et représentants locaux décrivent une concentration des impacts agricoles et paysagers sur les territoires traversés. « Sacrifice territorial » demeure un cadrage analytique des griefs, non un constat établi pour l’ensemble des communes.",
+      "evidence_ids": [
+        "evidence_0009",
+        "evidence_0017",
+        "evidence_0052"
+      ],
+      "qualification": "La perception de la concertation par les opposants ne se confond pas avec le cadre procédural légalement mis en œuvre.",
+      "scope": "local_or_documentary_opposition",
+      "position_not_inferred": true
+    },
+    {
+      "id": "amiens_grief_011",
+      "title": "🌳 Refus de conventions de passage et risque de servitudes",
+      "text": "Francine et José Adam rapportent avoir refusé une convention de passage sur leur propriété près de Touffreville-sur-Eu ; RTE rappelle que des servitudes peuvent être instituées après DUP en l'absence d'accord amiable.",
+      "qualification": "Refus de signature exprimé par deux propriétaires, distinct d'une annulation de la DUP. Les indemnisations évoquées dans des articles différents ne doivent pas être additionnées.",
+      "evidence_ids": [
+        "evidence_amiens1_021",
+        "evidence_amiens1_022"
+      ],
+      "scope": "local_direct",
+      "position_not_inferred": true
+    },
+    {
+      "id": "amiens_grief_012",
+      "title": "🚜 Perte de chance agricole, indemnité au pylône et PAP",
+      "text": "Les FDSEA, JA et organisations partenaires contestent une indemnisation centrée sur le pylône et souhaitent valoriser l'irrigation, la diversification, la logistique et les stratégies futures des exploitations. Les modalités du PAP font également débat.",
+      "qualification": "Réclamations syndicales documentées, sans opposition de principe à la création de la liaison. Les chiffres avancés sont ceux des parties prenantes, non des montants contractuels attribués.",
+      "evidence_ids": [
+        "evidence_amiens1_017",
+        "evidence_amiens1_024",
+        "evidence_amiens1_034",
+        "evidence_amiens1_038"
+      ],
+      "scope": "agricultural_compensation",
+      "position_not_inferred": true
+    },
+    {
+      "id": "amiens_grief_013",
+      "title": "⚖️ Recours envisagés et procédures après DUP",
+      "text": "STOP THT 76-80 annonce envisager des démarches juridiques contre des autorisations qu'il conteste. La ligne principale a reçu une DUP ministérielle le 8 juin 2026 ; la participation relative aux autorisations environnementales relève d'une phase distincte.",
+      "qualification": "Une intention de recours ne prouve ni son dépôt ni son issue. L'enquête de septembre 2025 est achevée et ne doit pas être présentée comme ouverte en 2026.",
+      "evidence_ids": [
+        "evidence_amiens1_020",
+        "evidence_amiens1_022",
+        "evidence_amiens1_025",
+        "evidence_amiens1_026"
+      ],
+      "scope": "legal_procedure",
+      "position_not_inferred": true
+    }
+  ],
+  "vigilance": [
+    {
+      "id": "amiens_watch_001",
+      "title": "Indemnisation agricole ≠ opposition à la ligne",
+      "text": "Le front agricole conteste surtout les protocoles d’indemnisation, sans opposition systématique au principe de la ligne.",
+      "evidence_ids": [
+        "evidence_amiens1_017",
+        "evidence_amiens1_038"
+      ]
+    },
+    {
+      "id": "amiens_watch_002",
+      "title": "Forêt d'Eu : emprise et espèces",
+      "text": "La traversée de la forêt d’Eu cristallise l’opposition locale et municipale.",
+      "evidence_ids": [
+        "evidence_amiens1_032",
+        "evidence_amiens1_035"
+      ]
+    },
+    {
+      "id": "amiens_watch_003",
+      "title": "EPR2 et énergie décarbonée",
+      "text": "Le rattachement aux besoins de l’EPR2 et des parcs éoliens renforce le sentiment d’urgence imposée.",
+      "evidence_ids": [
+        "evidence_amiens1_029"
+      ]
+    },
+    {
+      "id": "amiens_watch_004",
+      "title": "Enfouissement et variantes",
+      "text": "La revendication d’enfouissement doit être comparée aux contraintes techniques, environnementales, financières et calendaires.",
+      "evidence_ids": [
+        "evidence_amiens1_027",
+        "evidence_0001"
+      ]
+    },
+    {
+      "id": "amiens_watch_005",
+      "title": "DUP et autorisations distinctes",
+      "text": "Statut réglementaire actualisé : avis favorable de la commission d’enquête du 30 octobre 2025, puis DUP de la liaison RTE par arrêté ministériel du 8 juin 2026 (JORF du 11 juin). Les autorisations environnementales distinctes restent à vérifier. Sources : arrêté du 8 juin 2026 et rapport de la commission d’enquête.",
+      "evidence_ids": [
+        "evidence_amiens1_025",
+        "evidence_amiens1_026"
+      ]
+    },
+    {
+      "id": "amiens_watch_006",
+      "title": "Scénarios du collectif STOP THT",
+      "text": "Le collectif STOP THT 76-80 défend historiquement le scénario 1 et s’oppose aux scénarios 2/2’, 3, 4 et à la traversée de la forêt d’Eu. Ne pas assimiler cette position à un refus de principe de toutes les infrastructures électriques. Source : contribution du collectif.",
+      "evidence_ids": [
+        "evidence_amiens1_027"
+      ]
+    },
+    {
+      "id": "amiens_watch_007",
+      "title": "Périmètre EDF / Enedis / RTE",
+      "text": "EDF/EPR2 et Enedis/Bresle sont des projets ou ouvrages distincts de la liaison RTE. Une relation de contexte ou d’interface électrique ne vaut pas maîtrise d’ouvrage commune. Sources : EDF, RTE et avis administratif du poste Bresle.",
+      "evidence_ids": [
+        "evidence_amiens1_026",
+        "evidence_0019"
+      ]
+    },
+    {
+      "id": "amiens_watch_008",
+      "title": "Cohérence des chiffres",
+      "text": "Le nombre et le coût des pylônes, la localisation précise des impacts et l'horizon des travaux peuvent évoluer selon les documents : ne pas agréger les chiffres de pièces de périmètres ou de dates différents.",
+      "evidence_ids": [
+        "evidence_amiens1_029",
+        "evidence_amiens1_024"
+      ]
+    },
+    {
+      "id": "amiens_watch_009",
+      "title": "Maire de Touffreville-sur-Eu",
+      "text": "La fiche de l'ancien « maire de Touffreville-sur-Eu » a été identifiée grâce à BANATIC comme Jérôme Massy (2026). La position de cette personne sur la ligne n'est pas démontrée.",
+      "evidence_ids": [
+        "evidence_0054"
+      ]
+    },
+    {
+      "id": "amiens_watch_010",
+      "title": "Eiffage : rôle non contractualisé",
+      "text": "La mention d'Eiffage dans un témoignage agricole ne démontre ni la nature du marché ni une position de l'entreprise. La fiche est conservée en statut neutre à titre de mention documentée.",
+      "evidence_ids": [
+        "evidence_amiens1_036"
+      ]
+    },
+    {
+      "id": "amiens_watch_011",
+      "title": "Traçabilité des sources de presse",
+      "text": "Les sources Actu.fr, ICI et Courrier Picard sont présentes dans le corpus fourni mais leur lecture directe n'a pas pu être confirmée. Ne pas les présenter comme consultées en ligne ; les faits essentiels ont été recoupés avec d'autres références.",
+      "evidence_ids": [
+        "evidence_amiens1_041"
+      ]
+    },
+    {
+      "id": "amiens_watch_012",
+      "title": "Conseil d'État et éventuel contentieux",
+      "text": "Une intention de recours exprimée en juin 2026 ne permet pas d'affirmer qu'une action a été déposée, qu'une DUP a été suspendue ou que la juridiction a tranché.",
+      "evidence_ids": [
+        "evidence_amiens1_020",
+        "evidence_amiens1_025"
+      ]
+    },
+    {
+      "id": "amiens_watch_013",
+      "title": "Accords amiables / servitudes",
+      "text": "L'absence de signature de certains riverains n'interdit pas en soi la poursuite des procédures ; distinguer offres d'indemnisation, convention de passage et servitude juridiquement constituée.",
+      "evidence_ids": [
+        "evidence_amiens1_021",
+        "evidence_amiens1_022"
+      ]
+    },
+    {
+      "id": "amiens_watch_014",
+      "title": "Perte de chance et engagements financiers",
+      "text": "RTE, syndicats et préfecture ont évoqué des barèmes et mécanismes PAP. Aucun accord individuel définitif ni attribution complète du PAP ne ressort du lot.",
+      "evidence_ids": [
+        "evidence_amiens1_024",
+        "evidence_amiens1_034",
+        "evidence_amiens1_038"
+      ]
+    },
+    {
+      "id": "amiens_watch_015",
+      "title": "Réunion agricole de juillet 2026",
+      "text": "Un article du 9 juillet annonçait une réunion le 10 juillet ; ne pas en déduire une médiation aboutie ni des montants négociés sans compte rendu.",
+      "evidence_ids": [
+        "evidence_amiens1_019"
+      ]
+    },
+    {
+      "id": "amiens_watch_016",
+      "title": "Calendrier des travaux",
+      "text": "La période 2028–2034 figure dans les déclarations relayées en juin 2026 ; elle reste indicative et distincte des travaux réalisés et autorisations environnementales.",
+      "evidence_ids": [
+        "evidence_amiens1_023"
+      ]
+    },
+    {
+      "id": "amiens_watch_017",
+      "title": "Observations naturalistes versus position des observateurs",
+      "text": "Les propos attribués à Claude Pichard dans la contribution STOP THT portent sur des observations d'oiseaux. Aucune opposition personnelle au projet ne peut être inférée.",
+      "evidence_ids": [
+        "evidence_amiens1_016"
+      ]
+    },
+    {
+      "id": "amiens_watch_018",
+      "title": "Soutiens associatifs déclarés par STOP THT",
+      "text": "Cinq organisations sont citées comme soutiens du collectif. Leur inclusion ne prouve pas chacune un avis écrit autonome ni un recours ou une prise de position propre.",
+      "evidence_ids": [
+        "evidence_amiens1_011",
+        "evidence_amiens1_012",
+        "evidence_amiens1_013",
+        "evidence_amiens1_014",
+        "evidence_amiens1_015"
+      ]
+    }
+  ],
+  "sources": [
+    "source_0008",
+    "source_0009",
+    "source_0010",
+    "source_0011",
+    "source_0012",
+    "source_0013",
+    "source_0014",
+    "source_0015",
+    "source_0016",
+    "source_0017",
+    "source_0018",
+    "source_0019",
+    "source_0020",
+    "source_0021",
+    "source_0022",
+    "source_0023",
+    "source_0024",
+    "source_0025",
+    "source_0026",
+    "source_0027",
+    "source_0028",
+    "source_0029",
+    "source_amiens1_001",
+    "source_amiens1_002"
+  ],
+  "method": "Les articles transmis sont lus ligne par ligne. Publication et date de collecte sont séparées ; des nouvelles dépêches reprenant un article de 2025 ne deviennent pas des jalons de 2026. Un soutien politique, une fonction administrative et une opposition locale sont des catégories différentes."
+}

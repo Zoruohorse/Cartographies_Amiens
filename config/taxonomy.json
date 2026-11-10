@@ -147,5 +147,66 @@
       "label": "Mentionne",
       "directed": true
     }
+  },
+  "timeline": {
+    "grouping": "month",
+    "event_type": "first_documented_appearance",
+    "default_mode": "cumulative",
+    "default_scope": "direct",
+    "categories": [
+      {
+        "id": "elus",
+        "label": "Élus et responsables politiques",
+        "color": "#b77fc4"
+      },
+      {
+        "id": "associations",
+        "label": "Associations et collectifs",
+        "color": "#ea925b"
+      },
+      {
+        "id": "agriculture",
+        "label": "Agriculture et foncier",
+        "color": "#c69637"
+      },
+      {
+        "id": "entreprises",
+        "label": "RTE, industrie et énergie",
+        "color": "#249d93"
+      },
+      {
+        "id": "institutions",
+        "label": "Institutions et procédures",
+        "color": "#5286ca"
+      },
+      {
+        "id": "habitants",
+        "label": "Riverains et observateurs",
+        "color": "#d96a69"
+      }
+    ],
+    "stances": [
+      {
+        "id": "opposed",
+        "label": "Opposés ou critiques du tracé",
+        "color": "#dc2626"
+      },
+      {
+        "id": "favorable",
+        "label": "Favorables ou soutien à la ligne",
+        "color": "#16a34a"
+      },
+      {
+        "id": "neutral",
+        "label": "Prudents ou demandeurs d'indemnisation",
+        "color": "#f59e0b"
+      },
+      {
+        "id": "unknown",
+        "label": "Position sur le tracé non établie",
+        "color": "#94a3b8"
+      }
+    ],
+    "methodology": "La date correspond à la première source datée de la fiche et non à une apparition historique effective ni à un changement de position. Les soutiens associatifs cités sans avis autonome et les participants institutionnels non positionnés sont classés non établis. Le graphique local distingue les acteurs directs du contexte."
   }
 }

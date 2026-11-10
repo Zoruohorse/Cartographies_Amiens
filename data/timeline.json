@@ -1,0 +1,996 @@
+[
+  {
+    "id": "timeline_amiens_actor_0028",
+    "actor_id": "actor_0028",
+    "event_type": "first_documented_appearance",
+    "date": "2024-01-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0025"
+    ],
+    "evidence_ids": [
+      "evidence_0028"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2024-01-25. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Représentant de RTE dans la concertation technique, présente les éléments du projet et ses conséquences territoriales ; aucune position personnelle distincte de RTE n'est prouvée.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0012",
+    "actor_id": "actor_0012",
+    "event_type": "first_documented_appearance",
+    "date": "2025-06-23",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "agriculture",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0012"
+    ],
+    "evidence_ids": [
+      "evidence_0036"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2025-06-23. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "La FDSEA de la Somme demande une compensation des préjudices à long terme et la reconnaissance de la perte de chance, avec rupture déclarée des négociations en février 2026 ; aucun rejet de principe de la ligne n’est établi.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0013",
+    "actor_id": "actor_0013",
+    "event_type": "first_documented_appearance",
+    "date": "2025-06-23",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "agriculture",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0012"
+    ],
+    "evidence_ids": [
+      "evidence_0013"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2025-06-23. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Participe à la coordination syndicale des exploitants concernés et aux revendications d'indemnisation, sans rejet formel de toute liaison électrique.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0019",
+    "actor_id": "actor_0019",
+    "event_type": "first_documented_appearance",
+    "date": "2025-08-14",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0029"
+    ],
+    "evidence_ids": [
+      "evidence_0060"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2025-08-14. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "RTE porte le projet de ligne aérienne à deux circuits 400 kV, environ 80 km entre Argœuves et Navarre ; le projet a reçu une DUP par arrêté ministériel du 8 juin 2026. RTE défend le besoin de transport supplémentaire, sans que la DUP signifie mise en service ni accord de passage individuel.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0020",
+    "actor_id": "actor_0020",
+    "event_type": "first_documented_appearance",
+    "date": "2025-10-30",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0020"
+    ],
+    "evidence_ids": [
+      "evidence_0020"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2025-10-30. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Responsable d'ouvrages de distribution liés au secteur de Beauchamps, mais non maître d'ouvrage de la ligne principale de transport RTE.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0023",
+    "actor_id": "actor_0023",
+    "event_type": "first_documented_appearance",
+    "date": "2025-10-30",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "institutions",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0020"
+    ],
+    "evidence_ids": [
+      "evidence_0023"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2025-10-30. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Préfecture intervenant dans le dossier sur le territoire de Seine-Maritime et la procédure d'enquête ; sans prise de position politique propre.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0024",
+    "actor_id": "actor_0024",
+    "event_type": "first_documented_appearance",
+    "date": "2025-10-30",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "institutions",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0020"
+    ],
+    "evidence_ids": [
+      "evidence_0046"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2025-10-30. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Autorité indépendante d'évaluation environnementale ayant émis un avis sur l'étude d'impact en avril 2025, sans équivalent d'autorisation.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0025",
+    "actor_id": "actor_0025",
+    "event_type": "first_documented_appearance",
+    "date": "2025-10-30",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "institutions",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0020"
+    ],
+    "evidence_ids": [
+      "evidence_0047"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2025-10-30. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Une commission indépendante d’évaluation du préjudice visuel est annoncée par RTE pour les propriétaires ; le corpus ne confirme ni sa constitution effective ni un montant individuel versé.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0027",
+    "actor_id": "actor_0027",
+    "event_type": "first_documented_appearance",
+    "date": "2025-10-30",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "institutions",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0020"
+    ],
+    "evidence_ids": [
+      "evidence_0027"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2025-10-30. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "A rendu le 30 octobre 2025 un avis favorable au projet de liaison, assorti de quatre recommandations, sans que cet avis constitue lui-même une DUP.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0016",
+    "actor_id": "actor_0016",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "agriculture",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0016"
+    ],
+    "evidence_ids": [
+      "evidence_0016"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2025-11-25. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "La Chambre d’agriculture de la Somme, notamment par sa présidente Françoise Crété, demande la prise en compte des restrictions de production et de diversification dues aux pylônes, sans rejet global de la liaison.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0009",
+    "actor_id": "actor_0009",
+    "event_type": "first_documented_appearance",
+    "date": "2026-02-19",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0011"
+    ],
+    "evidence_ids": [
+      "evidence_0009"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-02-19. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Rollon Mouchel-Blaisot reconnaît le besoin national de la ligne mais cherche un accord sur les indemnisations agricoles ; la préfecture a annoncé une nouvelle réunion le 10 juillet 2026, sans résultat documenté dans le corpus.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0010",
+    "actor_id": "actor_0010",
+    "event_type": "first_documented_appearance",
+    "date": "2026-02-19",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "elus",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0011"
+    ],
+    "evidence_ids": [
+      "evidence_0010"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-02-19. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Présente les instruments d'accompagnement territorial et explique les modalités envisagées d'indemnisation ; pas de préférence politique individuelle démontrée.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0014",
+    "actor_id": "actor_0014",
+    "event_type": "first_documented_appearance",
+    "date": "2026-02-19",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "agriculture",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0011"
+    ],
+    "evidence_ids": [
+      "evidence_0014"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-02-19. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Les JA 80, représentés notamment par Quentin Porquier, contestent les barèmes au pylône et défendent une indemnisation individuelle reflétant les servitudes et pertes de chance ; sans opposition de principe documentée.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0017",
+    "actor_id": "actor_0017",
+    "event_type": "first_documented_appearance",
+    "date": "2026-02-19",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "agriculture",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0011"
+    ],
+    "evidence_ids": [
+      "evidence_0017"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-02-19. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Représente les intérêts fonciers lors des échanges sur les servitudes et les indemnisations, sans position globale démontrée contre le projet.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0018",
+    "actor_id": "actor_0018",
+    "event_type": "first_documented_appearance",
+    "date": "2026-02-19",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "agriculture",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0011"
+    ],
+    "evidence_ids": [
+      "evidence_0018"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-02-19. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "La CGB 80 évoque les contraintes d’utilisation des engins, de stockage de betteraves et les coûts logistiques supplémentaires possibles à proximité de la ligne.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_amiens1_001",
+    "actor_id": "actor_amiens1_001",
+    "event_type": "first_documented_appearance",
+    "date": "2026-02-19",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "institutions",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0011"
+    ],
+    "evidence_ids": [
+      "evidence_amiens1_001"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-02-19. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Président de la FDSEA de la Somme, demande une indemnisation agricole reflétant les contraintes de long terme ; conteste les propositions de RTE sans rejeter le besoin électrique.",
+    "stance_scope": "acteur_syndical"
+  },
+  {
+    "id": "timeline_amiens_actor_amiens1_002",
+    "actor_id": "actor_amiens1_002",
+    "event_type": "first_documented_appearance",
+    "date": "2026-02-19",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "institutions",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0011"
+    ],
+    "evidence_ids": [
+      "evidence_amiens1_002"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-02-19. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Président des Jeunes Agriculteurs de la Somme, réclame une indemnisation individuelle et une réparation de la perte de chance. Prénom et patronyme confirmés dans plusieurs articles ; « Porquet » figure dans un extrait du Courrier Picard.",
+    "stance_scope": "acteur_syndical"
+  },
+  {
+    "id": "timeline_amiens_actor_amiens1_003",
+    "actor_id": "actor_amiens1_003",
+    "event_type": "first_documented_appearance",
+    "date": "2026-02-19",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "institutions",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0011"
+    ],
+    "evidence_ids": [
+      "evidence_amiens1_003"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-02-19. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Agriculteur à Vaudricourt et élu de la FDSEA de la Somme, participant à la délégation du 18 février 2026 auprès des services de l’État.",
+    "stance_scope": "acteur_syndical"
+  },
+  {
+    "id": "timeline_amiens_actor_amiens1_004",
+    "actor_id": "actor_amiens1_004",
+    "event_type": "first_documented_appearance",
+    "date": "2026-02-19",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "institutions",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0011"
+    ],
+    "evidence_ids": [
+      "evidence_amiens1_004"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-02-19. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Représentant de la FNSEA 76, agriculteur installé à Petit-Caux, cité dans la négociation des indemnisations de la ligne.",
+    "stance_scope": "acteur_syndical"
+  },
+  {
+    "id": "timeline_amiens_actor_amiens1_005",
+    "actor_id": "actor_amiens1_005",
+    "event_type": "first_documented_appearance",
+    "date": "2026-02-19",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "institutions",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0011"
+    ],
+    "evidence_ids": [
+      "evidence_amiens1_005"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-02-19. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Administratrice de la FNSEA chargée des questions foncières et des protocoles ; revendique une indemnité liée à la perte de chance agricole.",
+    "stance_scope": "acteur_syndical"
+  },
+  {
+    "id": "timeline_amiens_actor_amiens1_006",
+    "actor_id": "actor_amiens1_006",
+    "event_type": "first_documented_appearance",
+    "date": "2026-02-19",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "institutions",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0011"
+    ],
+    "evidence_ids": [
+      "evidence_amiens1_006"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-02-19. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Présidente de la Chambre d’agriculture de la Somme, exprime des préoccupations sur les impacts des pylônes sur la diversification des exploitations.",
+    "stance_scope": "acteur_institutionnel"
+  },
+  {
+    "id": "timeline_amiens_actor_amiens1_007",
+    "actor_id": "actor_amiens1_007",
+    "event_type": "first_documented_appearance",
+    "date": "2026-02-19",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "institutions",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0011"
+    ],
+    "evidence_ids": [
+      "evidence_amiens1_007"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-02-19. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Représentant de la CGB 80, relaie les difficultés d’implantation et de déplacement des silos de betteraves à proximité d’ouvrages THT.",
+    "stance_scope": "acteur_syndical"
+  },
+  {
+    "id": "timeline_amiens_actor_0015",
+    "actor_id": "actor_0015",
+    "event_type": "first_documented_appearance",
+    "date": "2026-03-11",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "agriculture",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0015"
+    ],
+    "evidence_ids": [
+      "evidence_0015"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-03-11. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Défend une juste indemnisation agricole, des servitudes négociées et la reconnaissance des préjudices liés à la ligne ; pas de rejet du principe même du projet.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_amiens1_008",
+    "actor_id": "actor_amiens1_008",
+    "event_type": "first_documented_appearance",
+    "date": "2026-04-16",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "institutions",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0013"
+    ],
+    "evidence_ids": [
+      "evidence_amiens1_008"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-04-16. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Participante nommée à la rencontre agricole du 9 avril 2026 avec la préfecture ; mandat ou position personnelle sur la ligne non précisés dans l’extrait.",
+    "stance_scope": "participant_sans_position"
+  },
+  {
+    "id": "timeline_amiens_actor_amiens1_009",
+    "actor_id": "actor_amiens1_009",
+    "event_type": "first_documented_appearance",
+    "date": "2026-04-16",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "institutions",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0013"
+    ],
+    "evidence_ids": [
+      "evidence_amiens1_009"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-04-16. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Directeur de la DDTM cité comme participant à la réunion du 9 avril 2026 ; rôle administratif, sans position personnelle documentée sur le tracé.",
+    "stance_scope": "participant_sans_position"
+  },
+  {
+    "id": "timeline_amiens_actor_amiens1_010",
+    "actor_id": "actor_amiens1_010",
+    "event_type": "first_documented_appearance",
+    "date": "2026-04-16",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0013"
+    ],
+    "evidence_ids": [
+      "evidence_amiens1_010"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-04-16. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Chef de service agricole cité parmi les participants à la réunion préfectorale du 9 avril 2026 ; aucune position personnelle exprimée.",
+    "stance_scope": "participant_sans_position"
+  },
+  {
+    "id": "timeline_amiens_actor_0004",
+    "actor_id": "actor_0004",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-03",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "habitants",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0010"
+    ],
+    "evidence_ids": [
+      "evidence_0032"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-06-03. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Francine Adam refuse avec José Adam une convention de passage à Touffreville-sur-Eu ; elle redoute l’abattage d’arbres, la dégradation de la qualité de vie et une moins-value immobilière, selon son témoignage.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0005",
+    "actor_id": "actor_0005",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-03",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "habitants",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0010"
+    ],
+    "evidence_ids": [
+      "evidence_0033"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-06-03. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "José Adam déclare refuser de signer une convention de passage près de son domicile à Touffreville-sur-Eu, invoquant les arbres, le paysage et la proximité de la nouvelle ligne.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0001",
+    "actor_id": "actor_0001",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "institutions",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0009"
+    ],
+    "evidence_ids": [
+      "evidence_0030"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-06-10. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "STOP THT 76-80 s’oppose à la traversée de la forêt d’Eu et aux variantes les plus impactantes, défend le scénario 1 ainsi qu’une alimentation 225 kV alternative de Beauchamps. En juin 2026, son porte-parole envisage des recours futurs ; aucun recours déjà déposé n’est établi par cet extrait.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0003",
+    "actor_id": "actor_0003",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "habitants",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0009"
+    ],
+    "evidence_ids": [
+      "evidence_0003"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-06-10. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Sylvain Finet, porte-parole de STOP THT 76-80, conteste le tracé et sa justification énergétique ; il envisage des démarches contentieuses contre d’éventuelles autorisations, sans qu’un dépôt effectif soit établi.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0006",
+    "actor_id": "actor_0006",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "habitants",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0009"
+    ],
+    "evidence_ids": [
+      "evidence_0006"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-06-10. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Mathieu Massy, agriculteur, exprime ses inquiétudes devant la pose de pylônes et les contraintes sur son exploitation ; opposition documentée au tracé prévu, préjudice économique non arbitré.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0007",
+    "actor_id": "actor_0007",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "habitants",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0009"
+    ],
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-06-10. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Reynald Massy, éleveur, conteste l’abattage projeté d’un bosquet protecteur pour ses animaux et les effets attendus sur l’élevage ; il s’agit de craintes attribuées.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0008",
+    "actor_id": "actor_0008",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "opposed",
+    "source_ids": [
+      "source_0009"
+    ],
+    "evidence_ids": [
+      "evidence_0008"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-06-10. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Christine Rodier, maire de Millebosc, critique explicitement le passage dans la forêt d’Eu et les impacts paysagers et environnementaux qu’elle redoute ; les hectares cités sont des estimations contestées.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0029",
+    "actor_id": "actor_0029",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0009"
+    ],
+    "evidence_ids": [
+      "evidence_0029"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-06-10. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "Eiffage est cité dans un témoignage local relatif aux échanges avec les entreprises sur le tracé ; contrat et rôle précis non établis par les pièces examinées.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0022",
+    "actor_id": "actor_0022",
+    "event_type": "first_documented_appearance",
+    "date": "2026-06-11",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "institutions",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0021"
+    ],
+    "evidence_ids": [
+      "evidence_0022"
+    ],
+    "confidence": "high",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Première source datée référencée dans la fiche : 2026-06-11. Cela ne date pas nécessairement la première position de l'acteur.",
+    "summary": "La préfecture de la Somme accompagne les procédures et les échanges agricoles ; la DUP de la liaison principale est un acte ministériel du 8 juin 2026, distinct des autorisations environnementales et des conventions d’indemnisation.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0002",
+    "actor_id": "actor_0002",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "institutions",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "confidence": "low",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Aucune date de publication fiable des preuves rattachées : acteur exclu des graphiques, malgré sa présence dans le référentiel.",
+    "summary": "Intitulé historique générique : des organisations nommées soutiennent la mobilisation, mais aucune position collective unique ne peut être attribuée à toutes les associations nationales de défense de l’environnement.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0011",
+    "actor_id": "actor_0011",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "elus",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0026"
+    ],
+    "evidence_ids": [
+      "evidence_0011"
+    ],
+    "confidence": "low",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Aucune date de publication fiable des preuves rattachées : acteur exclu des graphiques, malgré sa présence dans le référentiel.",
+    "summary": "Jérôme Massy est identifié comme maire de Touffreville-sur-Eu en 2026 ; sa position personnelle sur la ligne n'est pas établie.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0021",
+    "actor_id": "actor_0021",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "entreprises",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0023",
+      "source_0018"
+    ],
+    "evidence_ids": [
+      "evidence_0021",
+      "evidence_0043"
+    ],
+    "confidence": "low",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Aucune date de publication fiable des preuves rattachées : acteur exclu des graphiques, malgré sa présence dans le référentiel.",
+    "summary": "EDF porte le projet distinct EPR2 de Penly, dont l'insertion dans le système électrique fait partie du contexte ; aucun soutien individuel d'EDF au tracé n'est démontré ici.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_0026",
+    "actor_id": "actor_0026",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "institutions",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0019",
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_0026",
+      "evidence_0048"
+    ],
+    "confidence": "low",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Aucune date de publication fiable des preuves rattachées : acteur exclu des graphiques, malgré sa présence dans le référentiel.",
+    "summary": "Autorité indépendante encadrant la participation du public à la concertation de 2022–2023 et son suivi, sans soutien ou opposition de principe.",
+    "stance_scope": "current_documented_claim_not_history"
+  },
+  {
+    "id": "timeline_amiens_actor_amiens1_011",
+    "actor_id": "actor_amiens1_011",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_amiens1_011"
+    ],
+    "confidence": "low",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Aucune date de publication fiable des preuves rattachées : acteur exclu des graphiques, malgré sa présence dans le référentiel.",
+    "summary": "Organisation citée dans une contribution du collectif STOP THT 76-80 parmi les soutiens à sa mobilisation ; pas de prise de position indépendante sur le tracé reproduite.",
+    "stance_scope": "association_soutien_collectif"
+  },
+  {
+    "id": "timeline_amiens_actor_amiens1_012",
+    "actor_id": "actor_amiens1_012",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_amiens1_012"
+    ],
+    "confidence": "low",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Aucune date de publication fiable des preuves rattachées : acteur exclu des graphiques, malgré sa présence dans le référentiel.",
+    "summary": "Association patrimoniale citée comme soutien du collectif STOP THT 76-80, sans expression directe d’une position institutionnelle autonome sur le tracé.",
+    "stance_scope": "association_soutien_collectif"
+  },
+  {
+    "id": "timeline_amiens_actor_amiens1_013",
+    "actor_id": "actor_amiens1_013",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_amiens1_013"
+    ],
+    "confidence": "low",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Aucune date de publication fiable des preuves rattachées : acteur exclu des graphiques, malgré sa présence dans le référentiel.",
+    "summary": "Association environnementale de Saint-Pierre-en-Val, citée par STOP THT 76-80 parmi ses soutiens ; avis propre sur le tracé non reproduit.",
+    "stance_scope": "association_soutien_collectif"
+  },
+  {
+    "id": "timeline_amiens_actor_amiens1_014",
+    "actor_id": "actor_amiens1_014",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_amiens1_014"
+    ],
+    "confidence": "low",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Aucune date de publication fiable des preuves rattachées : acteur exclu des graphiques, malgré sa présence dans le référentiel.",
+    "summary": "Association patrimoniale citée par STOP THT 76-80 pour sa mobilisation relative à la chapelle de Gousseauville et au patrimoine d’Incheville.",
+    "stance_scope": "association_soutien_collectif"
+  },
+  {
+    "id": "timeline_amiens_actor_amiens1_015",
+    "actor_id": "actor_amiens1_015",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "associations",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_amiens1_015"
+    ],
+    "confidence": "low",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Aucune date de publication fiable des preuves rattachées : acteur exclu des graphiques, malgré sa présence dans le référentiel.",
+    "summary": "Collectif nommé dans la contribution de STOP THT 76-80 comme soutien ; l’extrait le situe à Eu. Position autonome sur les variantes de tracé non disponible.",
+    "stance_scope": "association_soutien_collectif"
+  },
+  {
+    "id": "timeline_amiens_actor_amiens1_016",
+    "actor_id": "actor_amiens1_016",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "habitants",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_amiens1_016"
+    ],
+    "confidence": "low",
+    "date_kind": "publication_date_of_existing_documented_source",
+    "date_basis": "Aucune date de publication fiable des preuves rattachées : acteur exclu des graphiques, malgré sa présence dans le référentiel.",
+    "summary": "Ancien technicien forestier et observateur d’oiseaux cité dans la contribution du collectif sur la faune de la vallée de la Bresle ; aucun positionnement personnel connu sur la ligne.",
+    "stance_scope": "expert_cite_sans_position"
+  }
+]
