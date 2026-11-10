@@ -846,5 +846,277 @@
       "sources"
     ],
     "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_amiens1_001",
+    "type": "person",
+    "name": "Denis Bully",
+    "short_name": "Denis Bully",
+    "description": "Président de la FDSEA de la Somme, demande une indemnisation agricole reflétant les contraintes de long terme ; conteste les propositions de RTE sans rejeter le besoin électrique.",
+    "roles": [
+      {
+        "label": "acteur syndical"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-10",
+    "position_scope": "acteur_syndical"
+  },
+  {
+    "id": "actor_amiens1_002",
+    "type": "person",
+    "name": "Quentin Porquier",
+    "short_name": "Quentin Porquier",
+    "description": "Président des Jeunes Agriculteurs de la Somme, réclame une indemnisation individuelle et une réparation de la perte de chance. Prénom et patronyme confirmés dans plusieurs articles ; « Porquet » figure dans un extrait du Courrier Picard.",
+    "roles": [
+      {
+        "label": "acteur syndical"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-10",
+    "position_scope": "acteur_syndical"
+  },
+  {
+    "id": "actor_amiens1_003",
+    "type": "person",
+    "name": "Thibaut Henocque",
+    "short_name": "Thibaut Henocque",
+    "description": "Agriculteur à Vaudricourt et élu de la FDSEA de la Somme, participant à la délégation du 18 février 2026 auprès des services de l’État.",
+    "roles": [
+      {
+        "label": "acteur syndical"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-10",
+    "position_scope": "acteur_syndical"
+  },
+  {
+    "id": "actor_amiens1_004",
+    "type": "person",
+    "name": "Franck Grémont",
+    "short_name": "Franck Grémont",
+    "description": "Représentant de la FNSEA 76, agriculteur installé à Petit-Caux, cité dans la négociation des indemnisations de la ligne.",
+    "roles": [
+      {
+        "label": "acteur syndical"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-10",
+    "position_scope": "acteur_syndical"
+  },
+  {
+    "id": "actor_amiens1_005",
+    "type": "person",
+    "name": "Laurence Fournier",
+    "short_name": "Laurence Fournier",
+    "description": "Administratrice de la FNSEA chargée des questions foncières et des protocoles ; revendique une indemnité liée à la perte de chance agricole.",
+    "roles": [
+      {
+        "label": "acteur syndical"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-10",
+    "position_scope": "acteur_syndical"
+  },
+  {
+    "id": "actor_amiens1_006",
+    "type": "person",
+    "name": "Françoise Crété",
+    "short_name": "Françoise Crété",
+    "description": "Présidente de la Chambre d’agriculture de la Somme, exprime des préoccupations sur les impacts des pylônes sur la diversification des exploitations.",
+    "roles": [
+      {
+        "label": "acteur institutionnel"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-10",
+    "position_scope": "acteur_institutionnel"
+  },
+  {
+    "id": "actor_amiens1_007",
+    "type": "person",
+    "name": "Jean-Jacques Fatous",
+    "short_name": "Jean-Jacques Fatous",
+    "description": "Représentant de la CGB 80, relaie les difficultés d’implantation et de déplacement des silos de betteraves à proximité d’ouvrages THT.",
+    "roles": [
+      {
+        "label": "acteur syndical"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-10",
+    "position_scope": "acteur_syndical"
+  },
+  {
+    "id": "actor_amiens1_008",
+    "type": "person",
+    "name": "Carine Bouvet",
+    "short_name": "Carine Bouvet",
+    "description": "Participante nommée à la rencontre agricole du 9 avril 2026 avec la préfecture ; mandat ou position personnelle sur la ligne non précisés dans l’extrait.",
+    "roles": [
+      {
+        "label": "participant sans position"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-10",
+    "position_scope": "participant_sans_position"
+  },
+  {
+    "id": "actor_amiens1_009",
+    "type": "person",
+    "name": "Xavier Rousset",
+    "short_name": "Xavier Rousset",
+    "description": "Directeur de la DDTM cité comme participant à la réunion du 9 avril 2026 ; rôle administratif, sans position personnelle documentée sur le tracé.",
+    "roles": [
+      {
+        "label": "participant sans position"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-10",
+    "position_scope": "participant_sans_position"
+  },
+  {
+    "id": "actor_amiens1_010",
+    "type": "person",
+    "name": "Jean-Luc Becel",
+    "short_name": "Jean-Luc Becel",
+    "description": "Chef de service agricole cité parmi les participants à la réunion préfectorale du 9 avril 2026 ; aucune position personnelle exprimée.",
+    "roles": [
+      {
+        "label": "participant sans position"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-10",
+    "position_scope": "participant_sans_position"
+  },
+  {
+    "id": "actor_amiens1_011",
+    "type": "organization",
+    "name": "GNSA — réseau de défense des arbres",
+    "short_name": "GNSA — réseau de défense des arbres",
+    "description": "Organisation citée dans une contribution du collectif STOP THT 76-80 parmi les soutiens à sa mobilisation ; pas de prise de position indépendante sur le tracé reproduite.",
+    "roles": [
+      {
+        "label": "association soutien collectif"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-10",
+    "position_scope": "association_soutien_collectif"
+  },
+  {
+    "id": "actor_amiens1_012",
+    "type": "organization",
+    "name": "Société d’Émulation d’Abbeville",
+    "short_name": "Société d’Émulation d’Abbeville",
+    "description": "Association patrimoniale citée comme soutien du collectif STOP THT 76-80, sans expression directe d’une position institutionnelle autonome sur le tracé.",
+    "roles": [
+      {
+        "label": "association soutien collectif"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-10",
+    "position_scope": "association_soutien_collectif"
+  },
+  {
+    "id": "actor_amiens1_013",
+    "type": "organization",
+    "name": "Terre Mer Forêt (TMF)",
+    "short_name": "Terre Mer Forêt (TMF)",
+    "description": "Association environnementale de Saint-Pierre-en-Val, citée par STOP THT 76-80 parmi ses soutiens ; avis propre sur le tracé non reproduit.",
+    "roles": [
+      {
+        "label": "association soutien collectif"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-10",
+    "position_scope": "association_soutien_collectif"
+  },
+  {
+    "id": "actor_amiens1_014",
+    "type": "organization",
+    "name": "Association de sauvegarde de la chapelle de Gousseauville",
+    "short_name": "Association de sauvegarde de la chapelle de Gousseauville",
+    "description": "Association patrimoniale citée par STOP THT 76-80 pour sa mobilisation relative à la chapelle de Gousseauville et au patrimoine d’Incheville.",
+    "roles": [
+      {
+        "label": "association soutien collectif"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-10",
+    "position_scope": "association_soutien_collectif"
+  },
+  {
+    "id": "actor_amiens1_015",
+    "type": "organization",
+    "name": "Collectif de sauvegarde du chemin vert du Petit-Caux",
+    "short_name": "Collectif de sauvegarde du chemin vert du Petit-Caux",
+    "description": "Collectif nommé dans la contribution de STOP THT 76-80 comme soutien ; l’extrait le situe à Eu. Position autonome sur les variantes de tracé non disponible.",
+    "roles": [
+      {
+        "label": "association soutien collectif"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-10",
+    "position_scope": "association_soutien_collectif"
+  },
+  {
+    "id": "actor_amiens1_016",
+    "type": "person",
+    "name": "Claude Pichard",
+    "short_name": "Claude Pichard",
+    "description": "Ancien technicien forestier et observateur d’oiseaux cité dans la contribution du collectif sur la faune de la vallée de la Bresle ; aucun positionnement personnel connu sur la ligne.",
+    "roles": [
+      {
+        "label": "expert cite sans position"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-11-10",
+    "position_scope": "expert_cite_sans_position"
   }
 ]

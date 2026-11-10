@@ -1160,5 +1160,245 @@
     "valid_from": null,
     "valid_to": null,
     "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_amiens1_001",
+    "source_id": "actor_amiens1_001",
+    "target_id": "actor_0012",
+    "type": "represented_by",
+    "summary": "Denis Bully intervient comme représentant ou responsable lié à FDSEA 80 dans les échanges sur la ligne.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "relation_amiens1_002",
+    "source_id": "actor_amiens1_002",
+    "target_id": "actor_0014",
+    "type": "represented_by",
+    "summary": "Quentin Porquier intervient comme représentant ou responsable lié à JA 80 dans les échanges sur la ligne.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "relation_amiens1_003",
+    "source_id": "actor_amiens1_003",
+    "target_id": "actor_0012",
+    "type": "represented_by",
+    "summary": "Thibaut Henocque intervient comme représentant ou responsable lié à FDSEA 80 dans les échanges sur la ligne.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_003"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "relation_amiens1_004",
+    "source_id": "actor_amiens1_004",
+    "target_id": "actor_0015",
+    "type": "represented_by",
+    "summary": "Franck Grémont intervient comme représentant ou responsable lié à FNSEA 76 dans les échanges sur la ligne.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_004"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "relation_amiens1_005",
+    "source_id": "actor_amiens1_005",
+    "target_id": "project_amiens_petit_caux",
+    "type": "participates_in",
+    "summary": "Laurence Fournier est mentionné au titre de la concertation, des négociations ou du débat sur la ligne ; aucune adhésion au tracé ne se déduit de cette relation.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_005"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "relation_amiens1_006",
+    "source_id": "actor_amiens1_006",
+    "target_id": "actor_0016",
+    "type": "represented_by",
+    "summary": "Françoise Crété intervient comme représentant ou responsable lié à Chambre d’agriculture de la Somme dans les échanges sur la ligne.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_006"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "relation_amiens1_007",
+    "source_id": "actor_amiens1_007",
+    "target_id": "actor_0018",
+    "type": "represented_by",
+    "summary": "Jean-Jacques Fatous intervient comme représentant ou responsable lié à CGB 80 dans les échanges sur la ligne.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_007"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "relation_amiens1_008",
+    "source_id": "actor_amiens1_008",
+    "target_id": "project_amiens_petit_caux",
+    "type": "participates_in",
+    "summary": "Carine Bouvet est mentionné au titre de la concertation, des négociations ou du débat sur la ligne ; aucune adhésion au tracé ne se déduit de cette relation.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_008"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "relation_amiens1_009",
+    "source_id": "actor_amiens1_009",
+    "target_id": "project_amiens_petit_caux",
+    "type": "participates_in",
+    "summary": "Xavier Rousset est mentionné au titre de la concertation, des négociations ou du débat sur la ligne ; aucune adhésion au tracé ne se déduit de cette relation.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_009"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "relation_amiens1_010",
+    "source_id": "actor_amiens1_010",
+    "target_id": "project_amiens_petit_caux",
+    "type": "participates_in",
+    "summary": "Jean-Luc Becel est mentionné au titre de la concertation, des négociations ou du débat sur la ligne ; aucune adhésion au tracé ne se déduit de cette relation.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_010"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "relation_amiens1_011",
+    "source_id": "actor_0001",
+    "target_id": "actor_amiens1_011",
+    "type": "supported_by",
+    "summary": "GNSA — réseau de défense des arbres est cité dans la contribution STOP THT 76-80 comme soutien du collectif, sans avis autonome documenté.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_011"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "relation_amiens1_012",
+    "source_id": "actor_0001",
+    "target_id": "actor_amiens1_012",
+    "type": "supported_by",
+    "summary": "Société d’Émulation d’Abbeville est cité dans la contribution STOP THT 76-80 comme soutien du collectif, sans avis autonome documenté.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_012"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "relation_amiens1_013",
+    "source_id": "actor_0001",
+    "target_id": "actor_amiens1_013",
+    "type": "supported_by",
+    "summary": "Terre Mer Forêt (TMF) est cité dans la contribution STOP THT 76-80 comme soutien du collectif, sans avis autonome documenté.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_013"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "relation_amiens1_014",
+    "source_id": "actor_0001",
+    "target_id": "actor_amiens1_014",
+    "type": "supported_by",
+    "summary": "Association de sauvegarde de la chapelle de Gousseauville est cité dans la contribution STOP THT 76-80 comme soutien du collectif, sans avis autonome documenté.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_014"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "relation_amiens1_015",
+    "source_id": "actor_0001",
+    "target_id": "actor_amiens1_015",
+    "type": "supported_by",
+    "summary": "Collectif de sauvegarde du chemin vert du Petit-Caux est cité dans la contribution STOP THT 76-80 comme soutien du collectif, sans avis autonome documenté.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_015"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "relation_amiens1_016",
+    "source_id": "actor_amiens1_016",
+    "target_id": "project_amiens_petit_caux",
+    "type": "participates_in",
+    "summary": "Claude Pichard est mentionné au titre de la concertation, des négociations ou du débat sur la ligne ; aucune adhésion au tracé ne se déduit de cette relation.",
+    "certainty": "medium",
+    "status": "documented_or_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_016"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
   }
 ]

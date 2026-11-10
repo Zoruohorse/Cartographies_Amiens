@@ -2,8 +2,8 @@
   "id": "project_amiens_petit_caux",
   "title": "Cartographie interactive — Ligne THT Amiens – Petit-Caux",
   "subtitle": "Projet de liaison 400 kV entre Argœuves (Amiens) et Navarre (Petit-Caux), déclaré d’utilité publique en juin 2026 ; enjeux d’acceptabilité, agriculture, forêt d’Eu, EPR2 et raccordements.",
-  "last_updated": "2026-11-03",
-  "data_notice": "Qualification rétrospective des 29 fiches acteurs et des nœuds du réseau. Les positions sont distinctes des simples fonctions et des griefs. Les preuves renvoient à des URL documentaires ; les liens de presse non directement consultables sont signalés « à vérifier » et ne comptent pas comme sources pleinement qualifiées.",
+  "last_updated": "2026-11-10",
+  "data_notice": "Référentiel consolidé au 10 novembre 2026 à partir des 17 ressources d’Amiens(1).xlsx. La DUP de la ligne principale est acquise depuis le 8 juin 2026 (publication 11 juin), mais ni sa construction ni l’autorisation environnementale ne sont confondues avec elle. Les organisations agricoles demandent une indemnisation, sans opposition générale systématique. Les associations de soutien à STOP THT et les simples participants sont distingués des opposants expressément documentés.",
   "griefs": [
     {
       "title": "🌲 Déforestation et biodiversité",
@@ -141,5 +141,7 @@
     "La fiche de l'ancien « maire de Touffreville-sur-Eu » a été identifiée grâce à BANATIC comme Jérôme Massy (2026). La position de cette personne sur la ligne n'est pas démontrée.",
     "La mention d'Eiffage dans un témoignage agricole ne démontre ni la nature du marché ni une position de l'entreprise. La fiche est conservée en statut neutre à titre de mention documentée.",
     "Les sources Actu.fr, ICI et Courrier Picard sont présentes dans le corpus fourni mais leur lecture directe n'a pas pu être confirmée. Ne pas les présenter comme consultées en ligne ; les faits essentiels ont été recoupés avec d'autres références."
-  ]
+  ],
+  "source_workbook_last": "Amiens(1).xlsx",
+  "source_workbook_sha256": "69ad8738762dd10bfc46cbd25a083cc67c79ae6c26ae8ecabd42f594dadc4caa"
 }

@@ -6,17 +6,18 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "S'oppose aux scénarios 2/2’, 3 et 4 et au passage dans la forêt d’Eu ; défend le scénario 1 pour limiter les impacts.",
+    "summary": "STOP THT 76-80 s’oppose à la traversée de la forêt d’Eu et aux variantes les plus impactantes, défend le scénario 1 ainsi qu’une alimentation 225 kV alternative de Beauchamps. En juin 2026, son porte-parole envisage des recours futurs ; aucun recours déjà déposé n’est établi par cet extrait.",
     "certainty": "high",
     "status": "documented",
     "evidence_ids": [
       "evidence_0001",
       "evidence_0030",
-      "evidence_0051"
+      "evidence_0051",
+      "evidence_amiens1_020"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0002",
@@ -42,16 +43,17 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Président et porte-parole de STOP THT 76-80, défend des recours contre le tracé, notamment pour la traversée de la forêt d’Eu et la justification des besoins.",
+    "summary": "Sylvain Finet, porte-parole de STOP THT 76-80, conteste le tracé et sa justification énergétique ; il envisage des démarches contentieuses contre d’éventuelles autorisations, sans qu’un dépôt effectif soit établi.",
     "certainty": "high",
     "status": "documented",
     "evidence_ids": [
       "evidence_0003",
-      "evidence_0031"
+      "evidence_0031",
+      "evidence_amiens1_020"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0004",
@@ -60,16 +62,17 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Refuse avec José Adam le passage à proximité de sa maison à Touffreville-sur-Eu ; craint la perte des arbres protecteurs et une dévalorisation du bien.",
+    "summary": "Francine Adam refuse avec José Adam une convention de passage à Touffreville-sur-Eu ; elle redoute l’abattage d’arbres, la dégradation de la qualité de vie et une moins-value immobilière, selon son témoignage.",
     "certainty": "high",
     "status": "documented",
     "evidence_ids": [
       "evidence_0004",
-      "evidence_0032"
+      "evidence_0032",
+      "evidence_amiens1_021"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0005",
@@ -78,16 +81,17 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Refuse avec Francine Adam le passage de la ligne près de leur maison, en invoquant les arbres, le cadre de vie et la valeur de leur bien.",
+    "summary": "José Adam déclare refuser de signer une convention de passage près de son domicile à Touffreville-sur-Eu, invoquant les arbres, le paysage et la proximité de la nouvelle ligne.",
     "certainty": "high",
     "status": "documented",
     "evidence_ids": [
       "evidence_0005",
-      "evidence_0033"
+      "evidence_0033",
+      "evidence_amiens1_021"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0006",
@@ -96,15 +100,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Agriculteur concerné par les emplacements envisagés de pylônes, conteste les effets attendus sur l'exploitation et les terres.",
+    "summary": "Mathieu Massy, agriculteur, exprime ses inquiétudes devant la pose de pylônes et les contraintes sur son exploitation ; opposition documentée au tracé prévu, préjudice économique non arbitré.",
     "certainty": "high",
     "status": "documented",
     "evidence_ids": [
-      "evidence_0006"
+      "evidence_0006",
+      "evidence_amiens1_036"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0007",
@@ -113,15 +118,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Éleveur inquiet de la destruction d’un bosquet protecteur et des conséquences de la ligne sur l'élevage.",
+    "summary": "Reynald Massy, éleveur, conteste l’abattage projeté d’un bosquet protecteur pour ses animaux et les effets attendus sur l’élevage ; il s’agit de craintes attribuées.",
     "certainty": "high",
     "status": "documented",
     "evidence_ids": [
-      "evidence_0007"
+      "evidence_0007",
+      "evidence_amiens1_036"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0008",
@@ -130,15 +136,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "La maire de Millebosc critique explicitement la destruction forestière et le tracé malgré les retombées économiques potentielles.",
+    "summary": "Christine Rodier, maire de Millebosc, critique explicitement le passage dans la forêt d’Eu et les impacts paysagers et environnementaux qu’elle redoute ; les hectares cités sont des estimations contestées.",
     "certainty": "high",
     "status": "documented",
     "evidence_ids": [
-      "evidence_0008"
+      "evidence_0008",
+      "evidence_amiens1_032"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0009",
@@ -147,16 +154,17 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Reconnaît l'intérêt national de la ligne tout en demandant la prise en compte des préjudices des exploitants.",
+    "summary": "Rollon Mouchel-Blaisot reconnaît le besoin national de la ligne mais cherche un accord sur les indemnisations agricoles ; la préfecture a annoncé une nouvelle réunion le 10 juillet 2026, sans résultat documenté dans le corpus.",
     "certainty": "high",
     "status": "documented",
     "evidence_ids": [
       "evidence_0009",
-      "evidence_0034"
+      "evidence_0034",
+      "evidence_amiens1_019"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0010",
@@ -199,17 +207,18 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Demande la renégociation des indemnisations et la reconnaissance de la perte de chance agricole ; aucune opposition de principe à la ligne n'est établie.",
+    "summary": "La FDSEA de la Somme demande une compensation des préjudices à long terme et la reconnaissance de la perte de chance, avec rupture déclarée des négociations en février 2026 ; aucun rejet de principe de la ligne n’est établi.",
     "certainty": "high",
     "status": "documented",
     "evidence_ids": [
       "evidence_0012",
       "evidence_0035",
-      "evidence_0036"
+      "evidence_0036",
+      "evidence_amiens1_017"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0013",
@@ -236,16 +245,17 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Les Jeunes Agriculteurs de la Somme réclament une prise en compte des pertes agricoles et un meilleur traitement des exploitants impactés.",
+    "summary": "Les JA 80, représentés notamment par Quentin Porquier, contestent les barèmes au pylône et défendent une indemnisation individuelle reflétant les servitudes et pertes de chance ; sans opposition de principe documentée.",
     "certainty": "high",
     "status": "documented",
     "evidence_ids": [
       "evidence_0014",
-      "evidence_0038"
+      "evidence_0038",
+      "evidence_amiens1_024"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0015",
@@ -271,16 +281,17 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Demande une révision approfondie des barèmes d'indemnisation de l'emprise des pylônes et des servitudes agricoles.",
+    "summary": "La Chambre d’agriculture de la Somme, notamment par sa présidente Françoise Crété, demande la prise en compte des restrictions de production et de diversification dues aux pylônes, sans rejet global de la liaison.",
     "certainty": "high",
     "status": "documented",
     "evidence_ids": [
       "evidence_0016",
-      "evidence_0039"
+      "evidence_0039",
+      "evidence_amiens1_038"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0017",
@@ -306,15 +317,16 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Défend les filières betteravières contre les pertes de productivité, de stockage et d'accessibilité causées par les pylônes.",
+    "summary": "La CGB 80 évoque les contraintes d’utilisation des engins, de stockage de betteraves et les coûts logistiques supplémentaires possibles à proximité de la ligne.",
     "certainty": "medium",
     "status": "documented",
     "evidence_ids": [
-      "evidence_0018"
+      "evidence_0018",
+      "evidence_amiens1_038"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0019",
@@ -323,18 +335,19 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Maître d'ouvrage de la ligne 400 kV à deux circuits entre Argœuves et Navarre, défend l'utilité énergétique d'une liaison d'environ 80 km.",
+    "summary": "RTE porte le projet de ligne aérienne à deux circuits 400 kV, environ 80 km entre Argœuves et Navarre ; le projet a reçu une DUP par arrêté ministériel du 8 juin 2026. RTE défend le besoin de transport supplémentaire, sans que la DUP signifie mise en service ni accord de passage individuel.",
     "certainty": "high",
     "status": "documented",
     "evidence_ids": [
       "evidence_0019",
       "evidence_0040",
       "evidence_0041",
-      "evidence_0060"
+      "evidence_0060",
+      "evidence_amiens1_025"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0020",
@@ -379,16 +392,17 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Autorité déconcentrée associée au suivi des procédures ; la DUP résulte de l'arrêté ministériel du 8 juin 2026, et non d'un acte préfectoral individuel.",
+    "summary": "La préfecture de la Somme accompagne les procédures et les échanges agricoles ; la DUP de la liaison principale est un acte ministériel du 8 juin 2026, distinct des autorisations environnementales et des conventions d’indemnisation.",
     "certainty": "high",
     "status": "documented",
     "evidence_ids": [
       "evidence_0022",
-      "evidence_0044"
+      "evidence_0044",
+      "evidence_amiens1_026"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0023",
@@ -433,16 +447,17 @@
     "claim_type": "position",
     "topic": "position_globale",
     "value": "neutral",
-    "summary": "Dispositif d'indemnisation évoqué par RTE pour certains préjudices paysagers ; la constitution effective d'une commission particulière n'est pas confirmée par ce dossier.",
+    "summary": "Une commission indépendante d’évaluation du préjudice visuel est annoncée par RTE pour les propriétaires ; le corpus ne confirme ni sa constitution effective ni un montant individuel versé.",
     "certainty": "medium",
     "status": "documented",
     "evidence_ids": [
       "evidence_0025",
-      "evidence_0047"
+      "evidence_0047",
+      "evidence_amiens1_039"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-10"
   },
   {
     "id": "claim_0026",
@@ -514,5 +529,277 @@
     "valid_from": null,
     "valid_to": null,
     "updated_at": "2026-11-03"
+  },
+  {
+    "id": "claim_amiens1_001",
+    "subject_id": "actor_amiens1_001",
+    "project_id": "project_amiens_petit_caux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Président de la FDSEA de la Somme, demande une indemnisation agricole reflétant les contraintes de long terme ; conteste les propositions de RTE sans rejeter le besoin électrique.",
+    "certainty": "medium",
+    "status": "reported_and_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_amiens1_002",
+    "subject_id": "actor_amiens1_002",
+    "project_id": "project_amiens_petit_caux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Président des Jeunes Agriculteurs de la Somme, réclame une indemnisation individuelle et une réparation de la perte de chance. Prénom et patronyme confirmés dans plusieurs articles ; « Porquet » figure dans un extrait du Courrier Picard.",
+    "certainty": "medium",
+    "status": "reported_and_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_amiens1_003",
+    "subject_id": "actor_amiens1_003",
+    "project_id": "project_amiens_petit_caux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Agriculteur à Vaudricourt et élu de la FDSEA de la Somme, participant à la délégation du 18 février 2026 auprès des services de l’État.",
+    "certainty": "medium",
+    "status": "reported_and_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_003"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_amiens1_004",
+    "subject_id": "actor_amiens1_004",
+    "project_id": "project_amiens_petit_caux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Représentant de la FNSEA 76, agriculteur installé à Petit-Caux, cité dans la négociation des indemnisations de la ligne.",
+    "certainty": "medium",
+    "status": "reported_and_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_004"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_amiens1_005",
+    "subject_id": "actor_amiens1_005",
+    "project_id": "project_amiens_petit_caux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Administratrice de la FNSEA chargée des questions foncières et des protocoles ; revendique une indemnité liée à la perte de chance agricole.",
+    "certainty": "medium",
+    "status": "reported_and_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_005"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_amiens1_006",
+    "subject_id": "actor_amiens1_006",
+    "project_id": "project_amiens_petit_caux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Présidente de la Chambre d’agriculture de la Somme, exprime des préoccupations sur les impacts des pylônes sur la diversification des exploitations.",
+    "certainty": "medium",
+    "status": "reported_and_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_006"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_amiens1_007",
+    "subject_id": "actor_amiens1_007",
+    "project_id": "project_amiens_petit_caux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Représentant de la CGB 80, relaie les difficultés d’implantation et de déplacement des silos de betteraves à proximité d’ouvrages THT.",
+    "certainty": "medium",
+    "status": "reported_and_attributed",
+    "evidence_ids": [
+      "evidence_amiens1_007"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_amiens1_008",
+    "subject_id": "actor_amiens1_008",
+    "project_id": "project_amiens_petit_caux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "unknown",
+    "summary": "Participante nommée à la rencontre agricole du 9 avril 2026 avec la préfecture ; mandat ou position personnelle sur la ligne non précisés dans l’extrait.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
+    "evidence_ids": [
+      "evidence_amiens1_008"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_amiens1_009",
+    "subject_id": "actor_amiens1_009",
+    "project_id": "project_amiens_petit_caux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "unknown",
+    "summary": "Directeur de la DDTM cité comme participant à la réunion du 9 avril 2026 ; rôle administratif, sans position personnelle documentée sur le tracé.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
+    "evidence_ids": [
+      "evidence_amiens1_009"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_amiens1_010",
+    "subject_id": "actor_amiens1_010",
+    "project_id": "project_amiens_petit_caux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "unknown",
+    "summary": "Chef de service agricole cité parmi les participants à la réunion préfectorale du 9 avril 2026 ; aucune position personnelle exprimée.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
+    "evidence_ids": [
+      "evidence_amiens1_010"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_amiens1_011",
+    "subject_id": "actor_amiens1_011",
+    "project_id": "project_amiens_petit_caux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "unknown",
+    "summary": "Organisation citée dans une contribution du collectif STOP THT 76-80 parmi les soutiens à sa mobilisation ; pas de prise de position indépendante sur le tracé reproduite.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
+    "evidence_ids": [
+      "evidence_amiens1_011"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_amiens1_012",
+    "subject_id": "actor_amiens1_012",
+    "project_id": "project_amiens_petit_caux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "unknown",
+    "summary": "Association patrimoniale citée comme soutien du collectif STOP THT 76-80, sans expression directe d’une position institutionnelle autonome sur le tracé.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
+    "evidence_ids": [
+      "evidence_amiens1_012"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_amiens1_013",
+    "subject_id": "actor_amiens1_013",
+    "project_id": "project_amiens_petit_caux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "unknown",
+    "summary": "Association environnementale de Saint-Pierre-en-Val, citée par STOP THT 76-80 parmi ses soutiens ; avis propre sur le tracé non reproduit.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
+    "evidence_ids": [
+      "evidence_amiens1_013"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_amiens1_014",
+    "subject_id": "actor_amiens1_014",
+    "project_id": "project_amiens_petit_caux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "unknown",
+    "summary": "Association patrimoniale citée par STOP THT 76-80 pour sa mobilisation relative à la chapelle de Gousseauville et au patrimoine d’Incheville.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
+    "evidence_ids": [
+      "evidence_amiens1_014"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_amiens1_015",
+    "subject_id": "actor_amiens1_015",
+    "project_id": "project_amiens_petit_caux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "unknown",
+    "summary": "Collectif nommé dans la contribution de STOP THT 76-80 comme soutien ; l’extrait le situe à Eu. Position autonome sur les variantes de tracé non disponible.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
+    "evidence_ids": [
+      "evidence_amiens1_015"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
+  },
+  {
+    "id": "claim_amiens1_016",
+    "subject_id": "actor_amiens1_016",
+    "project_id": "project_amiens_petit_caux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "unknown",
+    "summary": "Ancien technicien forestier et observateur d’oiseaux cité dans la contribution du collectif sur la faune de la vallée de la Bresle ; aucun positionnement personnel connu sur la ligne.",
+    "certainty": "low",
+    "status": "role_documented_position_not_established",
+    "evidence_ids": [
+      "evidence_amiens1_016"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-10"
   }
 ]
