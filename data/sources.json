@@ -291,10 +291,10 @@
     "publisher": "Action Agricole Picarde",
     "author": null,
     "published_at": "2026-07-09",
-    "url": "https://www.action-agricole-picarde.com/sinistres-climatiques-jacheres-amenagement-du-territoire-le-prefet-de-la-somme-reunit-le-monde",
+    "url": "https://www.action-agricole-picarde.com/tcs/sinistres-climatiques-jacheres-amenagement-du-territoire-le-prefet-de-la-somme-reunit-le-monde",
     "source_type": "press",
     "status": "qualified",
-    "verification": "text_in_uploaded_xlsx",
+    "verification": "web_consulted",
     "provenance": "Amiens(1).xlsx ligne 2",
     "corpus": "Amiens(1).xlsx"
   },

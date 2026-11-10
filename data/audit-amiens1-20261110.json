@@ -1,0 +1,310 @@
+{
+  "reviewed_at": "2026-11-10",
+  "file": "Amiens(1).xlsx",
+  "sha256": "69ad8738762dd10bfc46cbd25a083cc67c79ae6c26ae8ecabd42f594dadc4caa",
+  "sheet": "Amiens Petit-Caux",
+  "range": "A2:G18",
+  "resources_reviewed": 17,
+  "text_chars": 82423,
+  "review": [
+    {
+      "excel_row": 2,
+      "source_reference": "source_amiens1_001",
+      "publication_date": "2026-07-09",
+      "review_status": "new_context",
+      "find_date_not_publication": true,
+      "analysis": "Réunion du 10 juillet annoncée, non tenue confirmée dans le texte ; compensation agricole suivie par FDSEA/JA.",
+      "actor_ids": [
+        "actor_0012",
+        "actor_0014",
+        "actor_0009"
+      ]
+    },
+    {
+      "excel_row": 3,
+      "source_reference": "source_0027",
+      "publication_date": "2025-09-15",
+      "review_status": "duplicate_archive",
+      "find_date_not_publication": true,
+      "analysis": "Publication ICI de septembre 2025, reproduite ; enquête publique terminée en octobre 2025.",
+      "actor_ids": [
+        "actor_0001"
+      ]
+    },
+    {
+      "excel_row": 4,
+      "source_reference": "source_0008",
+      "publication_date": null,
+      "review_status": "historical_primary_partial",
+      "find_date_not_publication": true,
+      "analysis": "Contribution du collectif : variantes 1 / 2/2’ / 3 / 4, cinq associations soutenant STOP THT, observation naturaliste. Date d'en-tête incompatible avec constitution du collectif en 2023 ; cellule de 32 767 caractères ne garantit pas la totalité du PDF.",
+      "actor_ids": [
+        "actor_0001",
+        "actor_0003",
+        "actor_amiens1_011",
+        "actor_amiens1_012",
+        "actor_amiens1_013",
+        "actor_amiens1_014",
+        "actor_amiens1_015",
+        "actor_amiens1_016"
+      ]
+    },
+    {
+      "excel_row": 5,
+      "source_reference": "source_0009",
+      "publication_date": "2026-06-10",
+      "review_status": "position_update",
+      "find_date_not_publication": true,
+      "analysis": "Opposition tracé forestier et intention de recours futur ; majorité des personnes déjà dans le référentiel, ni recours déposé ni dommage forestier constaté.",
+      "actor_ids": [
+        "actor_0001",
+        "actor_0003",
+        "actor_0004",
+        "actor_0005",
+        "actor_0006",
+        "actor_0007",
+        "actor_0008"
+      ]
+    },
+    {
+      "excel_row": 6,
+      "source_reference": "source_0010",
+      "publication_date": "2026-06-03",
+      "review_status": "position_update",
+      "find_date_not_publication": true,
+      "analysis": "Francine et José Adam contestent une convention de passage ; explication RTE sur servitude et compensation. Prévision d'autorisation environnementale en 2027.",
+      "actor_ids": [
+        "actor_0004",
+        "actor_0005",
+        "actor_0019",
+        "actor_0025"
+      ]
+    },
+    {
+      "excel_row": 7,
+      "source_reference": "source_0027",
+      "publication_date": "2025-09-15",
+      "review_status": "duplicate_archive",
+      "find_date_not_publication": true,
+      "analysis": "Même sujet que lignes 3 et 11 ; la date de trouvaille 2026 ne constitue pas une publication nouvelle.",
+      "actor_ids": [
+        "actor_0001"
+      ]
+    },
+    {
+      "excel_row": 8,
+      "source_reference": "source_0018",
+      "publication_date": "2025-09-15",
+      "review_status": "historical_rte_interview",
+      "find_date_not_publication": true,
+      "analysis": "Cyril Wagner défend le besoin réseau et relativise les risques de collision pour le busard ; ses affirmations environnementales restent attribuées à RTE.",
+      "actor_ids": [
+        "actor_0028",
+        "actor_0019"
+      ]
+    },
+    {
+      "excel_row": 9,
+      "source_reference": "source_0019",
+      "publication_date": null,
+      "review_status": "historical_concertation",
+      "find_date_not_publication": true,
+      "analysis": "Notice ancienne sur les concertations de 2022–2023 et quatre scénarios ; ne pas reprendre la prévision de DUP 2029 comme actualité.",
+      "actor_ids": [
+        "actor_0026",
+        "actor_0019"
+      ]
+    },
+    {
+      "excel_row": 10,
+      "source_reference": "source_0013",
+      "publication_date": "2026-04-16",
+      "review_status": "new_roles_and_compensation",
+      "find_date_not_publication": true,
+      "analysis": "Réunion du 9 avril sur aides agricoles et la ligne ; Carine Bouvet, Xavier Rousset et Jean-Luc Becel nommés sans position propre.",
+      "actor_ids": [
+        "actor_amiens1_001",
+        "actor_amiens1_002",
+        "actor_amiens1_006",
+        "actor_amiens1_008",
+        "actor_amiens1_009",
+        "actor_amiens1_010"
+      ]
+    },
+    {
+      "excel_row": 11,
+      "source_reference": "source_0027",
+      "publication_date": "2025-09-15",
+      "review_status": "duplicate_archive",
+      "find_date_not_publication": true,
+      "analysis": "Réédition du même papier ICI de septembre 2025, déjà recensé lignes 3 et 7.",
+      "actor_ids": [
+        "actor_0001"
+      ]
+    },
+    {
+      "excel_row": 12,
+      "source_reference": "source_0028",
+      "publication_date": "2026-03-04",
+      "review_status": "agricultural_followup",
+      "find_date_not_publication": true,
+      "analysis": "Contestation du forfait au pylône ; orthographe « Porquet » dans l'extrait, « Porquier » dans les autres pièces vérifiées. Les exploitants ne refusent pas tous la ligne.",
+      "actor_ids": [
+        "actor_amiens1_002",
+        "actor_0014",
+        "actor_0012"
+      ]
+    },
+    {
+      "excel_row": 13,
+      "source_reference": "source_0011",
+      "publication_date": "2026-02-19",
+      "review_status": "new_agricultural_stakeholders",
+      "find_date_not_publication": true,
+      "analysis": "Délégation du 18 février, perte de chance et suspension des négociations ; sept acteurs agricoles identifiés et positions de la FDSEA/JA/Chambre actualisées.",
+      "actor_ids": [
+        "actor_amiens1_001",
+        "actor_amiens1_002",
+        "actor_amiens1_003",
+        "actor_amiens1_004",
+        "actor_amiens1_005",
+        "actor_amiens1_006",
+        "actor_amiens1_007"
+      ]
+    },
+    {
+      "excel_row": 14,
+      "source_reference": "source_0012",
+      "publication_date": "2025-06-23",
+      "review_status": "historical_agriculture",
+      "find_date_not_publication": true,
+      "analysis": "Réunions de Frucourt (23 juin) et Monchy-sur-Eu (24 juin) annoncées ; ne pas assimiler la programmation à un accord agricole.",
+      "actor_ids": [
+        "actor_0012",
+        "actor_0013",
+        "actor_0016",
+        "actor_0017"
+      ]
+    },
+    {
+      "excel_row": 15,
+      "source_reference": "source_0029",
+      "publication_date": "2025-08-14",
+      "review_status": "historical_public_inquiry",
+      "find_date_not_publication": true,
+      "analysis": "Avis annonçant l'enquête publique de septembre 2025 ; ne pas traiter comme enquête ouverte en novembre 2026.",
+      "actor_ids": [
+        "actor_0019",
+        "actor_0027"
+      ]
+    },
+    {
+      "excel_row": 16,
+      "source_reference": "source_0022",
+      "publication_date": null,
+      "review_status": "rolling_administrative_page",
+      "find_date_not_publication": true,
+      "analysis": "Fiche administrative évolutive, incluant des éléments techniques d'époque ; ne pas dater sa publication du jour où le fichier a été collecté.",
+      "actor_ids": [
+        "actor_0019",
+        "actor_0020",
+        "actor_0024"
+      ]
+    },
+    {
+      "excel_row": 17,
+      "source_reference": "source_0018",
+      "publication_date": null,
+      "review_status": "historical_2022_reporting",
+      "find_date_not_publication": true,
+      "analysis": "Compte rendu de la concertation initiale 2022 ; calendrier annoncé à l'époque (DUP prévue 2029) devenu caduc, corrigé par l'arrêté du 8 juin 2026.",
+      "actor_ids": [
+        "actor_0019",
+        "actor_0026"
+      ]
+    },
+    {
+      "excel_row": 18,
+      "source_reference": "source_0018",
+      "publication_date": null,
+      "review_status": "brief_paywalled_archive",
+      "find_date_not_publication": true,
+      "analysis": "Bref extrait sur le bus de concertation 2022, sans accès à l'article complet ; seules les communes et la démarche générale sont réutilisées.",
+      "actor_ids": [
+        "actor_0019"
+      ]
+    }
+  ],
+  "method": "Chaque ligne Excel relue et qualifiée ; dates de trouvaille séparées des dates de publication. Google News RSS n'est pas considéré comme source primaire lorsqu'une source éditoriale ou institutionnelle est disponible. Les extraits d'articles fermés et la cellule PDF de 32 767 caractères limitent l'exhaustivité ; aucun verbatim non présent n'est inventé. DUP 2026 prioritaire aux prévisions 2022–2025.",
+  "baseline": {
+    "actors": 53,
+    "positions": 29,
+    "relations": 75,
+    "evidence": 60,
+    "sources": 22,
+    "tabs": 1
+  },
+  "after": {
+    "actors": 69,
+    "positions": 45,
+    "relations": 91,
+    "evidence": 101,
+    "sources": 24,
+    "tabs": 5,
+    "griefs": 13,
+    "vigilance": 18,
+    "milestones": 18,
+    "facts": 10,
+    "timeline": 45,
+    "dated": 35,
+    "undated": 10
+  },
+  "new_actor_ids": [
+    "actor_amiens1_001",
+    "actor_amiens1_002",
+    "actor_amiens1_003",
+    "actor_amiens1_004",
+    "actor_amiens1_005",
+    "actor_amiens1_006",
+    "actor_amiens1_007",
+    "actor_amiens1_008",
+    "actor_amiens1_009",
+    "actor_amiens1_010",
+    "actor_amiens1_011",
+    "actor_amiens1_012",
+    "actor_amiens1_013",
+    "actor_amiens1_014",
+    "actor_amiens1_015",
+    "actor_amiens1_016"
+  ],
+  "updated_actor_ids": [
+    "actor_0001",
+    "actor_0003",
+    "actor_0004",
+    "actor_0005",
+    "actor_0006",
+    "actor_0007",
+    "actor_0008",
+    "actor_0009",
+    "actor_0012",
+    "actor_0014",
+    "actor_0016",
+    "actor_0018",
+    "actor_0019",
+    "actor_0022",
+    "actor_0025"
+  ],
+  "excluded_duplicates": [
+    3,
+    7,
+    11
+  ],
+  "uncertainties": [
+    "Contradiction interne sur la date exacte de contribution STOP THT : aucun jour retenu pour les associations nouvellement citées",
+    "Le texte de contribution PDF atteint la limite Excel de 32 767 caractères : la fin du document externe n'est pas présente dans le tableur",
+    "Publication brève ou paywall en ligne 18 : pas de déclaration d’acteur ajoutée",
+    "Le résultat de la rencontre préfectorale du 10 juillet n'est pas fourni",
+    "Intention d'action contentieuse ≠ recours enregistré",
+    "Des chiffres de compensation avancés par les parties prenantes ne constituent pas des contrats signés"
+  ]
+}
