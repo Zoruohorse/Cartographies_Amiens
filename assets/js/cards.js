@@ -1,5 +1,5 @@
 import{loadRepository,esc,norm,actorClaim,evidenceHtml,citationLinks,label}from'./data-loader.js?v=amiens-20261110';
-import { initEvolution } from './evolution.js?v=amiens-20261110';
+import { initEvolution } from './evolution.js?v=amiens-20261110b';
 const d=await loadRepository();
 const elements={title:document.getElementById('title'),subtitle:document.getElementById('subtitle'),notice:document.getElementById('notice'),categories:document.getElementById('categories'),stances:document.getElementById('stances'),count:document.getElementById('count'),grid:document.getElementById('grid'),search:document.getElementById('search'),reset:document.getElementById('reset'),detail:document.getElementById('detail'),dialog:document.getElementById('dialog')};
 let cat='all',stance='all',q='';
